@@ -1,0 +1,9 @@
+matplotlib
+nltk
+pandas
+regex
+regpyhdfe
+requests
+seaborn
+textstat
+wrds
