@@ -1,6 +1,6 @@
 # AFDEN Python Workship for Accounting and Finance Research
 ### Creator: <a href="https://www.unsw.edu.au/staff/leonard-leye-li" target="_blank">Leonard Leye Li</a> 
-### Edition: *2025 Sep* 
+### Edition: 2025 Sep 
 ---
 
 **Welcome to AFDEN Python Workship for Accounting and Finance Research**
@@ -69,7 +69,7 @@ By completing this tutorial, you will be able to:
 
 - Perform basic data analysis with sorting, grouping, and simple aggregations.
 
-- Integrate pandas workflows into larger Python projects.
+- Integrate `pandas` workflows into larger Python projects.
 
 Our class will be based on the [2-Pandas.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/2-Pandas.ipynb) file.
 
