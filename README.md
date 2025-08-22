@@ -47,7 +47,7 @@ By completing this module, you will be able to:
 
 - Integrate your knowledge by developing a simple chat bot that responds to user input.
 
-You can go through the [Intro to Python](./1-Intro to Python.ipynb) file before class.
+You can go through the [1-Intro to Python.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/1-Intro%20to%20Python.ipynb) file before class.
 
 ## 2. Data Science with Pandas
 
@@ -71,6 +71,7 @@ By completing this tutorial, you will be able to:
 
 - Integrate pandas workflows into larger Python projects.
 
+Our class will be based on the [2-Pandas.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/2-Pandas.ipynb) file.
 
 ## 3. WRDS with Python and Textual Analysis
 
