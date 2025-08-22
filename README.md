@@ -9,9 +9,9 @@
 
 Before our first session, please follow the steps below to set up the required Python environment on your computer.
 
-    The python version we use is 3.12, and the IDE I will use for demostration is VS Code. If you prefer other IDEs such as PyCharm or jupyter notebook, you are welcome to use the one you are familar with.
+The python version we use is 3.12, and the IDE I will use for demostration is VS Code. If you prefer other IDEs such as PyCharm or jupyter notebook, you are welcome to use the one you are familar with.
 
-    I set up the python environment using `uv`, which is fast and easy for begginers. If you have already known how to use `pip` or `conda` to set up your Python virtual environment, you can use your preferred method and ignore the following steps. Just make sure you have installed all the packages in [requirements file](./requirements.txt).
+I set up the python environment using `uv`, which is fast and easy for begginers. If you have already known how to use `pip` or `conda` to set up your Python virtual environment, you can use your preferred method and ignore the following steps. Just make sure you have installed all the packages in [requirements file](./requirements.txt).
 
 1. **Install `uv`**: See https://docs.astral.sh/uv/getting-started/installation/
     - If you are using Windows: open Command Prompt, type `winget install --id=astral-sh.uv  -e`
