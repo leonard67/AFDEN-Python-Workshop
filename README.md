@@ -29,6 +29,10 @@ I set up the python environment using `uv`, which is fast and easy for begginers
 ## 1. Introduction to Python Fundamentals in Research
 In this first module, we will quickly go through the Python Basics, from data types to control flows. This module is designed with beginners in mind. You will be introduced to the essential building blocks of Python, moving step by step from basic concepts to more practical applications. Along the way, you will practice coding through short examples and exercises. I will also share the functions that I frequently uesed in my own research such as list conprehension and lambda functions. By the end, you’ll put everything together in a fun project: building a simple chat bot.
 
+**Rrerequisite reading**
+
+You can go through the [1-Intro to Python.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/1-Intro%20to%20Python.ipynb) file before class.
+
 **Learning Outcomes**
 
 By completing this module, you will be able to:
@@ -47,11 +51,13 @@ By completing this module, you will be able to:
 
 - Integrate your knowledge by developing a simple chat bot that responds to user input.
 
-You can go through the [1-Intro to Python.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/1-Intro%20to%20Python.ipynb) file before class.
-
 ## 2. Data Science with Pandas
 
 `pandas` is the most useful Python library for data analysis in our research. In the second module, you will learn how to use `pandas` to handle data in tabular form. We will cover the fundamental operations needed to load data, explore it, clean it, and prepare it for further analysis. By the end, you’ll have the skills to manage real-world datasets and apply `pandas` to replicate a saminal paper.
+
+**Rrerequisite reading**
+
+Sloan, R. G. 1996. Do stock prices fully reflect information in accruals and cash flows about future earnings?. *The Accounting Review* 71(3): 289-315. [link](https://www.jstor.org/stable/248290)
 
 **Learning Outcomes**
 
@@ -69,7 +75,11 @@ By completing this tutorial, you will be able to:
 
 - Perform basic data analysis with sorting, grouping, and simple aggregations.
 
-- Integrate `pandas` workflows into larger Python projects.
+- Apply `matplotlib` and `seaborn` to construct foundational plots (line, bar, histogram, scatter, boxplots, heatmaps, pair plots) and customize elements such as axes, labels, legends, and styles.
+
+- Enhance clarity and impact of visualizations through effective use of color, scaling, and annotation.
+
+- Integrate `pandas` workflows into a Python project replicating a seminal academic paper.
 
 Our class will be based on the [2-Pandas.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/2-Pandas.ipynb) file.
 
