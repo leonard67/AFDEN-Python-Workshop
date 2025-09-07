@@ -31,7 +31,7 @@ In this first module, we will quickly go through the Python Basics, from data ty
 
 ### Rrerequisite reading
 
-You can go through the [1-1-Intro to Python.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/1-1-Intro%20to%20Python.ipynb) file before class.
+You can go through the [1-1-Intro to Python.ipynb](./1-1-Intro%20to%20Python.ipynb) file before class.
 
 ### Learning Outcomes
 
@@ -83,8 +83,34 @@ By completing this tutorial, you will be able to:
 
 - Integrate `pandas` workflows into a Python project replicating a seminal academic paper.
 
-Our class will be based on the [2-1-Pandas.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/2-1-Pandas.ipynb) and [2-2-Data Visualization.ipynb](https://github.com/leonard67/AFDEN-Python-Workshop/blob/main/2-2-Data%20Visualization.ipynb) files.
+Our class will be based on the [2-1-Pandas.ipynb](./2-1-Pandas.ipynb) and [2-2-Data Visualization.ipynb](./2-2-Data%20Visualization.ipynb) files.
 
-## 3. WRDS with Python and Textual Analysis
+## 3. WRDS with Python
 
-## 4. Empirical Methods in Python
+Access to high-quality financial and economic data is fundamental for empirical research in AccFin. The Wharton Research Data Services (WRDS) platform, which provides a gateway to a wide range of leading databases such as Compustat, CRSP and IBES, is the most commonly used data platform for AccFin empirical research. In this session, we will learn how to use the `wrds` Python package to connect programmatically to WRDS, query structured datasets, and efficiently download and manage data for analysis. The session emphasizes both the technical skills required for accessing large-scale databases and the research practices necessary to ensure data integrity, reproducibility, and efficiency in academic and applied settings.
+
+### Rrerequisite reading
+
+You can preview the [tutorial provided by WRDS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/querying-wrds-data-python/).
+
+### Learning Outcomes
+
+By the end of this class, you will be able to:
+
+- Understand the role of WRDS as a central platform for accessing accounting and financial datasets.
+
+- Establish a secure connection to WRDS using the wrds Python package.
+
+- Formulate and execute SQL queries within Python to retrieve specific datasets from WRDS.
+
+- Download and manage large datasets, including filtering, merging, and exporting for further analysis.
+
+- Integrate WRDS data with Python workflows, preparing it for use in packages such as `pandas` and `statsmodels`.
+
+- Apply best practices for reproducible research, including documenting queries and saving data pipelines.
+
+Our class will be based on the [3-1-WRDS with Python.ipynb](./3-1-WRDS%with%Python.ipynb) and [3-1o-SEC API.ipynb](./3-1o-SEC%API.ipynb) (optional) files.
+
+## 4. Textual Analysis
+
+
