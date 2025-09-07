@@ -23,7 +23,7 @@ I set up the python environment using `uv`, which is fast and easy for begginers
    - Python
 3. Download this Github repository to your local disk.   
    - Click the  green "<> Code" button and click "Download ZIP".
-   - Create a new folder on your computer and extra the ZIP file in that directory
+   - Create a new folder on your computer and extract the ZIP file in that directory
    - Open the directory using VS Code (or your IDE). In Terminal, run `uv sync`.
 
 ## 1. Introduction to Python Fundamentals in Research
