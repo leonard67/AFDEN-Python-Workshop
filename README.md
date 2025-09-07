@@ -109,7 +109,7 @@ By the end of this class, you will be able to:
 
 - Apply best practices for reproducible research, including documenting queries and saving data pipelines.
 
-Our class will be based on the [3-1-WRDS with Python.ipynb](./3-1-WRDS%with%Python.ipynb) and [3-1o-SEC API.ipynb](./3-1o-SEC%API.ipynb) (optional) files.
+Our class will be based on the [3-1-WRDS with Python.ipynb](./3-1-WRDS%20with%20Python.ipynb) and [3-1o-SEC API.ipynb](./3-1o-SEC%20API.ipynb) (optional) files.
 
 ## 4. Textual Analysis
 
