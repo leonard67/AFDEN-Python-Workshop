@@ -1,6 +1,6 @@
-# AFDEN Python Workship for Accounting and Finance Research
-### Creator: <a href="https://www.unsw.edu.au/staff/leonard-leye-li" target="_blank">Leonard Leye Li</a> 
-### Edition: 2025 Sep 
+**AFDEN Python Workship for Accounting and Finance Research**
+Creator: <a href="https://www.unsw.edu.au/staff/leonard-leye-li" target="_blank">Leonard Leye Li</a> 
+Edition: 2025 Sep 
 ---
 
 **Welcome to AFDEN Python Workship for Accounting and Finance Research**
@@ -149,6 +149,8 @@ By the end of this session, you will be able to:
 
 - Integrate textual analysis with empirical AccFin research, linking disclosure characteristics to firm fundamentals, market reactions, and regulatory outcomes.
 
+Our class will be based on the [4-1-Textual Analysis.ipynb](./4-1-Textual%20Analysis.ipynb) file.
+
 ## 5. Web Scraping
 
 In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web.
@@ -183,3 +185,4 @@ By the end of this session, you will be able to:
 
 - Integrate scraped data into empirical workflows, linking enforcement case information to firm fundamentals, stock market data, or textual analysis pipelines.
 
+Our class will be based on the [5-1-Web Scraping.ipynb](./5-1-Web%20Scraping.ipynb) file. We will also briefly introduce how to use API to access OpenAI's LLM models using [5-2-Using API.ipynb](./5-2-Using%20API.ipynb) if we have time.

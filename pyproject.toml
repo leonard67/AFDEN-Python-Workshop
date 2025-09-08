@@ -1,7 +1,7 @@
 [project]
 name = "afden-python-workshop"
-version = "0.1.0"
-description = "Add your description here"
+version = "2025.09"
+description = "Python Coding for Accounting and Finance Research. See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

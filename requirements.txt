@@ -1,9 +1,14 @@
+beautifulsoup4
 matplotlib
+nest-asyncio
 nltk
+openai
 pandas
+python-dotenv
 regex
 regpyhdfe
 requests
 seaborn
+secedgar
 textstat
 wrds
