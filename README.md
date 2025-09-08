@@ -59,7 +59,7 @@ By completing this module, you will be able to:
 
 ### Rrerequisite reading
 
-Sloan, R. G. 1996. Do stock prices fully reflect information in accruals and cash flows about future earnings?. *The Accounting Review* 71(3): 289-315. ([link](https://www.jstor.org/stable/248290))
+- Sloan, R. G. 1996. Do stock prices fully reflect information in accruals and cash flows about future earnings?. *The Accounting Review* 71(3): 289-315. ([link](https://www.jstor.org/stable/248290))
 
 ### Learning Outcomes
 
@@ -113,4 +113,73 @@ Our class will be based on the [3-1-WRDS with Python.ipynb](./3-1-WRDS%20with%20
 
 ## 4. Textual Analysis
 
+AccFin research nowadays is no longer limited to numerical disclosures and structual data. Textual data — such as Management Discussion & Analysis (MD&A) sections of 10-K filings, risk factor disclosures (RFD), and earnings call transcripts — provides rich information about firms’ strategies, risks, and performance, which provides many research opportunities.
+
+This session introduces you to textual analysis in Python, with a focus on two foundational tools:
+
+- Regular expressions (Regex): for identifying, extracting, and cleaning patterns in text, such as firm names, dates, or accounting phrases.
+
+- `textstat` package: for computing readability metrics, enabling systematic assessment of disclosure complexity and accessibility.
+
+You will learn how to process unstructured text, extract meaningful features, and generate empirical datasets that can be linked to financial and capital market outcomes. By the end of the course, you will have the skills to replicate influential studies in AccFin and apply textual analysis to your own projects.
+
+### Rrerequisite reading
+
+- Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
+
+You can also watch [the video by Corey Schafer (53 mins)](https://youtu.be/K8L6KVGG-7o?si=H83lHipbbrHELfXD) to comprehensively understand the concept of Regex in python before our class.
+
+### Learning Outcomes
+
+By the end of this session, you will be able to:
+
+- Understand the role of textual analysis in AccFin research, particularly how narrative disclosures affect investors, regulators, and other stakeholders.
+
+- Use Python’s `re` package to:
+
+    - Identify patterns such as financial terms, footnotes, and forward-looking statements.
+
+    - Clean raw disclosures by removing tables, formatting artifacts, and boilerplate text.
+
+- Apply the `textstat` package to compute readability measures (e.g., Fog Index, Flesch Reading Ease, Dale-Chall) and interpret their implications for disclosure transparency and investor comprehension.
+
+- Build reproducible pipelines that ingest a collection of text files (e.g., 10-K sections), extract features, and output structured datasets suitable for statistical analysis.
+
+- Critically evaluate limitations of readability metrics and preprocessing methods, and discuss best practices for textual analysis in academic contexts.
+
+- Integrate textual analysis with empirical AccFin research, linking disclosure characteristics to firm fundamentals, market reactions, and regulatory outcomes.
+
+## 5. Web Scraping
+
+In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web.
+
+This session introduces students to web scraping in Python as a tool to collect, clean, and analyze information from online sources. Using the SEC Accounting and Auditing Enforcement Releases (AAER) archive as our central case study, you will learn how to extract structured datasets from unstructured web pages, handling the unique challenges of financial text.
+
+The AAER example highlights both the opportunities (building novel datasets for empirical analysis) and responsibilities (respecting site terms, rate limits, and ethical research practices) that come with web scraping. By the end of the class, you will have practical skills for transforming online financial disclosures into research-ready data.
+
+### Rrerequisite reading
+
+- Karpoff, J. M., Koester, A., Lee, D. S., & Martin, G. S. (2017). Proxies and databases in financial misconduct research. *The Accounting Review* 92(6): 129-163. ([link](https://doi.org/10.2308/accr-51766))
+
+### Learning Outcomes
+
+By the end of this session, you will be able to:
+
+- Understand the role of web scraping in AccFin research, and identify cases where scraping is necessary to build novel datasets.
+
+- Apply Python libraries such as requests, BeautifulSoup, and pandas to:
+
+- Access web pages programmatically.
+
+- Parse HTML structures to locate relevant information.
+
+- Store results in clean, structured formats (e.g., CSV).
+
+- Implement scraping logic to handle pagination, nested links, and multiple fields (e.g., dates, respondents, release numbers, PDF links).
+
+- Practice responsible scraping by setting custom User-Agents, respecting rate limits, and following ethical/legal guidelines for automated data collection.
+
+- Clean and normalize extracted data, converting messy text into structured variables (e.g., extracting AAER numbers, release references, and “see also” links).
+
+- Integrate scraped data into empirical workflows, linking enforcement case information to firm fundamentals, stock market data, or textual analysis pipelines.
 
