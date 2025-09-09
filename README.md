@@ -1,13 +1,14 @@
-**AFDEN Python Workship for Accounting and Finance Research**
-Creator: <a href="https://www.unsw.edu.au/staff/leonard-leye-li" target="_blank">Leonard Leye Li</a> 
-Edition: 2025 Sep 
----
-
 **Welcome to AFDEN Python Workship for Accounting and Finance Research**
+
+Creator: [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li)
+
+Edition: 2025 Sep
+
+---
 
 ## 0. Python Environment Setup
 
-Before our first session, please follow the steps below to set up the required Python environment on your computer.
+Before our first session, please follow the steps to set up the required Python environment on your computer.
 
 The python version we use is 3.12, and the IDE I will use for demostration is VS Code. If you prefer other IDEs such as PyCharm or jupyter notebook, you are welcome to use the one you are familar with.
 
@@ -17,7 +18,7 @@ I set up the python environment using `uv`, which is fast and easy for begginers
     - If you are using Windows: open Command Prompt, type `winget install --id=astral-sh.uv  -e`
     - If you are using Mac OS: open Terminal, type `wget -qO- https://astral.sh/uv/install.sh | sh`
     - To check if `uv` is successfully installed, type `uv --version`
-2. **Install VS Code** from https://code.visualstudio.com. In VS Code, Install the following Extensions (one the left column):
+2. **Install VS Code** from https://code.visualstudio.com. In VS Code, Install the following Extensions (on the left column):
    - Data Wrangler
    - Jupyter
    - Python
@@ -25,6 +26,8 @@ I set up the python environment using `uv`, which is fast and easy for begginers
    - Click the  green "<> Code" button and click "Download ZIP".
    - Create a new folder on your computer and extract the ZIP file in that directory
    - Open the directory using VS Code (or your IDE). In Terminal, run `uv sync`.
+
+If you also want to learn how to use `conda` and some basic concepts of Python modules and packages, I encourage you to take [the course by ANACONDA (1 hour)](https://learning.anaconda.com/courses/get-started-with-anaconda).
 
 ## 1. Introduction to Python Fundamentals in Research
 In this first module, we will quickly go through the Python Basics, from data types to control flows. This module is designed with beginners in mind. You will be introduced to the essential building blocks of Python, moving step by step from basic concepts to more practical applications. Along the way, you will practice coding through short examples and exercises. I will also share the functions that I frequently uesed in my own research such as list conprehension and lambda functions. By the end, you’ll put everything together in a fun project: building a simple chat bot.
