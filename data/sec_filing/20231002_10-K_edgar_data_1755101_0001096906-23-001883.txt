@@ -1,0 +1,1557 @@
+<Header>
+<FileStats>
+    <FileName>20231002_10-K_edgar_data_1755101_0001096906-23-001883.txt</FileName>
+    <GrossFileSize>3098992</GrossFileSize>
+    <NetFileSize>95429</NetFileSize>
+    <NonText_DocumentType_Chars>678620</NonText_DocumentType_Chars>
+    <HTML_Chars>692618</HTML_Chars>
+    <XBRL_Chars>626975</XBRL_Chars>
+    <XML_Chars>940957</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001096906-23-001883.hdr.sgml : 20231002
+<ACCEPTANCE-DATETIME>20231002170917
+ACCESSION NUMBER:		0001096906-23-001883
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20231002
+DATE AS OF CHANGE:		20231002
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPlife Digital Solutions Inc
+		CENTRAL INDEX KEY:			0001755101
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				824868628
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56144
+		FILM NUMBER:		231300593
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 CALIFORNIA ST
+		STREET 2:		SUITE 1500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		4154395260
+
+	MAIL ADDRESS:	
+		STREET 1:		50 CALIFORNIA ST
+		STREET 2:		SUITE 1500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+</SEC-Header>
+</Header>
+
+ 0001096906-23-001883.txt : 20231002
+
+10-K
+ 1
+ alds-20230630.htm
+ APPLIFE DIGITAL SOLUTIONS INC. - FORM 10-K SEC FILING
+
+APPLIFE DIGITAL SOLUTIONS INC. - Form 10-K SEC filing 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ FORM 
+ 
+ Annual report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the fiscal year ended 
+
+OR 
+ 
+ Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ 
+ Commission File Number 
+
+(Name of small business issuer in its charter) 
+
+(State of incorporation) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, 
+ , 
+ ) 
+ 1 ) 
+ ) 
+ 
+ SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: 
+ NONE 
+ 
+ SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: 
+ COMMON STOCK, 0.001 PAR VALUE PER SHARE 
+ (Title of class) 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is large accelerated filer, an accelerated filer, a , smaller reporting company, or an emerging growth company. See definition of large accelerated filer, accelerated filer smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act: 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ (Do not check if a smaller reporting company) 
+ 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ The aggregate market value of the voting and non-voting common equity held by non-affiliates as of the most recently completed second fiscal quarter was approximately . 
+ 
+ As of October 2, 2023, a total of shares of our common stock were outstanding. 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+ 
+ INDEX TO ANNUAL REPORT ON FORM 10-K 
+ 
+ PART I 
+ 4 
+ 
+ ITEM 1. Business 
+ 4 
+ 
+ ITEM 1A. Risk Factors 
+ 6 
+ 
+ ITEM 2. Properties 
+ 6 
+ 
+ ITEM 3. Legal Proceedings 
+ 7 
+ 
+ ITEM 4. Mine Safety Disclosure 
+ 7 
+
+PART II 
+ 7 
+ 
+ ITEM 5. Market For Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 7 
+ 
+ ITEM 6. Selected Financial Data 
+ 7 
+ 
+ ITEM 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 7 
+ 
+ ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 14 
+ 
+ ITEM 8. Financial Statements 
+ 14 
+ 
+ ITEM 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 15 
+
+PART III 
+ 16 
+ 
+ ITEM 10. Directors, Executive Officers and Corporate Governance 
+ 16 
+ 
+ ITEM 11. Executive Compensation 
+ 18 
+ 
+ ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 18 
+ 
+ ITEM 13. Certain Relationships and Related Transactions, and Director Independence 
+ 19 
+ 
+ ITEM 14. Principal Accountant Fees and Services 
+ 19 
+
+PART IV 
+ 20 
+ 
+ ITEM 15. Exhibits, Financial Statement Schedules . 
+ 20 
+ 
+ SIGNATURES 
+ 20 
+
+FORWARD LOOKING INFORMATION 
+ MAY PROVE INACCURATE 
+ 
+ THIS ANNUAL REPORT ON FORM 10-K CONTAINS CERTAIN FORWARD-LOOKING STATEMENTS AND INFORMATION RELATING TO US THAT ARE BASED ON THE BELIEFS OF MANAGEMENT, AS WELL AS ASSUMPTIONS MADE BY AND INFORMATION CURRENTLY AVAILABLE TO US. WHEN USED IN THIS DOCUMENT, THE WORDS ANTICIPATE, BELIEVE, ESTIMATE, SHOULD, PLAN, AND EXPECT AND SIMILAR EXPRESSIONS, AS THEY RELATE TO US, ARE INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. SUCH STATEMENTS REFLECT OUR CURRENT VIEWS WITH RESPECT TO FUTURE EVENTS AND ARE SUBJECT TO CERTAIN RISKS, UNCERTAINTIES AND ASSUMPTIONS, INCLUDING THOSE DESCRIBED IN THIS ANNUAL REPORT ON FORM 10-K. SHOULD ONE OR MORE OF THESE RISKS OR UNCERTAINTIES MATERIALIZE, OR SHOULD UNDERLYING ASSUMPTIONS PROVE INCORRECT, ACTUAL RESULTS MAY VARY MATERIALLY FROM THOSE DESCRIBED HEREIN AS ANTICIPATED, BELIEVED, ESTIMATED, PLANNED OR EXPECTED. WE DO NOT INTEND TO UPDATE THESE FORWARD-LOOKING STATEMENTS. 
+ 
+ 3 
+
+PART I 
+ 
+ ITEM 1. Business 
+ 
+ Nature of Operations and Going Concern 
+ 
+ APPlife Digital Solutions, Inc. (the Company was formed March 5, 2018, in Nevada and has offices in San Francisco, California and Shanghai, China. Our office in San Francisco, California allows us to take advantage of the marketing opportunities available in the United States as well as keeping close proximity to sources of capital whether it is debt or equity. Our offices in Shanghai, China allows us to take advantage of a high concentration of skilled tech coders and developers at lower capital costs than in more developed countries such as the United States or Europe. The Company s mission is using digital technology to create APPs and websites that make life, business and living easier, more efficient and just smarter. 
+ 
+ We are a development stage company with a limited operating history, operations, and revenues and we will need to raise capital to implement our planned operations. If we are unable to do so, an entire investment in our stock could be lost. 
+ 
+ The Company anticipates that it would need a minimum of approximately 1,500,000 over the next 12 months to continue as a going concern and bring the Company s ecommerce and/or cloud-based businesses to market and generate revenue within that time frame. Specifically, in order for the Company to fully implement its plans to create apps and spend the necessary marketing expenditures for them we will need: (1) 750,000 for marketing expenses, (2) 500,000 for general administration and overhead expenses, (3) 180,000 for legal and accounting expenses, and (3) 70,000 for developers and engineers and app and server maintenance expenses. If we are not able to raise enough funds, we may be forced to look for capital through debt or equity, which would dilute our common stockholders. 
+ 
+ Products 
+ 
+ As of the period from inception, through today s date, we have generated limited revenue and incurred expenses and operating losses, as part of our developmental stage activities in developing three apps, B2BCHX, ROOSTER and Office Hop. B2BCHX is our first fully developed app/mobile website that was available in iTunes App Store and Google Play and a formerly functioning ecommerce website. B2BCHX allows business owners around the world to order three levels of background checks on Chinese companies to prevent fraudulent business transactions. The retail price for each report is 79, 399 and 1,299. The model is not currently marketing for new customers as the laws in China that allowed the attorney partnership, we have in place to record information about Chinese companies and distribute overseas, has been suspended temporarily. 
+ 
+ ROOSTER ESSENTIALS ecommerce website, mobile website. After creating a reactive mobile web-based platform, the value of the apps for this model disappeared and we cut o our losses quickly by removing the apps. The website developed and launched BETA operations in the third quarter of fiscal year 2020 and launched its full commercial operations in the second quarter of 2022. ROOSTER ESSENTIALS is an online men s grooming supply store, and it allows men to fully customize which products they receive and set up an auto-delivery schedule for each product for automatic recurring delivery. ROOSTER ESSENTIALS currently carries over 200 products from over 80 brands. We anticipate the sources of revenue will come from product purchases, advertising, and sponsorships. 
+ 
+ OFFICE HOP entered beta testing in the fourth quarter of 2021 and is now fully functional as of January 2022. We believe OFFICE HOP fits perfectly into the needs of the post Covid working world, where short-term offices and meeting rooms will be in high demand. The OFFICE HOP model is like Airbnb for short term shared or private office space and meeting rooms. Those offices that have an extra office, shared desk, an empty meeting room or conference room may list the space and act as a host for a user. Those users in need of a short-term shared desk, meeting room or private office may locate one on our platform and rent it out for use as needed by the hour, half day, full day, week or month. We will also offer access to creative spaces such as photo studios and pop-up art galleries and will offer restaurants with private rooms a way to rent out the space with a menu included for group or lunch meetings. The revenue is expected to come from the 10-15 service fee charged to Users for finding and making a transaction with one of our listed properties. The platform is global. We will begin operations in North America and Europe and then 
+ 4 
+ 
+ eventually operate in South America and Asia. This launch was delayed due to capital needs, but the model is operational and can be taken to market quickly upon financing from our effective equity line of credit. 
+ Global Hemp Services LLC is a low risk and low-cost participation in the fast-growing Hemp and CBD market space. We have licensed out our fully functional ecommerce platform in exchange for a 15 equity position and 2.5 revenue share, with exclusive rights to purchase an additional 36 of the equity (for a total of 51 upon reaching revenue benchmarks. Global Hemp Services LLC distributes Hemp and CBD products globally, including Hemp based building materials, textiles, plastics, paper, personal care items and various CBD products. They will distribute wholesale to shops and stores and retail directly to consumers. The model is starting to form a marketplace and as the interest in Hemp and Hemp products escalates, the website is seeing more activity. We expect good things in the fiscal year 2024 from GHS. 
+ Lollipop NFT will have a new name and will now be known as Valida. We have changed the model initially presented for Lollipop. Formerly an online marketplace, consignment store, creator platform, and wallet, it is now intended to be what we call a super wallet. It is non-custodial and will be able to be connected through API directly to various marketplaces of the user s choice. We will focus on storing and sharing of NFTs that represent practical use. For example, we will focus on Driver s licenses, Diplomas, Real Estate escrow documents and title. The storage and ability to reference these valuable NFT documents as well as collections of NFT for storage will be available as the core model. The wallet will be a digital wallet, with cold storage for security. Once completed the system code will be audited by a third-party auditor and there will be multiple security daemons to monitor account login and asset transfers to protect the user. We have completed the design and preliminary development phase of this project, but have not yet begun writing the code. We plan to use the Polygon blockchain to create the wallet and have also lined up tech support with Polygon. We anticipate having a cold wallet system that allows the users to transfer between storage and active modes and plan to include 2FA, fingerprint and/or facial recognition technology. We plan to have multiple additional security daemons that review account holdings and prevent unauthorized transfers and withdrawals, however we may be liable for any cybersecurity breach resulting in the loss of customer assets. We plan to have multiple additional security daemons that review account holdings and prevent unauthorized transfers and withdrawals. The main focus of our user base will be practical use NFTs. We believe this is the future best use scenario for NFTs. This is what we believe will set us apart from those systems designed to buy and sell digital art and items that may be considered securities. We expect users to store their important documents and certifications in files. An example is we will allow universities to bulk upload diplomas into the system that will be an image of the certificate with the graduate s name in place. The Meta Data will show in a border area that discloses the name of the University, the degree, date of issue and an official University stamp. The User will have the option of receiving the NFT version by registering and then using a code provided by the school to download the diploma NFT into the wallet. This would also apply to Driver s licenses issued by State DMVs, Real Estate Broker licenses, Wills and other important legal documents, Escrow or Title paperwork. We are not intending on blocking people from storing other types of NFTs, but our format and storage UI is not appealing to those collecting digital art. Our interface will resemble a windows filing system. It is tailored to cater to file storage for the practical use type. 
+ 
+ Our DRINX project is in early stage of development, and we believe the beta version will be ready by the fourth quarter of fiscal year 2024. DRINX app allows anyone to purchase a virtual drink ticket anywhere and at any time for friends and colleagues. We anticipate the sources of revenue will come from advertising and sponsorships from alcohol companies promoting products on the app, user fee of 0.99 to send each drink and discounts provided by the bars and restaurants for purchases made by the app. 
+ 
+ Competition 
+ 
+ Although there are countless app and website developers and companies out there, we believe we have advantages over competitors. First our dual location of offices. Our business, management and marketing based in the U.S and our development team is located in Shanghai. Our creative team works in both places. Access to talent at a much more reasonable cost in Shanghai allows flexibility and that allows creativity to be explored more freely and makes completing projects with new or unique features much more likely. We can also finish faster and for less money and then focus dollars on marketing and obtaining customers. Second, our planned access to investment capital and filing to trade as a public company will allow us to not only build and develop our own concepts and ideas like any other app development company, but we will also be able to explore opportunities to invest in and participate in the growth 
+ 5 
+ 
+ and development of other companies that are not our own in-house projects, which will hopefully give us the advantage of accelerated growth. 
+ 
+ Marketing Strategy 
+ 
+ Our marketing strategy is carefully built and tailored for each of our individual projects. Multiple projects in varying industries allows us to cast a wide net in attracting customers from different marketplaces globally. 
+ 
+ Our completed project B2BCHX will be marketed as an anti-fraud or fraud prevention service when doing business with a Chinese company. The Company believes that globally, clients of Chinese businesses have no way to verify information or do a background check in a cost-effective way. B2BCHX helps prevent fraud by providing customers with a background check in an inexpensive, easy to read, one-page report. They can use the information for confidence when sending money, to verify what they have been told by the company staff or to try to track down a company that has not fulfilled the obligations to the customer. 
+ 
+ The variations on the types of businesses we can develop allows our product to be sold across multiple market spaces. We are not limited to a single market or model. 
+ 
+ The strategic partnerships with each of our individual in house projects are invaluable. For our Drinx app, which we plan to launch its Alpha version in the fall of 2023, Beta by winter 2024, and commercial launch in Spring 2024, we have collaborated with a well-known, long term New York City restaurateur and club owner, Lesly Bernard. His knowledge and market experience will allow New York City to be our base city in the Drinx service and expand from there. Bernard will consult and advise on the development of the look and feel of the app and will participate in the launch of the app in each city. He will lead project management and will be active in the marketing of the service. In exchange for his time and efforts, Bernard has agreed to take a minority equity position in the Drinx app. We are negotiating to bring in additional brand ambassadors and influencers including Natalia Bruschi. 
+ 
+ We have also engaged an IR/PR team to help create marketing campaigns and create editorial content for each of our businesses as we launch. And soon OfficeHop and have paused the marketing campaign for B2BCHX to allow global factory orders to re-establish themselves post pandemic. We are currently in a soft launch of Rooster using with a well-timed and placed marketing campaign and plan to re-ignite the B2BCHX model and launch OfficeHop this fall. 
+ 
+ Employees 
+ 
+ We currently have one full time employee who does have a formal employment agreement. Matt Reid is technically the only employee of the Company, and he resides in Shanghai, China, in order to manage the independent contractor teams of developers the Company hires. We have an attorney in Shanghai engaged to help us with the contracts and negotiations with developers and other similar items. We have multiple independent contractor team members for the Company that live and work in the US who make up our business management and executive teams. They do not operate in China, and we generate no revenue in China. Our independent contractors fill positions such as Chief Legal Officer, Executive Project Director, Accountant and Investor relations manager and are all located in New York. Our Director of Marketing, PR agent and multiple lower-level independent contractors reside and work in California. None of the operating business models we have are generating any revenue from Chinese based businesses. Currently 100 of our revenue comes from an ecommerce platform servicing US customers and there are no current plans to buy or develop any new Chinese based business models. 
+ 
+ ITEM 1A. Risk Factors 
+ 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ 
+ ITEM 2. Properties 
+ 
+ We do not own any property, nor do we have any contracts or options to acquire any property in the future. Presently, we are operating out of a virtual office. This space is adequate for our present and our planned future operations. We 
+ 6 
+ 
+ currently pay 278 per month for use of this space. We have no current plans to occupy other or additional office space. 
+ 
+ ITEM 3. Legal Proceedings 
+ 
+ We know of no material, existing or pending legal proceedings against our company, nor are we involved as a plaintiff in any material proceeding or pending litigation. There are no proceedings in which our director, officer or any affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our interest. 
+ 
+ ITEM 4. Mine Safety Disclosure 
+ 
+ Not Applicable. 
+ 
+ PART 1I 
+ 
+ ITEM 5. Market For Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ Market Information 
+ 
+ Prices for our common stock are quoted on OTC Markets under the symbol ALDS. There were 150,543,635 shares of our common stock outstanding as of October 2, 2023. 
+ 
+ Security Holders 
+ 
+ As of October 2, 2023, there were approximately fifty-six (56) record holders of our common stock. 
+ 
+ Dividends 
+ 
+ We have not paid dividends during the three most recently completed fiscal years and have no current plans to pay dividends on our common stock. We currently intend to retain all earnings, if any, for use in our business. 
+ 
+ Recent Sales and Other Issuances of Our Equity Securities 
+ 
+ None. 
+ 
+ ITEM 6. Selected Financial Data 
+ 
+ Not Applicable. 
+ 
+ ITEM 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion of our plan of operation should be read in conjunction with the financial statements and related notes that appear elsewhere in this prospectus. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those discussed in Risk Factors beginning on page 18 of this prospectus. All forward-looking statements speak only as of the date on which they are made. We undertake no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they are made. 
+ 
+ Overview 
+ 
+ APPlife Digital Solutions, Inc. (the Company was formed March 5, 2018, in Nevada and has offices in San Francisco, California and Shanghai, China. Our office in San Francisco, California allows us to take advantage of the marketing opportunities available in the United States as well as keeping close proximity to sources of capital whether 
+ 7 
+ 
+ it is debt or equity. Our offices in Shanghai, China allows us to take advantage of a high concentration of skilled tech coders and developers at lower capital costs than in more developed countries such as the United States or Europe. The Company s mission is using digital technology to create and invest in eCommerce and Cloud based businesses that make life, business and living easier, more efficient, and just smarter. 
+ 
+ Plan of Operation 
+ 
+ Our marketing and business management/executive team will operate from both Shanghai China and our offices in San Francisco. Matt Reid is technically the only employee of the Company, and he resides in Shanghai, China, in order to manage the independent contractor teams of developers the Company hires. We have an attorney in Shanghai engaged to help us with the contracts and negotiations with developers and other similar items. We have multiple independent contractor team members for the Company that live and work in the US who make up our business management and executive teams. They do not operate in China, and we generate no revenue in China. Our independent contractors fill positions such as Chief Legal Officer, Executive Project Director, Accountant and Investor relations manager and are all located in New York. Our Director of Marketing, PR agent and multiple lower-level independent contractors reside and work in California. None of the operating business models we have are generating any revenue from Chinese based businesses. Currently 100 of our revenue comes from an ecommerce platform servicing US customers and there are no current plans to buy or develop any new Chinese based business models. 
+ 
+ We will continue to explore new concepts and opportunities to invest in projects that meet our criteria We have incurred expenses and operating losses, as part of our activities in developing e-commerce platforms, B2BCHX, OFFICEHOP, ROOSTER ESSENTIALS, Valida and Global Hemp Service LLC. The capital we raise will go into marketing, acquisitions, and revenue generation. We believe this will take our vision forward and to the next level. 
+ 
+ The APPlife Digital Solutions business model is two-fold. First, is to market our current in-house developed projects ecommerce and cloud based business over the next year, work to add partnerships and to add additional in-house developed projects including We plan to engage multiple resources such as adding staff, create partnerships, and as capital becomes available, to market and grow revenue. 
+ 
+ The second, but equally important part of our business model is to target acquisitions and projects that can be assisted by our marketing and capitalization capabilities where we can play an active role in the project s success and make the acquisitions to add to our revenue stream. We seek acquisition targets that have a model that fits our vision and area of interest, is currently generating revenue with room for growth and a strong management team that will stay on board and continue to operate the entity post-acquisition. We have signed an asset purchase agreement to buy the assets around the operations of an online beauty company with revenue. 
+ 
+ Our current projects: 
+ 
+ B2BCHX is our first fully developed app that is available in Google Play and a functioning ecommerce and mobile website. B2BCHX allows business owners around the world to order three levels of background checks in English on Chinese companies to prevent fraudulent business transactions, to gather information in order to gain confidence when doing business with a Chinese entity or to pursue legal remedy against fraudulent Chinese Company. The reports are researched and written by a licensed law firm in Shanghai China in a partnership agreement with B2BCHX. These reports are not auto generated and are carefully researched to give our users the most accurate information. The retail price for each report is 79, 399 and 1299. The partnership with the law firm is on a 20 revenue share, which leaves B2BCHX an 80 per report profit margin to cover development expenses, maintenance and profit. We are waiting for a temporary law change that will allow the attorney to send information on Chinese entities overseas. 
+ 
+ ROOSTER ESSENTIALS ecommerce website, has been operations in the third quarter of fiscal year 2020 and launched its full commercial operations in the second quarter of 2022. ROOSTER ESSENTIALS is an online men s grooming supply store, and it allows men to fully customize which products they receive and set up an auto-delivery schedule for each product for automatic recurring delivery. ROOSTER ESSENTIALS currently carries over 200 products from over 80 brands. We anticipate the sources of revenue will come from purchases, advertising and sponsorships. 
+ 
+ 8 
+ 
+ OFFICE HOP entered beta testing in the fourth quarter of 2021 and is now fully functional.. We believe OFFICE HOP fits perfectly into the needs of the post Covid working world, where short-term offices and meeting rooms will be in high demand. The OFFICE HOP model is like Airbnb for short term shared or private office space and meeting rooms. Those offices that have an extra office, shared desk, an empty meeting room or conference room may list the space and act as a host for a user. Those users in need of a short-term shared desk, meeting room or private office may locate one on our platform and rent it out for use as needed by the hour, half day, full day, week or month. We will also offer access to creative spaces such as photo studios and pop-up art galleries and will offer restaurants with private rooms a way to rent out the space with a menu included for group or lunch meetings. The revenue is expected to come from the 10-15 service fee charged to Users for finding and making a transaction with one of our listed properties. The platform is global. We will begin operations in North America and Europe and then eventually operate in South America and Asia. 
+ 
+ Global Hemp Services LLC is a low risk and low-cost participation in the fast growing Hemp and CBD market space. We have licensed out our fully functional ecommerce platform in exchange for a 15 equity position and 2.5 revenue share, with exclusive rights to purchase an additional 36 of the equity (for a total of 51 upon reaching revenue benchmarks. Global Hemp Service LLC distributes Hemp and CBD products globally, including Hemp based building materials, textiles, plastics, paper, personal care items and various CBD products. They will distribute wholesale to shops and stores and retail directly to consumers. 
+ 
+ Lollipop NFT will have a new name and will now be known as Valida. We have changed the model initially presented for Lollipop. Formerly an online marketplace, consignment store, creator platform, and wallet, it is now intended to be what we call a super wallet. It is non-custodial and will be able to be connected through API directly to various marketplaces of the user s choice. We will focus on storing and sharing of NFTs that represent practical use. For example, we will focus on Driver s licenses, Diplomas, Real Estate escrow documents and title. The storage and ability to reference these valuable NFT documents as well as collections of NFT for storage will be available as the core model. The wallet will be a digital wallet, with cold storage for security. Once completed the system code will be audited by a third-party auditor and there will be multiple security daemons to monitor account login and asset transfers to protect the user. We have completed the design and preliminary development phase of this project, but have not yet begun writing the code. We plan to use the Polygon blockchain to create the wallet and have also lined up tech support with Polygon. We anticipate having a cold wallet system that allows the users to transfer between storage and active modes and plan to include 2FA, fingerprint and/or facial recognition technology. We plan to have multiple additional security daemons that review account holdings and prevent unauthorized transfers and withdrawals, however we may be liable for any cybersecurity breach resulting in the loss of customer assets. We plan to have multiple additional security daemons that review account holdings and prevent unauthorized transfers and withdrawals. The main focus of our user base will be practical use NFTs. We believe this is the future best use scenario for NFTs. This is what we believe will set us apart from those systems designed to buy and sell digital art and items that may be considered securities. We expect users to store their important documents and certifications in files. An example is we will allow universities to bulk upload diplomas into the system that will be an image of the certificate with the graduate s name in place. The Meta Data will show in a border area that discloses the name of the University, the degree, date of issue and an official University stamp. The User will have the option of receiving the NFT version by registering and then using a code provided by the school to download the diploma NFT into the wallet. This would also apply to Driver s licenses issued by State DMVs, Real Estate Broker licenses, Wills and other important legal documents, Escrow or Title paperwork. We are not intending on blocking people from storing other types of NFTs, but our format and storage UI is not appealing to those collecting digital art. Our interface will resemble a windows filing system. It is tailored to cater to file storage for the practical use type. 
+ 
+ Our DRINX project is in early stage of development and we believe the beta version will be ready by the second quarter of fiscal year 2024. DRINX app allows anyone to purchase a virtual drink ticket anywhere and at any time for friends and colleagues. We anticipate the sources of revenue will come from advertising and sponsorships from alcohol companies promoting products on the app, user fee of 0.99 to send each drink and discounts provided by the bars and restaurants for purchases made by the app. 
+ 9 
+
+Results of Operations 
+ 
+ Revenue 
+ 
+ For the years ended June 30, 2023 and 2022, we generated revenues of 46,879 and 28,162, respectively. The Company has been in the process of marketing and developing its apps, hiring developers and coders, incurring professional fees for registering its common stock and identifying other apps and partnerships to generate revenues as the Company expands its operations. 
+ 
+ Operating Loss 
+ 
+ For the years ended June 30, 2023 and 2022, we had an operating loss of 3,130,998 and 3,010,159, respectively. The operating loss was due primarily to stock compensation to the CEO of 1,425,761, professional, consulting and legal fees of 698,888 and other stock compensation of 437,721. 
+ 
+ Other Income/Expense 
+ 
+ For the years ended June 30, 2023 and 2022, we had other expenses, net of 365,575 and 530,941, respectively. The decrease was primarily due to the 274,919 gain on change in the fair value of the derivative liability. (Note 8 to the Consolidated Financial Statements). 
+ 
+ Net loss 
+ 
+ We reported a net loss of 3,496,573 and 3,541,100 for the years ended June 30 , 2023 and 2022 , respectively. The net loss for the years ended June 30 , 2023 and 2022 included noncash expenses of 2,646,230 and 2,518,287, respectively. 
+ 
+ Working Capital Deficit 
+
+June 30, 2023 
+
+June 30, 2022 
+ 
+ Current assets 
+ 
+ 158,264 
+
+261,471 
+ 
+ Current liabilities 
+ 
+ 1,442,548 
+
+980,329 
+ 
+ Working capital (deficit) 
+ 
+ (1,284,284) 
+
+(718,858) 
+
+We anticipate generating losses and, therefore, may be unable to continue operations in the future. If we require additional capital, we will have to issue debt or equity or enter into a strategic arrangement with a third party. The current liabilities of 1,442,548 include 1,004,846 of derivative liabilities which relate to the convertible notes payable and stock options. Upon exercise of the stock options and settlement of notes payable, the derivative liability will be reclassified as equity. 
+ 
+ Going Concern 
+ 
+ As reflected in the accompanying consolidated financial statements, the Company has minimal revenue generating operations and has an accumulated deficit of 16,874,404 and 13,377,831 as of June 30 , 2023 and 2022, respectively . In addition, the Company has experienced negative cash flows from operations since inception. This raises substantial doubt about its ability to continue as a going concern. The ability of the Company to continue as a going concern is dependent on the Company s ability to raise additional capital and implement its business plan. The consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+ 
+ The Company anticipates additional equity financing to fund operations in the future. Should management fail to adequately address the issue, the Company may have to reduce its business activities or curtail its operations. 
+ 
+ 10 
+
+Liquidity and Capital Resources 
+ 
+ Year Ended 
+ June 30, 2023 
+ 
+ Year Ended 
+ June 30, 2022 
+ 
+ Net Cash Used in Operating Activities 
+ 
+ (677,614) 
+
+(884,412) 
+ 
+ Net Cash Provided by Financing Activities 
+ 
+ 546,000 
+
+823,572 
+ 
+ Net Decrease in Cash 
+ 
+ (131,614) 
+
+(60,840) 
+
+Our cash balance was 57,619 on June 30, 2023. We recorded a net loss of 3,496,573 for the year ended June 30, 2023 . We expect our expenses will continue to increase during the foreseeable future as a result of increased operations and the development of our apps and business operations. We anticipate generating revenues with our B2BCHX app, but only minimal revenues for our other apps over the next twelve months. Consequently, we are dependent on the proceeds from future debt or equity investments to sustain our operations and implement our business plan. If we are unable to raise sufficient capital, we will be required to delay or forego some portion of our business plan, which would have a material adverse effect on our anticipated results from operations and consolidated financial condition. There is no assurance that we will be able to obtain necessary amounts of capital or that our estimates of our capital requirements will prove to be accurate. 
+ 
+ We presently do not have any significant credit available, bank financing or other external sources of liquidity. Due to our operating losses, our operations have not been a source of liquidity. We will need to obtain additional capital in order to expand operations and become profitable. In order to obtain capital, we may need to sell additional shares of our common stock or borrow funds from private lenders. There can be no assurance that we will be successful in obtaining additional funding. 
+ 
+ To the extent that we raise additional capital through the sale of equity or convertible debt securities, the issuance of such securities may result in dilution to existing stockholders. If additional funds are raised through the issuance of debt securities, these securities may have rights, preferences and privileges senior to holders of common stock and the terms of such debt could impose restrictions on our operations. Regardless of whether our cash assets prove to be inadequate to meet our operational needs, we may seek to compensate providers of services by issuance of stock in lieu of cash, which may also result in dilution to existing shareholders. Even if we are able to raise the funds required, it is possible that we could incur unexpected costs and expenses, fail to collect significant amounts owed to us, or experience unexpected cash requirements that would force us to seek alternative financing. 
+ 
+ No assurance can be given that sources of financing will be available to us and/or that demand for our equity/debt instruments will be sufficient to meet our capital needs, or that financing will be available on terms favorable to us. If funding is insufficient at any time in the future, we may not be able to take advantage of business opportunities or respond to competitive pressures or may be required to reduce the scope of our planned marketing efforts and development of our apps, any of which could have a negative impact on our business and operating results. In addition, insufficient funding may have a material adverse effect on our financial condition, which could require us to: 
+ 
+ Curtail the development of our apps, 
+ Seek strategic partnerships that may force us to relinquish significant rights to our apps, or 
+ Explore potential mergers or sales of significant assets of our Company. 
+ 
+ Operating Activities 
+ 
+ During the year ended June 30, 2023, cash used in the Company s operating activities amounted to 677,614 mainly composed of the Company s net loss amounting to 3,496,573, adding back the (1) net effect of noncash adjustments of stock compensation expense, amortization of discount from notes payable, interest expense, common stock issuances, change in fair value of derivative liability and common stock payable amounting to 2,646,230 and (2) net changes in working capital accounts of 172,729. 
+ 
+ During the year ended June 30, 2022, cash used in the Company s operating activities amounted to 884,412 mainly composed of the Company s net loss amounting to 3,541,100, adding back the (1) net effect of noncash adjustments of stock compensation expense, amortization of discount from notes payable, interest expense, common stock 
+ 11 
+ 
+ issuances, change in fair value of derivative liability, common stock payable and gain on settlement of debt amounting to 2,518,287 and (2) net changes in working capital accounts of 138,401. 
+ 
+ Financing Activities 
+ 
+ During the year ended June 30, 2023, the Company raised 545,000 from the issuance of debt, and received 1,000 of amounts due to officer. 
+ 
+ During the year ended June 30, 2022, the Company raised 350,000 from the issuance of debt, 520,000 from the sale of common stock, repaid 40,000 of notes payable and repaid 6,428 of amounts due to officer. 
+ 
+ Professional Fees 
+ 
+ Professional fees were 226,783 and 168,948 for the years ended June 30, 2023 and 2022, respectively. The Company generally expects professional fee costs to increase as the Company is a public reporting company with the Securities and Exchange Commission, which requires that it maintain relationships with both PCAOB registered audit firms and securities counsel to assist with the SEC reporting requirements. 
+ 
+ In addition, the Company may also attempt to purchase other entities or assets and operations of other entities if the advantageous situation presents itself. This could require the Company to incur substantial professional fees. 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ The preparation of the company s consolidated financial statements and related disclosures are in conformity with U.S. generally accepted accounting principles GAAP ). The Company s discussion and analysis of its financial condition and operating results require the Company s management to make judgments, assumptions and estimates that affect the amounts reported in its consolidated financial statements and accompanying notes. Note 1, Summary of Significant Accounting Policies, of the Notes to Financial Statements included in this Form 10-K , describes the significant accounting policies and methods used in the preparation of the Company s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material. 
+ 
+ Management believes the Company s critical accounting policies and estimates are those related to revenue recognition, determination of fair value of stock-based compensation and determination of the fair value of the conversion feature of the convertible notes. Management considers these policies critical because they are both important to the portrayal of the Company s financial condition and operating results, and they require management to make judgments and estimates about inherently uncertain matters. The Company s management has reviewed these critical accounting policies and related disclosures. 
+ 
+ Revenue Recognition 
+ 
+ The Company will recognize revenue from the sale of products and services in accordance with ASC 606, Revenue from Contracts with Customers , by applying the following steps: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to each performance obligation in the contract; and (5) recognize revenue when each performance obligation is satisfied. 
+ 
+ Revenue from product sales is recorded at the net sales price, or transaction price, which includes coupons, discounts, and processing fees. The Company constrains revenue by considering factors that could otherwise lead to a probable reversal of revenue. Collectability of revenue is reasonably assured based on historical evidence of collectability between the Company and its customers. 
+ 
+ We offer consumer products through our website. Revenue is recognized when control of the goods is transferred to the customer, which occurs upon shipment to the customer. 
+ 12 
+ 
+ Stock Based Compensation 
+ 
+ The Company accounts for share-based compensation in accordance with the fair value recognition provision of FASB ASC 718, Compensation Stock Compensation ASC 718 ), prescribes accounting and reporting standards for all share-based payment transactions in which employee services are acquired. Transactions include incurring liabilities, or issuing or offering to issue shares, options, and other equity instruments such as employee stock ownership plans and stock appreciation rights. Share-based payments to employees, including grants of employee stock options, are recognized as compensation expense in the consolidated financial statements based on the estimated grant date fair values. That expense is recognized over the period during which an employee is required to provide services in exchange for the award, known as the requisite service period (usually the vesting period). 
+ 
+ The Company accounts for share-based compensation issued to non-employees and consultants in accordance with the provisions of FASB ASC 505, Equity based Payments to Non-Employees ASC 505 ). Measurement of share-based payment transactions with non-employees is based on the fair value of whichever is more reliably measurable: (a) the goods or services received; or (b) the equity instruments issued. The fair value of the share-based payment transaction is determined at the earlier of performance commitment date or performance completion date. 
+ 
+ Derivative Liability 
+ 
+ FASB ASC 815, Derivatives and Hedging , requires all derivatives to be recorded on the consolidated balance sheet at fair value. As of June 30, 2023, we used the Black-Scholes-Merton (BSM) model to estimate the fair value of the conversion feature of the convertible note. Key assumptions of the BSM model include the market price of our stock, the conversion price of the debt, applicable volatility rates, risk-free interest rates and the instrument s remaining term. These assumptions require significant management judgment. In addition, changes in any of these variables during a period can result in material changes in the fair value (and resultant gains or losses) of this derivative instrument. 
+ 
+ Emerging Growth Company 
+ 
+ We are an emerging growth company under the federal securities laws and will be subject to reduced public company reporting requirements. In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We are choosing to take advantage of the extended transition period for complying with new or revised accounting standards. As a result, our financial statements may not be comparable to those of companies that comply with public company effective dates. 
+ 
+ Seasonality 
+ 
+ We do not expect our sales to be impacted by seasonal demands for our products and services. 
+ 
+ We are susceptible to general economic conditions, natural catastrophic events and public health crises, and a potential downturn in advertising and marketing spending by advertisers could adversely affect our operating results in the near future. 
+ 
+ Our business is subject to the impact of natural catastrophic events, such as earthquakes, or floods, public health crisis, such as disease outbreaks, epidemics, or pandemics, and all these could result in a decrease or sharp downturn of economies, including our markets and business locations in the current and future periods. The outbreak of the coronavirus (COVID-19) resulted in increased travel restrictions, and shutdown of businesses, which may cause slower recovery of the economy. We may experience impact from quarantines, market downturns and changes in customer behavior related to pandemic fears and impact on our workforce if the virus continues to spread. In addition, one or more of our customers, partners, service providers or suppliers may experience financial distress, delayed or defaults on payment, file for bankruptcy protection, sharp diminishing of business, or suffer disruptions in their business due to the outbreak. The extent to which the coronavirus impacts our results will depend on future developments and reactions throughout the world, which are highly uncertain and will include emerging information 
+ 13 
+ 
+ concerning the severity of the coronavirus and the actions taken by governments and private businesses to attempt to contain the coronavirus. It is likely to result in a potential material adverse impact on our business, results of operations and financial condition. Wider-spread COVID-19 globally could prolong the deterioration in economic conditions and could cause decreases in or delays in advertising spending and reduce and/or negatively impact our short-term ability to grow our revenues. Any decreased collectability of accounts receivable, bankruptcy of small and medium businesses, or early termination of agreements due to deterioration in economic conditions could negatively impact our results of operations. 
+ 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ 
+ ITEM 8. Financial Statements 
+ 
+ APPlife Digital Solutions, Inc. 
+ Contents 
+
+Page 
+
+Consolidated Financial Statements 
+
+Reports of Independent Registered Public Accounting Firm (RBSM LLP, PCAOB ID 
+ F-1 
+
+Consolidated Balance Sheets as of June 30, 202 3 and 202 2 
+ F-2 
+
+Consolidated Statements of Operations for the years ended June 30, 202 3 and 202 2 
+ F-3 
+
+Consolidated Statements of Changes in Stockholders Defi c i t for the years ended June 30, 202 3 and 202 2 
+ F-4 
+
+Consolidated Statements of Cash Flows for the years ended June 30, 202 3 and 202 2 
+ F-5 
+
+Notes to Consolidated Financial Statements 
+ F-6 
+
+14 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 
+ The Stockholders and the Board of Directors of 
+ Applife Digital Solutions, Inc. 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Applife Digital Solutions, Inc. and Subsidiaries (collectively, the Company as of June 30, 2023 and 2022, and the related consolidated statements of operations, changes in stockholders deficit and cash flows for each of the two years in the period ended June 30, 2023, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at June 30, 2023 and 2022, and the results of its operations and its cash flows for each of the two years in the period ended June 30, 2023, in conformity with U.S. generally accepted accounting principles. 
+ 
+ The Company's Ability to Continue as a Going Concern 
+ 
+ The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has suffered recurring losses from operations and will require additional capital to fund its current operating plan. These conditions raise substantial doubt about the Company s ability to continue as a going concern. Management s plans regarding these matters are also described in Note 1. The consolidated financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that may result from the outcome of this uncertainty. 
+ 
+ Basis for Opinion 
+ 
+ These consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ /s/ 
+ 
+ We have served as the Company s auditor since 2019. 
+
+October 2, 2023 
+ F-1 
+ 
+ APPLIFE DIGITAL SOLUTIONS, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+
+June 30, 202 3 
+ 
+ June 30, 202 2 
+
+ASSETS 
+
+Current assets 
+
+Cash 
+
+Prepaid expenses 
+
+Inventories, net 
+
+Total assets 
+
+Current liabilities 
+
+Accounts payable and accrued expenses 
+
+Notes payable to shareholders 
+
+Notes payable - current 
+
+Derivative liabilities 
+
+Due to officer 
+
+Common stock payable 
+
+Total current liabilities 
+
+Notes payable to shareholders, noncurrent 
+
+Total liabilities 
+
+Commitments and contingencies 
+
+Stockholders deficit 
+
+Common stock, par value, shares authorized; and shares issued and outstanding as of June 30, 2023 and 2022, respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+ 
+ ) 
+
+) 
+
+Total stockholders deficit 
+ 
+ ) 
+
+) 
+
+Total liabilities and stockholders deficit 
+
+The accompanying notes are an integral part of these audited consolidated financial statements 
+ F-2 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+Years Ended June 30, 
+
+202 3 
+ 
+ 202 2 
+ 
+ Revenue 
+
+Cost of goods sold 
+
+) 
+
+) 
+ 
+ Gross (loss) profit 
+
+) 
+
+Operating expenses 
+
+Total operating expenses 
+
+Loss from operations 
+
+) 
+
+) 
+
+Other income (expense) 
+
+Interest expense 
+
+) 
+
+) 
+ 
+ Gain on settlement of debt 
+
+Change in fair value of common stock payable 
+
+Change in fair value of common stock 
+
+) 
+ 
+ Change in fair value of derivative liability 
+
+) 
+ 
+ Net loss before provision for income taxes 
+
+) 
+
+) 
+
+Provision for income taxes 
+
+Net loss 
+
+) 
+
+) 
+
+Basic and diluted loss per share 
+
+) 
+
+) 
+
+Average number of common shares outstanding basic and diluted 
+
+The accompanying notes are an integral part of these audited consolidated financial statements 
+ F-3 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS DEFICIT 
+
+Common Stock 
+ 
+ Additional 
+ 
+ Accumulated 
+
+Shares 
+ 
+ Amount 
+ 
+ Paid-In Capital 
+ 
+ Deficit 
+ 
+ Total 
+ 
+ Balance, June 30, 2021 
+
+) 
+
+) 
+
+Common stock issued for cash 
+
+Stock compensation 
+
+Common stock issued for services 
+
+Settlement of notes payable with issuance of options to purchase common stock 
+
+Net loss 
+
+) 
+
+) 
+ 
+ Balance, June 30, 2022 
+
+) 
+
+) 
+
+Stock compensation 
+
+Common stock issued for services 
+
+Settlement of notes payable with issuance of options to purchase common stock 
+
+Net loss 
+
+) 
+
+) 
+ 
+ Balance, June 30, 2023 
+
+) 
+
+) 
+
+The accompanying notes are an integral part of these audited consolidated financial statements 
+ F-4 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Years Ended June 30, 
+
+2023 
+ 
+ 2 022 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+ 
+ ) 
+
+) 
+ 
+ Adjustment to reconcile change in net loss to net cash used in operating activities: 
+
+Amortization 
+
+Interest expense 
+
+Issuance of common stock for services 
+
+Stock compensation expense 
+
+Change in fair value of derivative liability 
+ 
+ ) 
+
+Gain on settlement of debt 
+
+) 
+ 
+ Common stock payable 
+ 
+ ) 
+
+Changes in operating assets and liabilities: 
+
+Prepaid expenses and other current assets 
+ 
+ ) 
+
+Inventories 
+ 
+ ) 
+
+) 
+ 
+ Accounts payable and accrued expenses 
+
+Net cash used in operating activities 
+ 
+ ) 
+
+) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Proceeds from notes payable to shareholders 
+
+Proceeds from due to officer 
+
+Proceeds from issuance of common stock 
+
+Payment on notes payable 
+
+) 
+ 
+ Payment on amounts due to officer 
+
+) 
+ 
+ Net cash provided by financing activities 
+
+Net decrease in cash and cash equivalents 
+ 
+ ) 
+
+) 
+ 
+ Cash and cash equivalents, beginning of year 
+
+Cash and cash equivalents, end of year 
+
+Non-cash investing and financing activities: 
+
+Increase in derivative liability upon issuance of convertible note 
+
+Payment of notes payable with issuance of options to purchase common stock 
+
+The accompanying notes are an integral part of these audited consolidated financial statements 
+ F-5 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+ NOTES TO AUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+
+F-6 
+
+F-7 
+
+F-8 
+
+that carries an annual interest rate of 12 and matures through November 2023 in ten equal payments of 4,013. The net carrying amount of the note is and nil as of June 30, 2023 and 2022, respectively. 
+ 
+ interest per annum on the principal amount of , respectively. The principal amount was agreed to be paid in two tranches of each, received on February 19, 2021 and March 08, 2021. The note is subject to certain ownership limitations and will be convertible at the option of the holder at any time into shares of the Company s common stock at an effective conversion rate of 0.144. The beneficial conversion features of this note were valued at and for each tranche received and are amortized over the life of the note. On December 13, 2022, the Company converted the notes, in which on that date, the outstanding 360,000 in principle and 76,044 in interest were converted into 2,952,548 fully vested options to purchase common stock. The options expire in five years with the exercise price of 0.02. The options were valued at 65,236, in the aggregate, using Black Scholes. 
+ 
+ On February 04, 2022, the Company sold convertible note bearing interest per annum in the principal amount of February 2022 Notes ). The note will be paid in three tranches with first tranche of received on March 28, 2022. The second and third tranches of and each, were received on May 3, 2022, and June 21, 2022, respectively. The note is subject to certain ownership limitations and will be convertible at the option of the holder at any time into shares of the Company s common stock at an effective conversion rate of 0.013. The February 2022 Notes contain embedded derivatives, see Note 8. 
+ 
+ On June 8, 2022, the Company converted the July 2019 Notes, November 2019 Note and the 2020 Notes (collectively Converted Notes ), with an aggregate principal balance of and of accrued interest into stock options. The options expire in five years with the exercise prices ranging between 0.14 and 0.34. The options were valued at 216,981, in the aggregate, using Black Scholes. 
+ 
+ On August 26, 2022, the Company sold convertible note bearing interest per annum in the principal amount of August 2022 Notes ). The note is disbursed in three tranches with first tranche of received on September 1, 2022. The second tranche of was received on September 19, 2022 and the third tranche of 100,000 was received on October 15, 2022. The note is subject to certain ownership limitations and will be convertible at the option of the holder at any time into shares of the Company s common stock at an effective conversion rate of 0.046. The August 2022 Notes contain embedded derivatives, see Note 8. 
+ 
+ On December 21, 2022, the Company sold convertible note bearing interest per annum in the principal amount of December 2022 Notes ). The note is disbursed in four tranches with first tranche of received on January 10, 2023, and the remaining tranches of , 20,000 and 40,000 received on February 10, 2023, March 3, 2023 and March 31, 2023, respectively. The December 2022 Notes contain embedded derivatives, see Note 8. 
+ 
+ On April 30, 2023, the Company sold convertible note bearing interest per annum in the principal amount of April 2023 Notes ). The note is disbursed in three tranches with first tranche of received on May 12, 2023, and the remaining tranches of each received on May 31, 2023 and June 28, 2023, respectively. The April 2023 Notes contain embedded derivatives, see Note 8. 
+ F-9 
+
+Amortization of debt discount 
+
+New Issuances 
+
+Embedded Conversion Feature Debt discount 
+
+) 
+ 
+ Conversion of Notes Payable less Accrued Interest to stock options 
+
+) 
+ 
+ Balance of notes payable, net of discount as of June 30, 2023 
+
+in notes payable to related parties which are composed of three notes: (1) note, (2) note and (3) note. The first note is disbursed in three tranches with first tranche of 125,000 received on September 1, 2022. The second and third tranches of 100,000 were received on September 19, 2022 and October 15, 2022, respectively. 
+ 
+ The second note is disbursed in four tranches with the first tranche of 40,000 received on January 10, 2023, second tranche of 20,000 received on February 10, 2023, third tranche of 20,000 received on March 3, 2023 and fourth tranche of 40,000 received on March 31, 2023. 
+ 
+ The third note is disbursed in three tranches with the first tranche of 20,000 received on May 12, 2023, second tranche of 40,000 received on May 31, 2023 and third tranche of 40,000 received on June 28, 2023. See Note 3, Notes Payable to Shareholders, for detail. 
+ 
+ During the year ended June 30, 2022, the Company received in notes payable to related parties, see note 3, notes payable to shareholders for detail. Additionally, during the year ended June 30, 2022, the Company and the shareholder agreed to covert an aggregate and in outstanding principal and interest into an aggregate options to purchase common stock, see note 7, stockholders equity for further detail. 
+
+F-10 
+
+and shares of common stock issued and outstanding, respectively. 
+ 
+ Common stock issued for services 
+ 
+ On March 1, 2023, the Company issued shares of common stock for services valued at with price at 0.10 per share. 
+ 
+ On June 30, 2023, the Company issued shares of common stock for services valued at with price at 0.0119 per share. The Company applied this issuance to outstanding common stock payable amounting to and the difference of was recorded as a gain from change in fair value of common stock payable in the consolidated statements of operations. 
+ 
+ During the year ended June 30, 2022, the Company issued shares of common stock to third parties for services valued at , respectively, with prices between 0.02 and 0.24 per share. 
+ 
+ Restricted stock and Stock options 
+ 
+ During the year ended June 30, 2023, and 2022, the Company recognized stock compensation expense on outstanding restricted stock awards of and , respectively. 
+ 
+ During the years ended June 30, 2023 and 2022, the Company granted and stock options, in the aggregate, to its board members and consultants. Stock compensation expense is summarized as follows: 
+
+Stock option awards 
+
+Stock compensation expense 
+
+The options granted in the fiscal years 2023 and 2022 vest pro-rata over the member s term, have exercise prices between 0.01 and 0.18 and expire in five years from the date of grant. On June 8, 2022, options were issued in exchange for in outstanding principal and interest combined (see Note 4) from notes payable. 
+ F-11 
+ 
+ stock options to its attorney as compensation. The options vest pro-rata over five years, have an exercise price of 0.03 and expire in five years from the date of grant. 
+
+Granted 
+
+Exercised 
+
+- 
+ 
+ Outstanding June 30, 2022 
+
+Granted 
+
+Exercised 
+
+- 
+ 
+ Outstanding June 30, 2023 
+
+The Company recognized and of expense during the years ended June 30, 2023 and 2022, respectively, in connection with the options and valued with Black Scholes using the following inputs: 
+
+Exercise price 
+
+Expected term (in years) 
+
+Volatility (annual) 
+
+- 
+
+- 
+
+Risk-free rate 
+
+- 
+
+- 
+
+Exercise price 
+
+Contractual term (in years) 
+
+Volatility (annual) 
+
+- 
+
+Risk-free rate 
+
+- 
+
+The foregoing assumptions are reviewed quarterly and are subject to change based primarily on management s assessment of the probability of the events described occurring. Accordingly, changes to these assessments could materially affect the valuations. 
+ F-12 
+
+Total 
+
+- 
+
+- 
+
+1,004,846 
+
+1,004,846 
+
+Fair value measured at June 30, 2022 
+
+Quoted prices in active 
+
+Significant other 
+
+Significant 
+
+markets 
+
+observable inputs 
+
+unobservable inputs 
+
+Fair value at 
+
+(Level 1) 
+
+(Level 2) 
+
+(Level 3) 
+
+June 30, 2022 
+
+Derivative liability 
+
+Total 
+
+- 
+
+- 
+
+577,180 
+
+577,180 
+
+The fair value accounting standards define fair value as the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is determined based upon assumptions that market participants would use in pricing an asset or liability. Fair value measurements are rated on a three-tier hierarchy as follows: 
+
+Level 1 inputs: Quoted prices (unadjusted) for identical assets or liabilities in active markets; 
+
+Level 2 inputs: Inputs, other than quoted prices included in Level 1, that are observable either directly or indirectly; and 
+
+Level 3 inputs: Unobservable inputs for which there is little or no market data, which require the reporting entity to develop its own assumptions. 
+
+There were no transfers between Level 1, 2 or 3 during the years ended June 30, 2023 and 2022. 
+ 
+ In the year ending June 30, 2022, the Company recorded a decrease in fair value of derivative liability of . 
+ 
+ In the year ending June 30, 2023, the Company recorded an increase in fair value of derivative liability of . 
+
+Additions during the period 
+
+Change in fair value 
+
+Change due to conversion / exercise / redemptions 
+
+) 
+ 
+ Balance as of June 30, 2022 
+
+Additions during the period 
+
+Change in fair value 
+
+) 
+ 
+ Balance as of June 30, 2023 
+
+The balance of the derivative liability at June 30, 2023 and 2022 was and , respectively. 
+ F-13 
+
+and state net operating loss carryforwards of . Of the 7.2 million of federal NOL s, 7.0 million have no expiration, but have limited utilization of 80 of current years taxable income while .2 million will begin to expire during 2037. State net operating loss carryforwards will begin to expire in 2039 through 2043. The Company also had net operating losses of in China which will begin to . Net operating loss carry forwards may be limited in available usage under Internal Revenue Code 382 as a result of the issuance of additional stock. The Company is currently reviewing the limitation. 
+ 
+ Other than minimum taxes, the company does not incur a provision for income taxes because the Company has historically incurred operating losses and maintains a full valuation allowance against its net deferred tax assets due to the uncertainty surrounding the realizability of the benefit, based on a more likely than not criteria and in consideration of available positive and negative evidence. 
+ 
+ Deferred income taxes reflect the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and amounts used for income tax purposes. Significant components of the Company s deferred tax assets and liabilities consist of the following: 
+
+Stock Based Compensation 
+
+Unrealized loss on Debt conversion 
+
+Valuation Allowance 
+ 
+ ) 
+
+) 
+ 
+ Net Deferred Tax Assets 
+
+Reconciliation of the statutory federal income tax to the Company s effective tax: 
+
+State taxes, net of federal benefit 
+
+Permanent items 
+
+Other 
+
+) 
+
+Valuation Allowance 
+ 
+ ) 
+
+) 
+
+Provision for income taxes 
+
+F-14 
+ 
+ ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ There are no reportable events under this Item for the year ended June 30, 2023. 
+ 
+ ITEM 9A. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Disclosure controls and procedures are controls and procedures that are designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by our company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. Our management carried out an evaluation under the supervision and with the participation of our Principal Executive Officer and Principal Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 Exchange Act ). Based upon that evaluation, our Principal Executive Officer and Principal Financial Officer have concluded that our disclosure controls and procedures were not effective as of June 30, 2023, due to the material weaknesses resulting from the Board of Directors not currently having any members who qualify as an audit committee financial expert as defined in Item 407(d)(5)(ii) of Regulation S-K, and controls were not designed and in place to ensure that all disclosures required were originally addressed in our financial statements. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ Our management has also evaluated our internal control over financial reporting, and there have been no significant changes in our internal controls or in other factors that could significantly affect those controls subsequent to the date of our last evaluation. 
+ 
+ The Company is not required by current SEC rules to include, and does not include, an auditor's attestation report. The Company's registered public accounting firm has not attested to Management's reports on the Company's internal control over financial reporting. 
+ 
+ ITEM 9B. Other Information 
+ 
+ ITEM 1. Legal Proceedings. 
+ 
+ We know of no material, existing or pending legal proceedings against our company, nor are we involved as a plaintiff in any material proceeding or pending litigation. There are no proceedings in which our director, officer or any affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our interest. 
+ 
+ ITEM 1A. Risk Factors. 
+ 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ 
+ ITEM 2. Unregistered Sale of Equity Securities and use of proceeds. 
+ 
+ None. 
+ 
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+ 
+ None. 
+ 15 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES. 
+ 
+ Not Applicable. 
+ 
+ ITEM 5. OTHER INFORMATION. 
+ 
+ None. 
+ 
+ PART III 
+ 
+ ITEM 10. Directors, Executive Officers and Corporate Governance 
+ 
+ Directors and Executive Officers 
+ 
+ Set forth below are the names, ages and positions of our current directors and executive officers. Unless otherwise indicated, the address of each person listed is c/o APPlife Digital Solutions, Inc. 50 California St., Suite 1500, San Francisco, CA 94111. 
+ 
+ Name and Address 
+ Age 
+ Position 
+ 
+ Matthew Reid 
+ 49 
+ CEO, CFO, President, Secretary and Director 
+ 
+ Don Savant 
+ 57 
+ Director 
+ 
+ Tracy Gray 
+ 56 
+ Director 
+ 
+ Sid Ganis 
+ 80 
+ Director 
+ 
+ Richard Walden 
+ 74 
+ Director 
+
+Matthew Reid, 49, CEO, CFO, President, Secretary and Director. Matthew Reid is an experienced founder who has worked in the venture capital and private equity industry for the past 15 years where he has focused on sales, management, marketing and business development. He has owned and operated several successful businesses ranging from a commercial real estate mortgage company to a media investment group. During the last five years Mr. Reid has been working for himself developing apps and projects that eventually lead to the creation of the Company and has not worked at any other companies. Mr. Reid holds a Bachelor of Arts degree from New York University. 
+ 
+ Don Savant, 57, Director. Don Savant was the President of Global Sales IMAX Corp. for three years starting in January 2016. Savant was a Managing Director at Asia Pacific IMAX Corp. for fifteen years before becoming President of Sales, Development and Film Distribution for IMAX China for four years starting in June 2011. 
+ 
+ Tracy Gray, 56, Director. Tracy Gray is a former Systems Engineer on the Space Shuttle program. Gray also worked in the Office of the Mayor of Los Angeles and was a Managing Director of The 22 Fund. Gray has been a member of the Board of Directors of Exergy Systems and Isidore Recycling which was acquired by Homeboy Recycling. 
+ 
+ Sid Ganis, 80, Director. Sid Ganis is the founder of Out of the Blue Entertainment and former President of Paramount Pictures. Ganis was Chairman of Columbia Tristar and President of the Academy of Motion Picture Arts and Sciences. Ganis is currently a member of the Board of Directors of Academy of Motion Picture Arts and Sciences and Immersion Corp IMMR. Ganis has previously been a member of the Board of Directors of Marvel Entertainments and The Void. 
+ 
+ Richard Walden, 74, Director. Mr. Walden is currently President, CEO and Founder of Operation USA, a Los Angeles-based non-governmental organization specializing in disaster relief as well as international and domestic health care and economic development projects. Walden guided Operation USA to share the 1997 Nobel Peace Prize Walden also coordinated Operation USA s work with UNESCO, NASA s Jet Propulsion Laboratory, and with the Lawrence Livermore and Los Alamos National Laboratories. Richard is also an active California-licensed attorney and, earlier in his career, served as Commissioner of the California Health Facilities Commission. 
+ 
+ 16 
+
+Board Composition 
+ 
+ Our By-Laws provide that the Board of Directors which shall constitute the whole board shall not be less than one (1) nor more than seven (7) or such other maximum number of directors as permitted by the Nevada General Corporation Law. The maximum or minimum number of directors cannot be changed, nor can a fixed number be substituted for the maximum and minimum numbers, except by a duly adopted amendment to the articles of incorporation or by an amendment to this bylaw. 
+ 
+ No Committees of the Board of Directors; No Financial Expert 
+ 
+ We do not presently have a separately constituted audit committee, compensation committee, nominating committee, executive committee or any other committees of our Board of Directors. Nor do we have an audit committee or financial expert. Management has decided not to establish an audit committee at present because our limited resources and limited operating activities do not warrant the formation of an audit committee or the expense of doing so. As such, our entire Board of Directors acts as our audit committee. We do not have a financial expert serving on the Board of Directors or employed as an officer based on management s belief that the cost of obtaining the services of a person who meets the criteria for a financial expert under Section 407 of the Sarbanes-Oxley Act of 2002 and Item 407(d) of Regulation S-K is beyond our limited financial resources and the financial skills of such an expert are simply not required or necessary for us to maintain effective internal controls and procedures for financial reporting in light of the limited scope and simplicity of accounting issues raised in our financial statements at this stage of our development. 
+ 
+ Auditors 
+ 
+ Our principal registered independent auditor is RBSM LLP 
+ 
+ Code of Ethics 
+ 
+ The Company does not have a written code of ethics that applies to the Company s officers. 
+ 
+ Potential Conflicts of Interest 
+ 
+ Since we do not have an audit or compensation committee comprised of independent directors, the functions that would have been performed by such committees are performed by our directors. Thus, there is a potential conflict of interest in that our directors and officers have the authority to determine issues concerning management compensation and audit issues that may affect management decisions. We are not aware of any other conflicts of interest with any of our executives or directors. 
+ 
+ Director Independence 
+ 
+ Our board of directors has undertaken a review of the independence of each director and considered whether any director has a material relationship with us that could compromise his ability to exercise independent judgment in carrying out his responsibilities. As a result of this review, our board of directors determined that Don Savant, Tracy Gray and Sid Ganis are independent directors. 
+ 
+ Involvement in Legal Proceedings 
+ 
+ None of our officers or directors has filed a personal bankruptcy petition, had a bankruptcy petition filed against any business of which they were a general partner or officer at the time of bankruptcy or within two years prior to that time, or has been convicted of or been the subject of any criminal proceedings or the subject of any order, judgment or decree involving the violation of any state or federal securities laws within the past ten (10) years. 
+ 17 
+
+Compliance with Section 16(a) Of the Exchange Act 
+ 
+ Section 16(a) of that act requires our executive officers and directors, and persons who beneficially own more than 10 of a registered class of our equity securities to file with the Securities and Exchange Commission initial statements of beneficial ownership, reports of changes in ownership and annual reports concerning their ownership of our common shares and other equity securities, on Forms 3, 4 and 5 respectively. Executive officers, directors and greater than 10 shareholders are required by the Securities and Exchange Commission regulations to furnish us with copies of all Section 16(a) reports they file. 
+ 
+ ITEM 11. Executive Compensation 
+ 
+ Summary Compensation 
+ 
+ Our sole officer and director does not currently take any formal salary for his services to the Company. He was issued 12,239,209 founders shares at inception, and on September 27, 2018, he was issued 90,000,000 shares for his services to be rendered over the next four years. 
+ 
+ Outstanding Equity Awards 
+ 
+ Our directors and officers do not have unexercised options, stock that has not vested, or equity incentive plan awards. 
+ 
+ Compensation of Directors 
+ 
+ Our directors do not receive compensation for their services as directors. 
+ 
+ Employment Contracts, Termination of Employment, Change-in-Control Arrangements 
+ 
+ There are no formal employment contracts, or other contracts with our officers or directors. There are no compensation plans or arrangements, including payments to be made by us, with respect to our officers, directors or consultants that would result from the resignation, retirement or any other termination of such directors, officers or consultants from us. There are no arrangements for directors, officers, employees or consultants that would result from a change-in-control. 
+ 
+ ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ Security Ownership of Certain Beneficial Owners 
+ 
+ The following table lists, as of October 2, 2023, the number of shares of common stock of our Company that are beneficially owned by (i) each person or entity known to our Company to be the beneficial owner of more than 5 of the outstanding common stock; (ii) each officer and director of our Company; and (iii) all officers and directors as a group. Information relating to beneficial ownership of common stock by our principal shareholders and management is based upon information furnished by each person using beneficial ownership concepts under the rules of the Securities and Exchange Commission. Under these rules, a person is deemed to be a beneficial owner of a security if that person has or shares voting power, which includes the power to vote or direct the voting of the security, or investment power, which includes the power to vote or direct the voting of the security. The person is also deemed to be a beneficial owner of any security of which that person has a right to acquire beneficial ownership within 60 days. Under the Securities and Exchange Commission rules, more than one person may be deemed to be a beneficial owner of the same securities, and a person may be deemed to be a beneficial owner of securities as to which he or she may not have any pecuniary beneficial interest. Except as noted below, each person has sole voting and investment power. 
+ 
+ The percentages below are calculated based on 150,543,635 shares of our common stock issued and outstanding as of October 2, 2023. Unless otherwise indicated, the address of each officer and director listed below is c/o APPlife Digital Solutions, Inc., 50 California St, #1500, San Francisco, CA 94111. 
+ 18 
+
+Name of Beneficial Owner 
+ 
+ Title of Class 
+ 
+ Amount and Nature of Beneficial Ownership 
+ 
+ Percent of Class 
+ 
+ Matt Reid, Sole Officer and Director 
+ 
+ Common 
+ 
+ 102,239,109 Shares 
+ 
+ 67.91 
+ 
+ Don Savant, Director 
+ 
+ Common 
+ 
+ 381,579 
+ 
+ 0.25 
+ 
+ Tracy Gray, Director 
+ 
+ Common 
+ 
+ 381,579 
+ 
+ 0.25 
+ 
+ Sid Ganis, Director 
+ 
+ Common 
+ 
+ 375,000 
+ 
+ 0.25 
+ 
+ All Officers and Directors 
+ 
+ Common 
+ 
+ 103,377,267 Shares 
+ 
+ 68.67 
+ 
+ Stephen Solarsh 
+ 
+ Common 
+ 
+ 11,900,327 Shares 
+ 
+ 7.90 
+
+RELATED PARTY TRANSACTIONS 
+ 
+ Due to Officer 
+ 
+ During the year ending June 30, 2023, the Company received advances from its officer to pay for certain operating expenses. The balance due to the officer at June 30, 2023 and 2022 was 1,000 and 0, respectively. There are no definitive repayment terms and no interest is accruing on these advances. 
+ 
+ ITEM 13. Certain Relationships and Related Transactions, and Director Independence 
+ 
+ Director Independence 
+ 
+ Our securities are not listed on a national securities exchange or on any inter-dealer quotation system which has a requirement that a majority of directors be independent. Our board of directors has undertaken a review of the independence of each director by the standards for director independence set forth in the NASDAQ Marketplace Rules. Under these rules, an independent director is one who is not an executive officer or an employee of the company and who does not have a relationship that, in the opinion of the board of directors, would interfere with exercising independent judgment in carrying out a director s responsibilities. Our board of directors has determined that three of our directors qualify as independent directors. 
+ 
+ ITEM 14. Principal Accountant Fees and Services 
+ 
+ Audit Fees 
+ 
+ The Company engaged RBSM LLP RBSM as our independent registered public accounting firm since April 15, 2019. The audit fees to RBSM for the year ended June 30, 2023 and 2022 were approximately 30,000 and 25,000, respectively. 
+ Audit-Related Fees 
+ 
+ The aggregate fees billed in each of the last three fiscal quarters for assurance and related services by RBSM that are reasonably related to the performance of the audit or review of our consolidated financial statements including our quarterly interim reviews on Form 10-Q amounted to 18,000 each quarter. 
+ 
+ Tax Fees 
+ 
+ RBSM did not charge us any tax fees for the year ended June 30, 2023 and 2022, respectively. 
+ 
+ All Other Fees 
+ 
+ RBSM billed 5,000 during the year ended June 30, 2023 for their procedures related to issuance of consent and S-1 filing. 
+ 19 
+
+PART IV 
+ 
+ ITEM 15. Exhibits, Financial Statement Schedules. 
+ 
+ Exhibits 
+ 
+ See the Exhibit Index following the signature page of this Registration Statement, which Exhibit Index is incorporated herein by reference. 
+
+Exhibit Number 
+ Description of Exhibit 
+ Filing 
+ 
+ 31.1 
+ Certification of Principal Executive Officer Pursuant to Rule 13a-14 
+ Filed herewith. 
+ 
+ 31.2 
+ Certification of Principal Financial Officer Pursuant to Rule 13a-14 
+ Filed herewith. 
+ 
+ 32.1 
+ CEO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act 
+ Filed herewith. 
+ 
+ 101.INS 
+ XBRL Instance Document 
+ Filed herewith. 
+ 
+ 101.SCH 
+ XBRL Taxonomy Extension Schema Document 
+ Filed herewith. 
+ 
+ 101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ Filed herewith. 
+ 
+ 101.LAB 
+ XBRL Taxonomy Extension Labels Linkbase Document 
+ Filed herewith. 
+ 
+ 101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ Filed herewith. 
+ 
+ 101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ Filed herewith. 
+
+Pursuant to Regulation S-T, this interactive data file is deemed not filed or part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections. 
+ 
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+APPLIFE DIGITAL SOLUTIONS, INC. 
+
+Dated: October 2, 2023 
+ /s/ Matt Reid 
+
+Matt Reid, Principal Executive Officer, Principal Accounting Officer and Director 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+Name 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Matt Reid 
+ 
+ Principal Executive Officer, Principal Financial Officer, and Director 
+ 
+ October 2, 2023 
+ 
+ Matt Reid 
+
+20 
+
+<EX-31.1>
+ 2
+ alds_ex31z1.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+ 
+ CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER PURSUANT TO RULE 13a-14 
+ 
+ I, Matt Reid, certify that: 
+ 
+ 1. I have reviewed this Annual Report for the year ended June 30, 2023 on Form 10-K of APPlife Digital Solutions, Inc.; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an Annual Report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date: October 2, 2023 
+
+/s/ Matt Reid 
+
+By: 
+ Matt Reid 
+
+Its: 
+ Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ alds_ex31z2.htm
+ CERTIFICATION
+
+EXHIBIT 31.2 
+ 
+ CERTIFICATION OF THE CHIEF FINANCIAL OFFICER PURSUANT TO RULE 13a-14 
+ 
+ I, Matt Reid, certify that: 
+ 
+ 1. I have reviewed this Annual Report for the year ended June 30, 2023 on Form 10-K of APPlife Digital Solutions, Inc.; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an Annual Report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date: October 2, 2023 
+
+/s/ Matt Reid 
+
+By: 
+ Matt Reid 
+
+Its: 
+ Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ alds_ex32z1.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of APPlife Digital Solutions, Inc. (the Company on Form 10-K for the year ended June 30, 2023 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Matt Reid, Chief Executive Officer and Chief Financial Officer certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+/s/ Matt Reid 
+
+By: 
+ Matt Reid 
+
+Chief Executive Officer and Chief Financial Officer (Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+Dated: October 2, 2023 
+ 
+ A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.CAL>
+ 5
+ alds-20230630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ alds-20230630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ alds-20230630_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ alds-20230630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 9
+ alds-20230630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

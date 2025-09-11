@@ -1,0 +1,4186 @@
+<Header>
+<FileStats>
+    <FileName>20231002_10-K_edgar_data_1647822_0001493152-23-034950.txt</FileName>
+    <GrossFileSize>8949307</GrossFileSize>
+    <NetFileSize>148306</NetFileSize>
+    <NonText_DocumentType_Chars>1328667</NonText_DocumentType_Chars>
+    <HTML_Chars>3630295</HTML_Chars>
+    <XBRL_Chars>1462656</XBRL_Chars>
+    <XML_Chars>2066555</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-23-034950.hdr.sgml : 20231002
+<ACCEPTANCE-DATETIME>20231002061049
+ACCESSION NUMBER:		0001493152-23-034950
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20230531
+FILED AS OF DATE:		20231002
+DATE AS OF CHANGE:		20231002
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SavMobi Technology Inc.
+		CENTRAL INDEX KEY:			0001647822
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				473240707
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56570
+		FILM NUMBER:		231297618
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2880 ZANKER ROAD
+		STREET 2:		SUITE 203
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		800-592-6276
+
+	MAIL ADDRESS:	
+		STREET 1:		2880 ZANKER ROAD
+		STREET 2:		SUITE 203
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+</SEC-Header>
+</Header>
+
+ 0001493152-23-034950.txt : 20231002
+
+10-K
+ 1
+ form10-k.htm
+
+U.S.
+SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+OR 
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended , 
+
+Commission
+file number: 
+
+(Exact
+ name of Company as specified in its charter) 
+
+(State
+ of incorporation) 
+ 
+ (I.R.S.
+ Employer Identification No.) 
+
+, , , , 
+
+ (Address
+of principal executive offices) 
+
+(Company s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Exchange Act: 
+
+ None 
+
+Securities
+registered pursuant to Section 12(g) of the Exchange Act: 
+
+ None 
+
+Indicate
+by check mark if the Company is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the Company is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the issuer (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding
+12 months (or for such shorter period that the Company was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. No 
+
+Indicate
+by check mark whether the Company has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months
+(or for such shorter period that the Company was required to submit and post such files). Yes 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of Company s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the Company is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+(Do
+ not check if a smaller reporting company) 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. 
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant s executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Indicate
+by check mark whether the Company is a shell company (as defined in Rule 12b-2 of the Act). No 
+
+The
+aggregate market value of voting stock held by non-affiliates of the Company as of the last business day of the Company s most
+recently complete second fiscal quarter was (computed by reference to the closing price of a share of the Company s
+common stock of 0.175 on that date as reported). 
+
+As
+of October 2, 2023, shares of the issuer s common stock were issued and outstanding. 
+
+Documents
+Incorporated By Reference: 
+
+TABLE
+OF CONTENTS 
+
+Page 
+ 
+ PART
+ I 
+
+Item
+ 1 
+ Business 
+ 3 
+ 
+ Item
+ 1A 
+ Risk
+ Factors 
+ 11 
+ 
+ Item
+ IB 
+ Unresolved
+ Staff Comments 
+ 11 
+ 
+ Item
+ 2 
+ Properties 
+ 11 
+ 
+ Item
+ 3 
+ Legal
+ Proceedings 
+ 11 
+ 
+ Item
+ 4 
+ Mine
+ Safety Disclosures 
+ 11 
+
+PART
+ II 
+
+Item
+ 5 
+ Market
+ for Company s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 12 
+ 
+ Item
+ 6 
+ Selected
+ Financial Data 
+ 12 
+ 
+ Item
+ 7 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+ 
+ Item
+ 7A 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 46 
+ 
+ Item
+ 8 
+ Financial Statements 
+ 46 
+ 
+ Item
+ 9 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 46 
+ 
+ Item
+ 9A 
+ Controls and Procedures 
+ 46 
+ 
+ Item
+ 9B 
+ Other Information 
+ 47 
+
+PART III 
+
+Item
+ 10 
+ Directors, Executive Officers and Corporate Governance 
+ 48 
+ 
+ Item
+ 11 
+ Executive Compensation 
+ 49 
+ 
+ Item
+ 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 50 
+ 
+ Item
+ 13 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 50 
+ 
+ Item
+ 14 
+ Principal Accounting Fees and Services 
+ 53 
+
+PART IV 
+
+Item
+ 15 
+ Exhibits and Financial Statement Schedules 
+ 54 
+
+SIGNATURES 
+ 55 
+
+2 
+
+PART
+I 
+
+Item
+1. Business. 
+
+As
+used in this Annual Report on Form 10-K (this Report ), references to the Company, the Company, 
+ we, our or us refer to SavMobi Technology, Inc., unless the context otherwise indicates . 
+
+Forward-Looking
+Statements 
+
+Certain
+statements contained in this report, including statements regarding our business, financial condition, our intent, belief or current
+expectations, primarily with respect to the future operating performance of the Company and other statements contained herein regarding
+matters that are not historical facts, are forward-looking statements. You can identify forward-looking statements by those
+that are not historical in nature, particularly those that use terminology such as may, will, should, 
+ expects, anticipates, contemplates, estimates, believes, plans, 
+ projected, predicts, potential, or continue or the negative of these similar
+terms. Future filings with the Securities and Exchange Commission, future press releases and future oral or written statements made by
+us or with our approval, which are not statements of historical fact, may contain forward-looking statements. Because such statements
+include risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. 
+
+All
+forward-looking statements speak only as of the date on which they are made. We undertake no obligation to update such statements to
+reflect events that occur or circumstances that exist after the date on which they are made, except as required by federal securities
+and any other applicable law. 
+
+On
+March 6, 2015, the Company was incorporated in the State of Nevada and established a fiscal year end of May 31. Initially the business
+platform was in providing application software to a global vendor platform to connect people to businesses and provide a new shopping
+experience. The Company s previous principal offices are located in 73B Bank Avenue, Amritsar, Punjab, 143001, India. 
+
+On
+May 18, 2017, Lakwinder Singh Sidhu, the Company s former Director and CEO, completed a transaction with New Reap Global Limited,
+by which New Reap Global Limited acquired 32,500,000 shares of common stock, representing 68.4 ownership of the Company. 
+
+On
+March 19, 2018, New Reap Global Limited transferred 250,000 restricted shares to Eng Wah Kung. 
+
+On
+May 10, 2018 and May 30, 2018, 16,959,684 shares were transferred to Arden Wealth and Trust. 2,000,000 shares are free trading from HongLing
+Shang, 559,684 restricted shares from New Reap Global Limited and 2,400,000 each from Xuedong Zhang, Jingmei Jiang, Qianxian, Yulan Qi,
+Baoxin Song, Jianlong Wu. 
+
+On
+June 15, 2018, New Reap Global Limited transferred 690,316 restricted shares to EMRD Global Holdings. 
+
+On
+June 26, 2018, New Reap Global Limited transferred 3,000,000 restricted shares to Fortress Advisors, LLC and 3,000,000 to Baywall Inc. 
+
+3 
+
+On
+November 10, 2020, ten (10) shareholders of the Company, including affiliates Arden Wealth Trust (Switzerland) AG and New Reap
+Global Limited, entered into stock purchase agreements with an aggregate of nineteen 19) non-U.S. accredited investors to sell an aggregate
+of 42,440,316 shares of common stock of the Company, which represents approximately 68.6 of the issued and outstanding shares
+of common stock of the Company. After the change of ownership, the Company s current principal offices is located in Room 502,
+Unit 1, Building 108, Red Star Sea Phase 3, Dalian Development Zone, Dalian, Liaoning, China. 
+
+After
+the change in control of management, the Company is currently operating in provision of commercial mobile technical support services
+in China. The Company entered into two technical support service agreements in the beginning of 2021, which is to provide support services
+to clients dedicated data platform, 7x24 hours per week. The response time should be within 4 hours upon receiving the service
+request. 
+
+On
+December 15, 2022, the Company entered into a share exchange agreement (the Share Exchange Agreement with Intellegence
+Parking Group Limited Intellegence ), a Cayman Island company formed on June 29, 2022, Chen Xinxin Xinxin ),
+the officer and director, and control shareholder of Intelligence and the shareholders of Intelligence (the Shareholders ),
+which closed on January 5, 2023. Under the Share Exchange Agreement, One Hundred Percent (100 of the ownership interest of Intellegence
+was exchanged for 1,000,000,000 shares of common stock of SVMB issued to the Shareholders, in accordance with the Share Exchange Agreement.
+The former stockholders of Intellegence will acquire a majority of the issued and outstanding common stock as a result of the share exchange
+transaction. The transaction has been accounted for as a recapitalization of the Company, whereby Intellegence is the accounting acquirer. 
+
+Immediately
+after completion of such share exchange, the Company held a total of 200,000,000 issued and outstanding shares of Intellegence. Zhang
+Guowei is the sole director of Intellegence Parking Group Limited. 
+
+Consequently,
+the Company has ceased to fall under the definition of shell company as define in Rule 12b-2 under the Exchange Act of 1934, as amended
+(the Exchange Act and Intellegence is now a wholly owned subsidiary. 
+
+Corporate
+History 
+
+The
+Company was incorporated by Mr. Lakwinder Singh Sidhu, the former president and sole director, in the State of Nevada on March 6, 2015,
+and established a May 31 fiscal year end. On May 18, 2018, Mr. Lakwinder Singh Sidhu resigned from his official positions as CEO and
+CFO and on the same day the shareholders of the Corporation voted Mr. Poh Kee Liew as Director and CEO, and Mr. Gim Hooi Ooi as Director
+and CFO. 
+
+On
+November 10, 2020, Mr. Poh Kee Liew and Mr. Gim Hooi Ooi, submitted their resignations from all executive officer positions with the
+Company, including Chief Executive Officer and Chief Financial Officer, respectively, effective immediately. In addition, Mr. Poh Kee
+Liew and Mr. Gim Hooi Ooi, the sole member of the Company s board of directors, appointed Ma Hongyu as Director and Chairman of
+the Board, and following such appointment, Messrs. Liew and Ooi submitted their resignations as members of the Board, which resignations
+were effective immediately. On November 10, 2020, Ma Hongyu was also appointed as Chief Executive Officer, Chief Financial Officer, President,
+Secretary and Treasurer, effective immediately. 
+
+Recent
+Developments 
+
+Capital
+Stock 
+
+The
+Company s capitalization is 75,000,000 common shares with a par value of 0.001 per share. No preferred shares have been authorized
+or issued. Total shares issued and outstanding as of October 2, 2023 is 1,061,900,000. 
+
+On
+May 18, 2017, Lakwinder Singh Sidhu, the Company s former Director and CEO, completed a transaction with New Reap Global Limited,
+by which New Reap Global Limited acquired 32,500,000 shares of common stock, representing 68.4 ownership of the Company. New Reap Global
+Limited paid 300,000 in cash. 
+
+On
+March 19, 2018, New Reap Global Limited transferred 250,000 restricted shares to Eng Wah Kung. 
+
+4 
+
+On
+May 10, 2018 and May 30, 2018, 16,959,684 shares were transferred to Arden Wealth and Trust. 2,000,000 free-trading shares were transferred
+from HongLing Shang, 559,684 restricted shares were transferred from New Reap Global Limited and 2,400,000 restricted shares were transferred
+each from Xuedong Zhang, Jingmei Jiang, Qianxian, Yulan Qi, Baoxin Song, Jianlong Wu, respectively. 
+
+On
+June 15, 2018, New Reap Global Limited transferred 690,316 restricted shares to EMRD Global Holdings. 
+
+On
+June 26, 2018, New Reap Global Limited transferred 3,000,000 restricted shares to Fortress Advisors, LLC and 3,000,000 restricted shares
+to Baywall Inc. 
+
+On
+November 10, 2020, ten (10) shareholders of SavMobi Technology, Inc. (the Company ), including affiliates Arden Wealth 
+Trust (Switzerland) AG and New Reap Global Limited, entered into stock purchase agreements with an aggregate of nineteen (19) non-U.S.
+accredited investors (the Purchase Agreements to sell an aggregate of 42,440,316 shares of common stock of SavMobi Technology,
+Inc. (the Company ), which represents approximately 68.6 of the issued and outstanding shares of common stock of the Company. 
+
+These
+transactions were internal transfers and had no effect on the total shares distributed. 
+
+On
+December 15, 2022, Savmobi Technology, Inc. SVMB, or the Company entered into a share exchange agreement
+(the Share Exchange Agreement with Intellegence Parking Group Limited Intellegence ), a Cayman Island company
+formed on June 29, 2022, Chen Xinxin Xinxin ), the officer and director, and control shareholder of Intelligence and the
+shareholders of Intelligence (the Shareholders ), which closed on January 5, 2023. Under the Share Exchange Agreement, One
+Hundred Percent (100 of the ownership interest of Intellegence was exchanged for 1,000,000,000 shares of common stock of SVMB issued
+to the Shareholders, in accordance with the Share Exchange Agreement. The former stockholders of Intellegence will acquire a majority
+of the issued and outstanding common stock as a result of the share exchange transaction. The transaction has been accounted for as a
+recapitalization of the Company, whereby Intellegence is the accounting acquirer. 
+
+Immediately
+after completion of such share exchange, the Company will hold a total of 200,000,000 issued and outstanding shares of Intellegence.
+Zhang Guowei is the sole director of Intellegence Parking Group Limited. 
+
+Consequently,
+the Company has ceased to fall under the definition of shell company as define in Rule 12b-2 under the Exchange Act of 1934, as amended
+(the Exchange Act and Intellegence is now a wholly owned subsidiary. 
+
+Intellegence
+completed the development of Any-e APP, the first online test parking lot was in Fuyang Traffic Police Brigade, Any-e Park APP completed
+online. The first smart parking projects built by Intellegence include road parking in Yinhu Science and Technology Park in Fuyang District,
+Hangzhou, parking in Chunqiu North Road, Fuyang District, and parking in Fuchun Street, Fuyang District. In August 2018, Any-e Park cloud
+platform was launched in Zengcheng District, Guangzhou for the first time. In 2019, Any-e Park, urban smart parking project signings
+continued. In 2020, Any-e Park, urban smart parking project landed in more than ten cities. Urban smart parking project landed in more
+than twenty cities; contracted more than fifty cities with more than 5000 parking lots and more than 4 million users. 
+
+5 
+
+Corporate
+Structure 
+
+Business
+Overview 
+
+Intellegence
+is a multinational technology company, with a smart parking application software and platform business ecosytem as its main business
+venture. The group company, Hangzhou Zhuyi Technology Co., Ltd. a PRC holding company, was formed on November 3, 2017 and is engaged
+in the business of smart parking application software and technology development. Its legal representative is Zhang Guowei. The registered
+capital was 60 million yuan. The company is located in Building B8, China Zhigu, Fuchun Park, Hangzhou. 
+
+It
+specializes in smart parking projects, smart parking mobile applications and cloud platform construction innovation. Zhuyi Technology
+takes the smart parking scene as the entry point, integrates various parking lot resources, builds static traffic data and smart city
+services. 
+
+A
+deeply integrated digital ecological platform for city planners, parking lot operators, car owners and cooperative businesses to provide
+comprehensive solutions for smart parking. It also focuses on the construction of its digital platform which operates the creations and
+control of businesses, assists the construction of smart cities, and creates a bright future for smart living. 
+
+Intellegence
+operates facilities at Xiaoshan Airport Remote Parking Lot, Tianjin Xinhua International University, Fuyang People s Hospital,
+Qilu University Hospital, Shanghai Tesco Supermarket, Hubei Huanggang Central Hospital. We also currently have eight urban parking projects. 
+
+Our
+Any-e Life platform covers Any-e stop smart city cloud platform, Any-e stop App., parking management system, ecosphere merchant system,
+information forums, Any-e purchase cloud mall, Any-e Shop VIP member hall, etc., Covering parking services, parking management, urban
+parking information, smart cloud e-commerce, automotive after-market merchant O2O store, car owner membership services, etc. 
+
+6 
+
+Any-e
+Shop adopts sub-chain technology and shared inclusive economy model, through WeChat s public platform + live stream + mini programs
++ cloud e-commerce + advertising distribution, integrated to create a shared intelligent cloud e-commerce platform, through the conversion
+of public domain traffic into private domain traffic, in order to promote merchant information sharing, traffic interaction, thus forming
+a cloud ecological chain of resource sharing, benefit sharing and data sharing. 
+
+Intellegence
+believes that its Any-e Life platform provides an app that solves the difficulty of parking for drivers and car owners. You can check
+and reserve parking spaces, enter and exit the parking lot without delay, pay seamlessly, fees are deducted automatically. Our cloud
+platform includes: Parking management system, platform management system, merchant system, comprehensive city management cloud platform
+and other multiple management systems, fully meet the needs of each different users. We have accumulated a vast amount of user data,
+and can provide tailored services for each user such as online shopping; creates for e-commerce, which brings new revenue channels and
+sources for the platform. Intellegence has a combination of online and offline car services, covering auto repair and maintenance, auto
+supplies, auto body shop, modifications, car wash, and commercial business around the automotive industry. Auto finance: used cars, new
+car sales, auto loans, auto insurance, life insurance, etc. 
+
+Our
+facilities have integrated license plate recognition that includes (i) a 3-million-pixel HD license plate recognition camera, which captures
+clearer photos, higher license plate recognition rate; (ii) support for blue plate, yellow plate, green plate, double-layer license plate,
+public security, military vehicles and other license plate recognition; (iii) integrated chassis structure design, easy installation,
+better dustproof and waterproof effect; (iv) four by four LED display, taking into account the function and cost performance; (v) embedded
+license plate recognition special fill light, with its own light-sensor, automatically turns on at night, off during the day; and (vi)
+support for QR code cloud calls. 
+
+They
+also have DC brushless road gates that (i) are DC brush-less 24V motor, heat resistant, silent operation, power gate operating life span
+exceeds 5 million times; (ii) include digital control box, adjustable power gate speed between 1.5 - 6 seconds depends on pole length;
+(iii) retract upon collision, prevents tailgating, delayed automatic power-down function; (iv) self raise during malfunctions, external
+power supply automatically disconnects, to ensure normal passage of the lot; and (v) have red and green status lights, green light indicates
+open, red light indicates gate is currently closed. 
+
+Intellegence s
+parking cloud platform is a one-stop-shop unified management platform for on-street parking, off-street parking, three-dimensional garage,
+with high- and low-level monitoring, geomagnetic, charging station and other equipment. We use an SAAS architecture cloud platform, which
+can achieve an all-in-one hosting platform from project creation, deployment, operation and maintenance of the whole package. Applied
+in the parking industry, it is most suitable for unattended parking management. 
+
+No
+database needed on site; the cloud platform supports a high data processing capacity up to billions. All data can be permanently stored
+in the cloud platform, and the platform supports one-key hot upgrade when new updates and features are released, or customized functions
+are upgraded. It supports cameras access to almost all current license plate recognition manufacturers on the market, does not require
+any technical cooperation from equipment manufacturers. There is seamless access to the parking cloud platform without replacing any
+hardware equipment on site. All gate control and vehicle billing are controlled by the cloud platform, the site does not need a management
+booth or computer, reports and real-time monitoring can be viewed in real time through the cloud. One Smart Cloud Box can access up to
+48 channels of cameras, in most cases requires only one configuring box for each project. After the front-end license plate is captured,
+the box carries out secondary comparison by analyzing the captured photo, and once there is a camera recognition error, it can be corrected
+within 200ms, truly achieving 99.9 license plate recognition rate. 
+
+Intellegence
+expects to derive revenue from (i) both contract and partnership parking operations, and there are both city-level parking lots and single-unit
+projects that make profits from parking lot operations; (ii) business model design and the accumulation of platform users, we establish
+a platform ecosystem, realize the fundamental value of users, provide longer service span for users. Shared resources and business models
+for the platform merchants, provide system support for merchants to build digital operations, and help merchants to build their own digital
+assets; (iii) selling our parking hardware and developing software; (iv) the platform s hardware and software systems, where we
+connect docking lots, and its users then assist with cash flow, even though we do not participate in the operations; and (v) the preliminary
+project construction and equipment installation of parking lots. 
+
+Through
+the development of a series of reward and incentive policies (including cash), we will carry out comprehensive marketing and resource
+integration with different parties such as internal branches, regional agents, various different parking lots, as well as partner merchants
+and VIP users. The internal marketing department is responsible for marketing support and training, and is divided into several large
+regions for management and layout according to national regions. Intellegence will provide regional market development by local agents
+in local markets, regional marketing guidelines provided by Intellegence, and our headquarters to provide support. 
+
+7 
+
+Parking
+lots are the main entrance to get users, so we should focus on the expansion of parking lot users and add a new incentive mechanism to
+promote parking lot users. We want to make parking lot users into assets. We intend to develop an incentive structure for the promotion
+of users in the ecosystem, to increase the enthusiasm of cooperating merchants to promote users, so that each cooperating merchant plays
+an important role in user promotion. 
+
+The
+Company s bottom line subsidiaries include Zhuyi Technology (Anping) Co., a PRC company formed on May 12, 2022, which is engaged
+in the business of smart parking application software and technology development. Its legal representative is Zhang Guowei; Haikou Zhuyi
+Technology Co., a PRC company which was formed on May 9, 2022 and is engaged in the business of smart parking application software and
+technology development. Its legal representative is Zhang Guowei; Liangshan Tongfu Technology Co., a PRC company which was formed on
+November 13, 2018 and is engaged in the business of smart parking application software and technology development. Its legal representative
+is Zhu Zhibin; Zhejiang Linglingyi Network Technology Co., a PRC company which was formed on November 7, 2018 and is engaged in the business
+of smart parking application software and technology development. Its legal representative is Zhang Guowei; Yibin Huibo Technology Co.,
+a PRC company which was formed on July 5, 2019 and is engaged in the business of smart parking application software and technology development.
+Its legal representative is Zhang Guowei; Xide Zhuyi Technology Co., a PRC company which was formed on October 14, 2021 and is engaged
+in the business of smart parking application software and technology development. Its legal representative is Zhang Guowei; Hubei Tongpo
+Parking Management Co., a PRC company which was formed on November 4, 2020 and is engaged in the business of smart parking application
+software and technology development. Its legal representative is Zhang Guowei; and Zhuyi Technology (Taining) Co., a PRC company which
+was formed on May 18, 2021 and is engaged in the business of smart parking application software and technology development. Its legal
+representative is Zhang Guowei. 
+
+Our
+Goals 
+
+1.
+Building smart digital parking cloud platform. 
+
+2. Forming a harmonious digital ecosystem around smart parking. 
+
+3.
+Constructing intelligent cities across the globe. 
+
+4.
+Creating a brighter future for smart living. 
+
+Our
+core goal is to integrate resources, build a platform ecosystem, users focused, achieve multi-scenario satisfaction of user needs and
+transactions, and become an ecological operator of smart parking digital platform. 
+
+1.
+Operating a parking lot: Contracting to operate a parking lot as the main business of the parking lot operators, whose main profit is
+parking fees. (For example, contract contractors to operate parking lots for a variety of different operations). 
+
+2.
+Payment: Paid smart parking as the system s main goal. (such as ETC payment). 
+
+3.
+Building a platform, encourage derived businesses, integrating resources, building business circle, making rules and business model:
+Only by treating users as a fundamental part of the business, doing mobile application software + cloud platform + ecosystem would become
+our real challenge. Ultimately to establish multiple inner ecosystems and provide values to users. Establish self-sustained digital operations
+and open up more opportunities through our business model. 
+
+4.
+Equipment Sales: Mainly focus on the production and sales of equipment, simultaneously develop platform operations, the digital platform
+is mainly for the purpose of equipment sales, software is limited to parking management. 
+
+With
+the development of global economy, going abroad has become an essential step in the development process of every enterprise. In the process
+of globalization layout, the first phase will promote the brand in a more diversified form, focusing on the global business perspective,
+extending to Asian and European markets in the next three years, and then opening a global market service system. 
+
+Franchising
+Policies 
+
+The
+franchising policy mainly includes four aspects: 
+
+1.
+Regional Partner Policy; where regional agents need to have industry network resources, marketing team, and be able to interlock parking
+lots and ecosystem businesses, with a deposit of 100,000 yuan. There will be parking lot interlock incentives, merchant interlock incentives,
+user promotion incentives and regional market incentives. 
+
+8 
+
+2.
+Joint Parking Lot Policy; where (a) with single-operating parking lot cooperation, Intellegence invests in hardware equipment and software
+system, service charges are charged according to the number of channels, and parking charges are deposited into the parking lot owner s
+account within 7 days, (b) contracted parking lot is paid monthly or quarterly according to the annual contract amount, and the parking
+lot operated by joint cooperation is paid monthly according to the contracted share ratio, (c) there are non-operating parking lot policy:
+Policy documents need to be issued by local government departments, and (d) urban-level parking lots are tendered or set up joint ventures
+according to each project, with various cooperation models such as PPP, BOT, EPC+O, etc. 
+
+3.
+Platform Merchant Franchising Policy; where there must a legal business license and physical store, willing to join the platform ecosystem,
+pre-joined merchants are free to join. The platform collects a certain percentage of service fee based on the transaction volume. Merchants
+who refer users can get a 5 reward for each users total amount spent in any of the platform s businesses. VIP users can
+get a 10 reward for pre-paying their account, merchants who refer can get a 1 reward of merchants transaction flow in the platform. 
+
+4.
+VIP User Policy; where users retain VIP status once account pre-pay amount reaches 1,000 yuan, pre-paid amount can be used for parking
+payment, direct payment to platform merchants, and any spending in the platform online store. Users who refer VIP users can get 10 of
+their pre-paid amount and 5 of their referred users spending in the platform ecosystem, referring merchants can get 1 of their
+platform sales. 
+
+Market
+Analysis 
+
+Under
+the traditional parking management system, China s parking industry has two significant problems: the shortage of parking spaces
+and low utilization rate. At present, the average utilization rate of parking spaces in China is about 40 , the larger the scale of the
+parking lot, the lower the utilization rate, such as the largest commercial complex parking lot, but the average daily utilization rate
+is only 37 , which is lower than the average level of other types of parking lots. Over 90 of cities in China have an overall parking
+utilization rate of less than 50 , and the parking utilization rate in major cities such as Beijing, Shanghai and Guangzhou is in the
+range of 40-50 , which is a waste of parking resources. 
+
+Under
+the traditional parking space management system, the degree of specialization in parking management is low, the industry is highly fragmented,
+and there is a lack of large specialized parking management companies. There are many types of market participants with different standards,
+the uneven level of control prevents the centralized management of traditional parking spaces, which further hinders the effective use
+of parking spaces and is not conducive to the improvement of parking space utilization. 
+
+In
+Beijing, there are 6,581 registered parking lots, but more than 3,000 property management companies and parking lot management companies
+are involved in management. The market share of parking spaces of the top four management companies only accounts for 8.5 ; the market
+share of the top-ranked parking management company is 4.4 , and the market share of parking spaces is only 1.9 . At the same time, China s
+traditional parking management system has a low level of intelligence and management method. 
+
+According
+to Sullivan s data, the coverage rate of intelligent parking lots in major cities such as Beijing, Shanghai, Guangzhou and Shenzhen
+is less than 10 , and most domestic parking lots still adopt the traditional card and ticket entrance/exit management method,
+with manual charging as the main method. The backward management method leads to the problems of slow access, difficulty in finding parking
+space and difficulty in finding a car. The length of time and difficulty for car owners to find cars increases with the scale of the
+car park. 
+
+For
+example, the parking lot of commercial complex is generally large in scale and complex in structure, and the user s search time
+is often 4-6 times of the average search time of other types of parking lots (residential, commercial office buildings, transportation
+hubs, etc.). The backward management method greatly lengthens the time of occupied parking spaces, hinders the improvement of parking
+space turnover rate, and even directly causes poor user parking experience. 
+
+With
+the problem of difficult parking becoming more and more prominent, the commercial and social value of the smart parking
+industry has also become more and more prominent. Smart parking management mode can effectively improve the utilization of parking resources,
+thus alleviating the problem of urban parking difficulties. It is sought after by all social forces (capital, policy, technology, users,
+etc.) and can promote the further development of the industry. 
+
+9 
+
+China s
+smart parking industry has not yet issued a national unified construction standard, the construction of parking information systems in
+local cities across the country lacks a unified normative basis, and the smart parking systems built by various office buildings, hotels,
+shopping malls, and communities lack integrated planning and architecture specifications, especially for applications in commercial areas
+and communities, with significant differences in architecture between systems, leading to difficulties in information exchange and system
+integration. There are a large number of smart parking enterprises and derivatives on the market, each smart parking products and service
+providers is on their own, the products and systems launched are not compatible with each other. In the smart parking application field,
+the market is not yet standardized nationwide via a single parking app, all parking apps information is not incorporated or shared, forming
+many singled out information islands, which is against the original intention of revitalizing the market of smart parking. These apps
+also have different user experiences, which brings a lot of inconvenience to consumers, and eventually abandoned by many of them, which
+is not beneficial to the expansion and popularity of smart parking network. 
+
+In
+addition, the development of the industry is not standardized, there are some providers who do not have the resources to research, develop
+and provide post-sale services, who end up reducing prices to sell low-quality products. No real competing power, disrupting the market
+order, causing quality manufacturers a certain amount of competitive pressure, intensifying a degree of competition in the industry,
+which is not favorable to a healthy development of the industry. 
+
+In
+the past three years, internet companies have entered the smart parking industry in a big way with capital. in February 2018, Ant Group
+under Alibaba took a 200-million-yuan stake in J-Parking. In August of the same year, Tencent made a strategic investment in Xiamen Ketuo
+Co. 
+
+Internet
+companies have combined their advantages in artificial intelligence, mobile payment and other technologies with smart parking platforms
+for strategic cooperation. This strategic cooperation between internet companies and smart parking platforms has made unattended and
+sensor less payment the trend of industry development. The mainstream smart parking operation platform has access to Alipay, WeChat payment
+and other mobile payment technologies. In May 2018, Baidu and ETCP reached a strategic cooperation, through the parking payment 
+page of Baidu Map or the ETCP Parking APP, car owners can check parking information in real time, navigate to the parking
+lot, and enjoy smart parking services such as electronic payment for entering and exiting the parking lot without parking, achieving
+a harmonious system of shared data and integrated platform. 
+
+Baidu,
+Ali, Tencent and other Internet giants have entered the game one after another, not only to provide a solid financial basis for the transformation
+of parking services, also the integration of on-line operations and smart parking, which boosts rapid and steady development of the industry,
+driving the industry into a new stage of development. As the head enterprises in the smart parking industry accelerate their capital
+operation, the industry will accelerate the pace of high-quality parking resources, and will also surge a wave of mergers and acquisitions,
+resulting industry integration to be further accelerated. 
+
+According
+to some developed countries, the ratio of car to parking spaces is 1:1.3, while the average in China is less than 1:0.5, which is a serious
+imbalance between supply and demand, car owners and drivers usually cannot find a parking space after driving out to the destination,
+due to the difficulty of finding parking spaces leading to unlawful parking, road congestion, traffic accidents and other problems, bringing
+concerns to the government s urban traffic. 
+
+Analysis
+from the perspective of the needs of car owners and drivers: This part of the user demand we call C-end user demand, its demand for parking
+is extremely urgent and rigid, they hope to be able to check the availability of parking spaces near the destination in advance before
+leaving home, you can reserve a parking space in advance. At the same time, as car owners and drivers, they hope that the platform can
+provide them with more user-friendly, more detailed and comprehensive services and better experience. 
+
+Analysis
+from the perspective of different parking space owners and operators: They want to realize unattended and automated payments; they want
+to reduce operating costs and improve operational efficiency; they want to realize intelligent and digital management and turn their
+resources into their digital assets. 
+
+Analysis
+from the perspective of city planners: They want to have a software, a system and a platform to integrate the parking spaces of different
+property rights in the whole city, to achieve data integration and sharing, and to realize real-time data update, query, regulation and
+scheduling. 
+
+Analysis
+from the perspective of the state, to promote the industry and industrial development: The smart parking industry covers a wide range,
+long industry chain, the state hopes to have a comprehensive digital, industry-wide platform for industry resource integration and information
+sharing, in order to promote the development of the whole industry. 
+
+10 
+
+Competitive
+Advantages 
+
+We
+believe that Intellegence has significant advantages in terms of development strategy, technology, team, business model and capital operation.
+After years of cultivation and accumulation, Intellegence has its own intellectual property rights of smart parking mobile application
+software, parking management system, merchant system and smart parking cloud platform. We have a professional and well-structured technical
+team, management team, operation team, and marketing team. 
+
+Business
+Model 
+
+Intellegence
+intends to carry out software and hardware system conversion for existing parking lots, to achieve a smart, digital, platform operation,
+from constructing to profiting. We shall integrate resources and processing transactions by undergoing software development and using
+our own merchant marketing management software. The Company will operate the lots by contracting them out and profiting from the parking
+fees. We hope to gain revenue through the sales of various smart parking hardware, including smart car stopper, smart parking machine,
+smart cloud box, geomagnetic, etc. We also have E-commerce, membership, sales profit and sales commission on Any-e platform and want
+to utilize the platform s database, build an O2O business model for the automotive aftermarket, which brings more opportunities,
+more stable and sufficient cash flow and ultimately revenue to the platform. We believe there are advantages to our partnership operation
+model, capital operation model, digital, ecological, and platform operation business model. Intellegence has a strong resource integration
+capability, from parking, car owners, online and offline merchants, industry support to O2O platform, etc. Multi-platform resource integration
+to open up each service channel, to achieve shared user resources in the ecosystem, to better assist each and every user. 
+
+Employees 
+
+As
+of May 31, 2023: 
+
+Company
+ name 
+ 
+ Part-time/Full-time 
+ 
+ Number
+ of employees 
+ 
+ SavMobi
+ Technology, Inc. 
+ 
+ Full-time 
+ 
+ 4 
+ 
+ Intellegence
+ Parking Group Limited and its subsidiaries 
+ 
+ Full-time 
+ 
+ 0 
+ 
+ Zhejiang
+ Jingbo Ecological Technology Co. and its subsidiaries 
+ 
+ Full-time 
+ 
+ 137 
+
+We
+anticipate hiring additional employees in the next twelve months. We anticipate hiring necessary personnel based on an as needed basis
+only on a per contract basis to be compensated directly from revenues. 
+
+Item
+1A. Risk Factors 
+
+Smaller
+reporting companies are not required to provide the information required by this Item 1A. 
+
+Item
+1B. Unresolved Staff Comments 
+
+None 
+
+Item
+2. Properties 
+
+The
+Company entered into 16 contracts renting offices, warehouses and parking lots. Contracted terms ranged between two and eight years with
+the earliest start date being January 8, 2019. 
+
+The
+Company purchased an office building in July,2020. Address of the building is Building B8, China Zhigu Fuchun, Yinhu Village, Shoujiang
+town, Fuyang District, China 
+
+Item
+3. Legal Proceedings 
+
+There
+is no pending legal proceeding to which the Company is a party or in which any director, officer or affiliate of the Company, any owner
+of record or beneficially of more than 5 of any class of voting securities of the Company, or security holder is a party adverse to
+the Company or has a material interest adverse to the Company. The Company s property is not the subject of any pending legal proceedings. 
+
+Item
+4. Mine Safety Disclosures 
+
+Not
+applicable. 
+
+11 
+
+PART
+II 
+
+Item
+5. Market for Company s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market
+Information 
+
+On
+April 13, 2022, a bid and an ask was initially posted. 
+
+The
+high and low bid prices of our common stock following such date is as follows: 
+
+Quarter
+ Ended 
+ High 
+ Low 
+ 
+ June 30, 2022 
+ 1.00 
+ 0.028 
+ 
+ September 30, 2022 
+ 0.15 
+ 0.10 
+ 
+ December 31, 2022 
+ 1.95 
+ 0.175 
+ 
+ March 31, 2023 
+ 2.30 
+ 1.00 
+ 
+ June 30, 2023 
+ 3.08 
+ 0.0251 
+
+The
+last reported sales price of our common stock on the OTCMarkets on September 8, 2023, was 1.50 
+
+Dividend
+Policy 
+
+We
+have not declared or paid dividends on our common stock since our formation, and we do not anticipate paying dividends in the foreseeable
+future. Declaration or payment of dividends, if any, in the future, will be at the discretion of our Board of Directors and will depend
+on our then current financial condition, results of operations, capital requirements and other factors deemed relevant by the Board of
+Directors. There are no contractual restrictions on our ability to declare or pay dividends. 
+
+Holders 
+
+As
+of October 2, 2023, there were 1,061,900,000 shares of common stock issued and outstanding, which were held by 15,032 stockholders
+of record. 
+
+Equity
+Compensation Plans 
+
+We
+do not have any equity compensation plans. 
+
+Recent
+Sales of Unregistered Securities; Use of Proceeds from Registered Securities 
+
+None 
+
+Purchases
+of Equity Securities by the Small Business Issuer and Affiliated Purchasers 
+
+None. 
+
+Item
+6. Selected Financial Data. 
+
+Smaller
+reporting companies are not required to provide the information required by this Item 6. 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+The
+following management s discussion and analysis should be read in conjunction with our financial statements and the notes thereto
+and the other financial information appearing elsewhere in this report. Our financial statements are prepared in U.S. dollars and in
+accordance with U.S. GAAP. 
+
+12 
+
+Special
+Note Regarding Forward Looking Statements 
+
+In
+addition to historical information, this report contains forward-looking statements. We use words such as believe, expect, 
+ anticipate, project, target, plan, optimistic, intend, 
+ aim, will or similar expressions which are intended to identify forward-looking statements. Forward-looking
+statements speak only as of the date they are made, are based on various underlying assumptions and current expectations about the future.
+Accordingly, such information should not be regarded as representations that the results or conditions described in such statements or
+that our objectives and plans will be achieved and we do not assume any responsibility for the accuracy or completeness of any of these
+forward-looking statements. You are cautioned that any such forward-looking statements are not guarantees of future performance and involve
+risks and uncertainties, as well as assumptions, which, if they were to ever materialize or prove incorrect, could cause our results
+to differ materially from those expressed or implied by such forward-looking statements. 
+
+Readers
+are urged to carefully review and consider the various disclosures made by us in this report and our other filings with the SEC. These
+reports attempt to advise interested parties of the risks and factors that may affect our business, financial condition and results of
+operations and prospects. The forward-looking statements made in this report speak only as of the date hereof and we disclaim any obligation,
+except as required by law, to provide updates, revisions or amendments to any forward-looking statements to reflect changes in our expectations
+or future events. 
+
+Overview 
+
+On
+March 6, 2015, SavMobi Technology Inc. the Company , was incorporated in the State of Nevada and established a fiscal year
+end of May 31. Initially the business platform was in providing application software to a global vendor platform to connect people to
+businesses and provide a new shopping experience. 
+
+On
+May 18, 2017, Lakwinder Singh Sidhu, the Company s former Director and CEO, completed a transaction with New Reap Global Ltd.,
+by which New Reap Global Ltd. acquired 32,500,000 shares of common stock, representing 68.4 ownership of the Company. 
+
+On
+March 19, 2018 New Reap Global transferred 250,000 restricted shares to Eng Wah Kung. 
+
+On
+May 10, 2018 and May 30, 2018, 16,959,684 were transferred to Arden Wealth and Trust. 2,000,000 shares are free trading from HongLing
+Shang, 559,684 restricted shares from New Reap Global, LTD and 2,400,000 each from Xuedong Zhang, Jingmei Jiang, Qianxian, Yulan Qi,
+Baoxin Song, Jianlong Wu. 
+
+On
+June 15, 2018 New Reap Global transferred 690,316 restricted shares to EMRD Global Holdings. 
+
+On
+June 26, 2018 New Reap Global transferred 3,000,000 restricted shares to FORTRESS ADVISORS, LLC and 3,000,000 to Baywall Inc. 
+
+On
+November 10, 2020, ten (10) shareholders of the Company, including affiliates Arden Wealth Trust (Switzerland) AG and New Reap
+Global Limited, entered into stock purchase agreements with an aggregate of nineteen (19) non-U.S. accredited investors to sell an aggregate
+of 42,440,316 shares of common stock of the Company, which represents approximately 68.6 of the issued and outstanding shares
+of common stock of the Company. 
+
+On
+June 8, 2022, three (3) shareholders of the Company, including Ma Hongyu, Ye Caiyun, and Li Wenzhe entered into stock purchase agreements
+with an aggregate of five (5) non-U.S. accredited investors (the Purchase Agreements to sell an aggregate of 25,095,788
+shares of common stock of the Company, which represents approximately 40.54 of the issued and outstanding shares of common stock of
+the Company, for consideration of 250,958. 
+
+The
+Purchase Agreements were fully executed and delivered on June 8, 2022. Zhang Yiping and Chen Xinxin acquired approximately 24.54 and
+6.46 of the issued and outstanding shares of the Company, respectively, and the remaining purchasers each acquired less than 4.99 of
+the issued and outstanding shares. After the change of ownership, the Company s current principal offices is located in Building
+B8, China Zhigu, Yinhu Street, Fuyang District, Hangzhou, Zhejiang, China. 
+
+Purchasers 
+ Shares
+ acquired 
+
+Zhang Yiping 
+ 15,189,500 
+ 24.54 
+ 
+ Chen Xinxin 
+ 4,000,000 
+ 6.46 
+ 
+ Wang Yanfang 
+ 2,000,000 
+ 3.23 
+ 
+ Liu Chen 
+ 2,000,000 
+ 3.23 
+ 
+ Liu Ying 
+ 1,906,288 
+ 3.08 
+
+13 
+
+On
+December 15, 2022, Savmobi Technology, Inc. SVMB, entered into a share exchange agreement (the Share Exchange
+Agreement with Intellegence Parking Group Limited Intellegence ), a Cayman Island company formed on June 29, 2022,
+Chen Xinxin Xinxin ), the officer and director, and control shareholder of Intelligence and the shareholders of Intelligence
+(the Shareholders ). Under the Share Exchange Agreement, One Hundred Percent (100 of the ownership interest of Intellegence
+was exchanged for 1,000,000,000 shares of common stock of SVMB issued to the Shareholders, in accordance with the Share Exchange Agreement.
+The former stockholders of Intellegence will acquire a majority of the issued and outstanding common stock as a result of the share exchange
+transaction. The transaction has been accounted for as a recapitalization of the Company, whereby Intellegence is the accounting acquirer. 
+
+Immediately
+after completion of such share exchange, SVMB will hold a total of 200,000,000 issued and outstanding shares of Intellegence. Zhang Guowei
+is the sole director of Intellegence Parking Group Limited. 
+
+Consequently,
+SVMB has ceased to fall under the definition of shell company as define in Rule 12b-2 under the Exchange Act of 1934, as amended (the
+ Exchange Act and Intellegence is now a wholly owned subsidiary. 
+
+Intellegence
+Parking Group Limited Intellegence Parking was incorporated on June 29, 2022 under the laws of Cayman Islands. It is
+controlled by Guowei Zhang, Xiujuan Chen, Hongwei Li and Chuchu Zhang. Intellegence Parking is an investment holding company. 
+
+Intellegence
+Parking (Hong Kong) Limited Intellegence HK was incorporated on July 20, 2022 under the laws of Hong Kong SAR. Intelligence
+HK is a wholly subsidiary of Intellegence Parking since incorporation and it is an investment holding company. 
+
+Huixin
+Zhiying (Hangzhou) Technology Co. Huixin was incorporated on October 24, 2022 under the laws of PRC. It is a wholly owned
+subsidiary of Intellegence HK since incorporation and it is an investment holding company. 
+
+Pursuant
+to the Business Operation Agreement entered into among Huixin WFOE and Zhejiang Jingbo Ecological Technology Co. The Company obtained
+control over these PRC domestic companies by entering into a series of contractual arrangements with these PRC domestic companies and
+their respective Nominee Shareholders. These contractual agreements include power of attorney, exclusive option agreement, exclusive
+business cooperation agreements, equity pledge agreements, and other operating agreements. These contractual agreements can be extended
+at the relevant PRC subsidiaries options prior to the expiration date. As a result, the Company maintains the ability to control
+these PRC domestic companies, is entitled to substantially all of the economic benefits from these PRC domestic companies and is obligated
+to absorb all expected losses of these PRC domestic companies. 
+
+Zhejiang
+Jingbo Ecological Technology Co. is a PRC company which was formed on December 18, 2019 and is engaged in the business of smart parking
+application software and platform operations business. Zhang Guowei has been the Chairman of Zhejiang Jingbo Ecological Technology Co.
+since December 2019. 
+
+Hangzhou
+Zhuyi Technology Co. Hangzhou Zhuyi was incorporated under the laws of the PRC on November 13, 2017 with a capital of
+RMB 60,000,000. The majority shareholder at the time of establishment was Guowei Zhang. On April 1, 2020, Zhejiang Jingbo Ecological
+Technology became the sole shareholder of Hangzhou Zhuyi. Hangzhou Zhuyi is specialized in smart parking projects, smart parking mobile
+applications and cloud platform construction innovation. 
+
+Zhejiang
+Linglingyi Network Technology Co. Linglingyi was incorporated on November 17, 2018. Its sole director is Guowei Zhang.
+Hangzhou Zhuyi acquired 100 of Linglingyi on April 29. 2022. Its main businesses are smart parking projects and smart parking mobile
+applications. 
+
+Liangshan
+Tongfu Technology Co. Liangshan was incorporated on November 13, 2018. On October 2, 2022, Hangzhou Zhuyi entered
+in a share agreement with Hangzhou Kaai Technology Co. to purchase 26 of Liangshan s shares. As a result, Hangzhou Zhuyi holds
+67 of Liangshan. Liangshan is into smart parking projects and smart parking mobile applications businesses. 
+
+Zhuyi
+Technology (Anping) Co. Anping was incorporated on May 12, 2022, which is 90 owned by Hangzhou Zhuyi and it mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+14 
+
+Haikou
+Zhuyi Technology Co. Haikou was incorporated on May 9, 2022 which is a wholly subsidiary of Hangzhou Zhuyi. It mainly
+focuses on smart parking projects and smart parking mobile applications. 
+
+Yibin
+Huibo Technology Co. Yibin was incorporated on July 4, 2019, which is 80 owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Xide
+Zhuyi Technology Co. Xide was incorporated on October 14, 2021, which is 67 owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Hubei
+Tongpo Parking Management Co. Tongpo was incorporated on November 4, 2020, which is a wholly subsidiary of Hangzhou Zhuyi.
+It mainly focuses on smart parking projects and smart parking mobile applications. 
+
+Zhuyi
+Technology (Taining) Co. Taining was incorporated on May 18, 2021, which is 72 owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Intellengence
+Parking Group Limited provides smart parking projects, smart parking mobile applications and cloud platform construction innovation through
+its consolidated subsidiaries, variable interest entities VIE s) and VIE s subsidiaries. 
+
+Corporate
+Structure 
+
+15 
+
+For
+the Year Ended May 31, 2023 Compared to the Year Ended May 31 2022 
+
+Revenue 
+
+The
+Company generated 3,723,088 in revenues during the financial year ended May 31, 2023 compared to 3,563,527 during the year ended May
+31, 2022. Revenue mainly comprised of parking fee. Revenue generated over the last two years was very similar. The Company operated in
+normal circumstances. 
+
+Cost
+of Revenues 
+
+During
+the year ended May 31, 2023, the Company incurred 4,132,481 in cost of revenues compared to 4,571,107 for the year ended May 31, 2022.
+Cost of revenue mainly consisted of depreciation, salary and maintenance expenses. The decrease in cost of revenues was contributed by
+the decrease in maintenance expenses for parking lots. 
+
+Gross
+loss 
+
+Gross
+loss was 409,393 for the year ended May 31, 2023 compared to 1,007,580 for the year ended May 31, 2022. The decrease was mainly contributed
+by the decrease in cost of revenue. 
+
+Selling
+and marketing expenses 
+
+During
+the year ended May 31, 2023, we incurred selling and marketing expenses of 456,023 compared to 864,011 for the year ended May 31, 2022.
+Selling and marketing expenses for the year ended May 31, 2023 and 2022 mainly included salary expenses, travelling expenses and advertisement
+expenses. The decrease in selling and marketing expenses was primarily due to an decrease in travelling and salary expenses. We reduced
+the number of staff doing promotion of our Company. 
+
+General
+and Administrative Expenses 
+
+During
+the year ended May 31, 2023, we incurred general and administrative expenses of 4,481,871 compared to 3,537,855 incurred during the
+year ended May 31, 2022. General and administrative expenses incurred during the year ended May 31, 2023 mainly consisted of business
+hospitality expenses, salary expenses and office expenses. The increase in general and administrative expenses was mainly due to the
+increase in business hospitality fees. 
+
+Research
+and development expenses 
+
+During
+the year ended May 31, 2023, we incurred research and development expenses of 396,849 compared to 723,668 for the year ended May 31,
+2022. R D expenses mainly included salary expenses and depreciation expenses. The decrease in R D expenses was contributed to
+a decrease in depreciation expenses. 
+
+Net
+loss 
+
+As
+the result of foregoing, the net loss for the years ended May 31, 2023 and 2022 was 6,783,522 and 6,894,883, respectively. 
+
+Liquidity
+and Capital Resources 
+
+As
+of May 31, 2023, the Company had total assets of 12,876,636 comprising current assets of 3,117,996 and non-current assets of 9,758,640
+compared to total assets of 18,357,783 consisting of current assets of 6,889,070 and non-current assets of 11,468,713 as of May 31,
+2022. The Company s total liabilities as of May 31, 2023 were 36,764,281, which was comprised of current liabilities of 3,902,103
+and non-current liabilities of 32,862,178. This compares with total liabilities of 36,791,471 as of May 31, 2022, which was comprised
+of current liabilities of 3,279,881 and non-current liabilities of 33,511,590. 
+
+The
+following is a summary of the Company s cash flows provided by (used in) operating, investing, and financing activities for the
+years ended May 31, 2023 and 2022. 
+
+Year
+ Ended May 31, 
+
+2023 
+ 2022 
+ 
+ Net cash provided by/(used in)
+ operating activities 
+ 102,130 
+ (17,094,189 
+ 
+ Net cash (used in)/provided by investing activities 
+ (1,614,513 
+ 167,610 
+ 
+ Net cash provided by financing activities 
+ 1,913,012 
+ 16,904,719 
+ 
+ Effect of exchange rate
+ changes on cash and cash equivalents 
+ (15,438 
+ (5,256 
+ 
+ Net increase/(decrease) in cash and cash equivalents 
+ 385,191 
+ (27,116 
+ 
+ Cash and cash equivalents
+ at the beginning of period 
+ 108,787 
+ 135,903 
+ 
+ Cash and cash equivalents
+ at the end of period 
+ 493,978 
+ 108,787 
+
+16 
+
+Cash
+Flows from Operating Activities 
+
+For
+the year ended May 31, 2023, net cash provided by operating activities was 102,130, mainly comprised of a net loss of 6,783,522, an
+increase in accounts receivable of 972,009, a decrease in prepaid expenses and other current assets of 3,992,099 and depreciation and
+amortization expenses of 1,559,215. For the year ended May 31, 2022, net cash flows used in operating activities were 17,094,189, consisting
+primarily of a net loss of 6,894,883, an increase in prepaid expenses and other current assets of 5,213,847 and a decrease in accounts
+payable and other current liabilities of 7,551,154. 
+
+Cash
+Flows from Investing Activities 
+
+Net
+cash flows used in investing activities were 1,614,513, mainly comprising a purchase of property and equipment of 3,801,885 and proceeds
+from sale of property and equipment of 2,848,949 for the year ended May 31, 2023 compared to net cash flows provided by investing activities
+of 167,610 for the year ended May 31, 2022 mainly comprised of an increase in loan receivable of 2,067,575, proceeds from sale of property
+and equipment of 938,482 and a purchase of property and equipment of 2,554,572. 
+
+Cash
+Flows from Financing Activities 
+
+We
+have financed our operations primarily from either capital contributions or financial instruments. For the year ended May 31, 2023, net
+cash provided by financing activities was 1,913,012 consisting mainly of proceeds from long-term borrowings of 1,814,559 and repayments
+of long-term borrowings of 598,748. For the year ended May 31, 2022, net cash provided by financing activities was 16,904,719 consisting
+primarily of proceeds from paid in capital of 7,019,564 and long-term loan of 10,166,910. 
+
+Going
+Concern Consideration 
+
+The
+ability to continue as a going concern is dependent upon long-term loans related to Shaoxing Keqiao Zhuyi Technology Co. and the director
+(Guowei Zhang) to meet its obligations and repay its liabilities arising from normal business operations when they become due. These
+consolidated financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and
+classification of liabilities that might be necessary should the Company be unable to continue as a going concern 
+
+These
+conditions raise substantial doubt about the Company s ability to continue as a going concern. The Company s continuation
+as a going concern is dependent on long term loans related to Shaoxing Keqiao Zhuyi Technology Co. and the director (Guowei Zhang) to
+meet obligations as they become due and to obtain additional equity or alternative financing required to fund operations until sufficient
+sources of recurring revenues can be generated. There can be no assurance that the Company will be successful in its plans described
+above or in attracting equity or alternative financing on acceptable terms, or if at all. The consolidated financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. 
+
+Off-Balance
+Sheet Arrangements 
+
+The
+Company does not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on the
+Company s financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital
+expenditures or capital resources that is material to investors. 
+
+Contractual
+Obligations 
+
+As
+a smaller reporting company as defined by Item 10 of Regulation S-K, the Company is not required to provide this information. 
+
+17 
+
+Critical
+Accounting Policies and Estimates 
+
+We
+prepare our financial statements in conformity with U.S. GAAP, which requires management to make certain estimates and apply judgments.
+We base our estimates and judgments on historical experience, current trends and other factors that management believes to be important
+at the time the condensed financial statements are prepared. On a regular basis, we review our accounting policies and how they are applied
+and disclosed in our condensed financial statements. 
+
+While
+we believe that the historical experience, current trends and other factors considered support the preparation of our financial statements
+in conformity with U.S. GAAP actual results could differ from our estimates and such differences could be material 
+
+Impact
+of Inflation 
+
+In
+accordance with the National Bureau of Statistics of China, the year-over-year percentage changes in the consumer price index for March
+2019, 2020, 2021 and 2022 were 2.3 , 4.3 , 4.4 and 2 , respectively. Inflation in China has not materially affected our profitability
+and operating results. However, we can provide no assurance that we will be unaffected by higher inflation rates in China in the future. 
+
+Foreign
+Currency Exchange Rates 
+
+We
+are not materially affected by foreign currency exchange rates. However, it is difficult to predict how market forces, or PRC or U.S.
+government policy, might affect our operations. There remains significant international pressure on the PRC government to adopt a substantial
+liberalization of its currency policy, which could result in a further and more significant change in the value of the RMB against the
+U.S. dollar. Limited hedging transactions are available in China to reduce our exposure to exchange rate fluctuations. So far, we have
+not entered into any hedging transactions in an effort to reduce our exposure to foreign currency exchange risk. While we potentially
+may decide to enter into hedging transactions in the future, the availability and effectiveness of these hedging transactions may be
+limited, and we may not be able to successfully hedge our exposure at all. Furthermore, our currency exchange losses may be magnified
+by PRC exchange control regulations that restrict our ability to convert RMB into foreign currency. 
+
+18 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To:
+ 
+ The
+ Board of Directors and Stockholders of 
+
+SavMobi
+ Technology Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of SavMobi Technology Inc. (the Company) as of May 31, 2023 and 2022, and the related consolidated
+statement of operations and comprehensive income (loss), changes in equity, and cash flow for year ended May 31, 2023 and 2022, and the
+related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all
+material respects, the financial position of the Company as of May 31, 2023 and 2022, and the result of its operations and its cash flow
+for the year then ended May 31, 2023 and 2022, in conformity with accounting principles generally accepted in the United States. 
+
+Explanatory
+Paragraph Regarding Going Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+3 to the financial statements, the Company had incurred substantial losses during the year, and has a working capital deficit, which
+raises substantial doubt about its ability to continue as a going concern. Management s plan in regards to these matters are described
+in Note 3. These financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matter 
+
+1. The
+ Company conducted transactions with its related parties and affiliates during the normal
+ course of its business in 2023. The Company has entered into a number of transactions with
+ these related parties, including director remuneration which represented as costs and expenses
+ to the Company. We identified the evaluation of the identification of related parties and
+ related party transactions as a critical audit matter. Auditor judgment was involved in assessing
+ the sufficiency of the procedures performed to identify related parties and related party
+ transactions of the Company. 
+
+19 
+
+How
+the Critical Audit Matter Was Addressed in the Audit 
+
+We
+performed the following procedures to evaluate the identification of related parties and related party transactions by the Company: 
+
+Conducted
+ background checks, and reviewed other public research sources for information related to transactions between the Company and its
+ related parties 
+
+Performed
+ confirmations for account balances with related parties 
+
+Reviewed
+ transaction details in the accounts payable system for transactions with related parties 
+
+Examined
+ the Company s reconciliation of its related parties transactions and balances 
+
+Tested
+ expenses transactions between the Company and its related parties 
+
+2. As
+ described in Note 3, for the fiscal years ended May 31, 2023 and 2022, the Company reported
+ accumulated deficit of 23,887,645 and 18,433,688 and a working capital deficiency/(equity)
+ of 784,107 and 3,609,189), respectively. The Company s operations are mainly funded
+ with debt financing, which is dependent upon many external factors and may be difficult to
+ raise when required. The Company may not have sufficient cash to fund its operations, and
+ therefore, will require additional funding, which if not raised, may result in the delay,
+ postponement or curtailment of some or all of its activities. Management has prepared future
+ cash flow forecasts, which involves judgement and estimation of key variables, such as planned
+ expenditures, future financings and market conditions. 
+
+We
+identified the Company s ability to continue as a going concern as a critical audit matter because auditing the Company s
+going concern assessment is complex and involves a high degree of auditor judgment to assess the reasonableness of the cash flow forecasts,
+planned refinancing actions and other assumptions used in the Company s going concern analysis. The Company s ability to
+execute the planned refinancing actions are especially judgmental given that the global financial markets. 
+
+This
+matter is also described in the Explanatory Paragraph Regarding Going Concern section of our report. 
+
+How
+the Critical Audit Matter Was Addressed in the Audit 
+
+We
+responded to this matter by performing procedures over management s assessment of the Company s ability to continue as a
+going concern. Our audit work in relation to this included, but was not restricted to, the following: 
+
+We
+ inquired with management whether there is substantial doubt regarding the Company s ability to continue as a going concern; 
+
+We
+ have received the confirmation of financial support from the long term loan creditor and company director, indicating their willingness
+ to continue supporting the company on the next twelve months. 
+
+We
+ reviewed the related financial statement disclosure in the notes to the financial statements to ensure they are adequate. 
+
+Chartered
+Accountants 
+
+October 2, 2023 
+
+We
+have served as the Company s auditor since 2023 
+
+20 
+
+Savmobi
+Technology, Inc. 
+
+ Consolidated
+Balance Sheets 
+
+ As
+of the years ended May 31, 2023 and 2022 
+
+May
+ 31, 2023 
+ May
+ 31, 2022 
+
+Assets 
+
+Current
+ assets 
+
+Cash
+ and cash equivalents 
+
+Restricted
+ cash 
+
+Accounts
+ receivable 
+
+Inventories 
+
+Amount
+ due from related parties 
+
+Prepaid
+ expenses and other current assets 
+
+Total
+ current assets 
+
+Non-current
+ assets 
+
+Plant
+ and equipment, net 
+
+Intangible
+ assets, net 
+
+Right-of-use
+ assets 
+
+Other
+ non-current assets 
+
+Total
+ non-current assets 
+
+Total Assets 
+
+Liabilities and Stockholders 
+ (Deficit) Equity 
+
+Current
+ liabilities 
+
+Accounts
+ payables 
+
+Advances
+ from customers 
+
+Other
+ current payables 
+
+Taxes
+ payable 
+
+Amounts
+ due to related parties 
+
+Operating
+ lease liabilities, current 
+
+Total
+ current liabilities 
+
+Non-current
+ liabilities 
+
+Long-term
+ loan 
+
+Operating
+ lease liabilities 
+
+Total
+ non-current liabilities 
+
+Total Liabilities 
+
+Stockholders (Deficit)
+ Equity 
+
+Common
+ stock par value, and shares authorized, and share issued and outstanding
+ as of May 31, 2023 and 2022, respectively) 
+
+Additional paid-in capital 
+
+Accumulated
+ deficit 
+
+Accumulated
+ other comprehensive income 
+
+Non-controlling
+ interest 
+
+Total
+ (Deficit) Equity 
+
+Total
+ Liabilities and (Deficit) Equity 
+
+21 
+
+Savmobi
+Technology, Inc. 
+
+ Consolidated
+Statements of Operations and Comprehensive Loss 
+
+ for
+the years ended May 31, 2023 and 2022 
+
+2023 
+ 2022 
+
+Net revenues 
+
+Cost of revenues 
+
+Gross loss 
+
+Operating expenses: 
+
+Tax and surcharges 
+
+Selling and marketing expenses 
+
+General and administrative expenses 
+
+Research and development expenses 
+
+Impairment losses 
+
+Total operating expenses 
+
+Operating income/(loss) 
+
+Other income (expenses): 
+
+Interest income 
+
+Other income/(expense) 
+
+Total other income and (expenses) 
+
+Loss before taxes from operations 
+
+Provision for income taxes 
+ 
+ - 
+
+Net loss 
+
+Other comprehensive income: 
+
+Foreign currency translation income 
+
+Total comprehensive loss 
+
+Net loss attributable to : 
+
+Owners of the Company 
+
+Non-controlling interest 
+
+Net Loss 
+
+Total comprehensive loss attributable to: 
+
+Owners of the Company 
+
+Non-controlling interest 
+
+Total comprehensive loss 
+
+Loss per common share: 
+
+Basic and diluted 
+
+Weighted Average Number of Common Share Outstanding: 
+
+Basic and Diluted 
+
+22 
+
+Savmobi
+Technology, Inc. 
+
+ Consolidated
+Statements of Stockholders Equity (Deficit) 
+
+ For
+the years ended May 31, 2023 and 2022 
+
+Additional 
+ 
+ Other 
+ Total 
+
+Common
+ Stock 
+ Contributed 
+ Paid
+ In 
+ Retained 
+ Comprehensive 
+ Shareholders 
+ Non-controlling 
+ Total 
+
+Shares 
+ Amount 
+ Capital 
+ Capital 
+ Earnings 
+ Income/(loss) 
+ Equity 
+ Interest 
+ Equity 
+ 
+ Balance at, May 31, 2021 
+
+Net income 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Additional paid-in capital 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Foreign currency translation adjustments 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Capital contribution 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+ 
+ - 
+
+Balance at, May 31, 2022 
+
+- 
+
+Balance at, May 31,2022 
+
+- 
+
+Net income 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Reverse merge 
+
+- 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Foreign currency translation adjustments 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance at, May 31, 2023 
+
+- 
+
+23 
+
+Savmobi
+Technology, Inc. 
+
+ Consolidated
+Statements of Cash Flows 
+
+ For
+the years ended May 31, 2023 and 2022 
+
+2023 
+ 2022 
+
+Net loss 
+
+Adjustments
+ to reconcile net income to net cash provided by operating activities 
+
+Depreciation
+ and amortization 
+
+Depreciation
+ of right-of-use assets 
+
+Bad debt
+ expense 
+ 
+ - 
+ 
+ Changes
+ in operating assets and liabilities 
+
+Accounts
+ receivable 
+
+Inventories 
+
+Prepaid
+ expenses and other current assets 
+
+Other
+ non-current assets 
+
+accounts
+ payable and other current liabilities 
+
+Net cash
+ provided by/(used in) operating activities 
+
+Cash flows from investing
+ activities 
+
+Loan receivable 
+ - 
+
+Prepaid for right-of-use assets 
+
+Proceeds from sale of property
+ and equipment 
+
+Purchase of property and equipment 
+
+Purchase of long-term investment 
+ - 
+
+Purchase of intangible assets 
+ 
+ - 
+ 
+ Proceed
+ from sale of intangible assets 
+ - 
+
+Net cash
+ (used in)/provided by investing activities 
+
+Cash flows from financing
+ activities 
+
+Amount due to related party 
+
+Repayments of short-term borrowings 
+ - 
+
+Proceeds from long-term loan 
+
+Repayments of long-term borrowings 
+ 
+ - 
+ 
+ Proceeds
+ from paid in capital 
+ - 
+
+Net cash
+ provided by financing activities 
+
+Effect of exchange rate changes
+ on cash and cash equivalents 
+
+Net increase/(decrease) of
+ cash and cash equivalents 
+
+Cash
+ and cash equivalents beginning of year 
+
+Cash
+ and cash equivalents end of year 
+
+Supplementary
+ cash flow information: 
+
+Interest received 
+
+24 
+
+shares of common stock, representing ownership of the Company. 
+
+On
+March 19, 2018 New Reap Global transferred restricted shares to Eng Wah Kung. 
+
+On
+May 10, 2018 and May 30, 2018, were transferred to Arden Wealth and Trust. shares are free trading from HongLing
+Shang, restricted shares from New Reap Global, LTD and each from Xuedong Zhang, Jingmei Jiang, Qianxian, Yulan Qi,
+Baoxin Song, Jianlong Wu. On June 15, 2018 New Reap Global transferred restricted shares to EMRD Global Holdings. 
+
+On
+June 26, 2018 New Reap Global transferred restricted shares to FORTRESS ADVISORS, LLC and to Baywall Inc. 
+
+shares of common stock of the Company, which represents approximately of the issued and outstanding shares
+of common stock of the Company . 
+
+On
+June 8, 2022, three (3) shareholders of the Company, including Ma Hongyu, Ye Caiyun, and Li Wenzhe entered into stock purchase agreements
+with an aggregate of five (5) non-U.S. accredited investors (the Purchase Agreements to sell an aggregate of 
+shares of common stock of the Company, which represents approximately of the issued and outstanding shares of common stock of
+the Company, for consideration of . 
+
+The
+Purchase Agreements were fully executed and delivered on June 8, 2022. Zhang Yiping and Chen Xinxin acquired approximately and
+ of the issued and outstanding shares of the Company, respectively, and the remaining purchasers each acquired less than of
+the issued and outstanding shares.After the change of ownership, the Company s current principal offices is located in Building
+B8, China Zhigu, Yinhu Street, Fuyang District, Hangzhou, Zhejiang, China. 
+
+Chen Xinxin 
+
+Wang Yanfang 
+
+Liu Chen 
+
+Liu Ying 
+
+On
+December 15, 2022, the Company entered into a share exchange agreement (the Share Exchange Agreement with Intellegence
+Parking Group Limited Intellegence ), a Cayman Island company formed on June 29, 2022, Chen Xinxin Xinxin ),
+the officer and director, and control shareholder of Intelligence and the shareholders of Intelligence (the Shareholders ).
+Under the Share Exchange Agreement, One Hundred Percent of the ownership interest of Intellegence was exchanged for 
+shares of common stock of SVMB issued to the Shareholders, in accordance with the Share Exchange Agreement. The former stockholders of
+Intellegence will acquire a majority of the issued and outstanding common stock as a result of the share exchange transaction. The transaction
+has been accounted for as a recapitalization of the Company, whereby Intellegence is the accounting acquirer. 
+
+Immediately
+after completion of such share exchange, SVMB will hold a total of issued and outstanding shares of Intellegence. Zhang Guowei
+is the sole director of Intellegence Parking Group Limited. 
+
+Consequently,
+SVMB has ceased to fall under the definition of shell company as define in Rule 12b-2 under the Exchange Act of 1934, as amended (the
+ Exchange Act and Intellegence is now a wholly owned subsidiary. 
+
+Intellegence
+Parking Group Limited Intellegence Parking was incorporated on June 29, 2022 under the laws of Cayman Islands. It is
+controlled by Guowei Zhang, Xiujuan Chen, Hongwei Li and Chuchu Zhang. Intellegence Parking is an investment holding company. 
+
+Intellegence
+Parking (Hong Kong) Limited Intellegence HK was incorporated on July 20, 2022 under the laws of Hong Kong SAR. Intelligence
+HK is a wholly subsidiary of Intellegence Parking since incorporation and it is an investment holding company. 
+
+Huixin
+Zhiying (Hangzhou) Technology Co. Huixin was incorporated on October 24, 2022 under the laws of PRC. It is a wholly owned
+subsidiary of Intellegence HK since incorporation and it is an investment holding company. 
+
+Pursuant
+to the Business Operation Agreement entered into among Huixin WFOE and Zhejiang Jingbo Ecological Technology Co. between November 15
+and 11, 2022, the Company obtained control over these PRC domestic companies by entering into a series of contractual arrangements with
+these PRC domestic companies and their respective Nominee Shareholders. These contractual agreements include power of attorney, exclusive
+option agreement, exclusive business cooperation agreements, equity pledge agreements, and other operating agreements. These contractual
+agreements can be extended at the relevant PRC subsidiaries options prior to the expiration date. As a result, the Company maintains
+the ability to control these PRC domestic companies, is entitled to substantially all of the economic benefits from these PRC domestic
+companies and is obligated to absorb all expected losses of these PRC domestic companies. 
+
+The
+Company consolidated its financial statements due to common control. 
+
+The
+Company s major subsidiaries, VIEs and VIE s subsidiaries are described as follows: 
+
+Intellegence Parking (Hong
+ Kong) Limited 
+ Hong Kong 
+
+Huixin Zhiying (Hangzhou)
+ Technology Co. 
+ PRC 
+
+Major VIEs (Including VIE s
+ Subsidiaries) 
+
+Zhejiang Jingbo Ecological
+ Technology Co. 
+ PRC 
+
+Hangzhou Zhuyi Technology
+ Co. 
+ PRC 
+
+Hangzhou
+Zhuyi Technology Co. Hangzhou Zhuyi was incorporated under the laws of the PRC on November 13, 2017 with a capital of
+RMB . The majority shareholder at the time of establishment was Guowei Zhang. On April 1, 2020, Zhejiang Jingbo Ecological
+Technology became the sole shareholder of Hangzhou Zhuyi. Hangzhou Zhuyi is specialized in smart parking projects, smart parking mobile
+applications and cloud platform construction innovation. 
+
+Zhejiang
+Linglingyi Network Technology Co. Linglingyi was incorporated on November 17, 2018. Its sole director is Guowei Zhang.
+Hangzhou Zhuyi acquired of Linglingyi on April 29. 2022. Its main businesses are smart parking projects and smart parking mobile
+applications. 
+
+Liangshan
+Tongfu Technology Co. Liangshan was incorporated on November 13, 2018. On October 2, 2022, Hangzhou Zhuyi entered
+in a share agreement with Hangzhou Kaai Technology Co. to purchase of Liangshan s shares. As a result, Hangzhou Zhuyi holds
+ of Liangshan. Liangshan is into smart parking projects and smart parking mobile applications businesses. 
+
+Zhuyi
+Technology (Anping) Co. Anping was incorporated on May 12, 2022, which is owned by Hangzhou Zhuyi and it mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Haikou
+Zhuyi Technology Co. Haikou was incorporated on May 9, 2022 which is a wholly subsidiary of Hangzhou Zhuyi. It mainly
+focuses on smart parking projects and smart parking mobile applications. 
+
+Yibin
+Huibo Technology Co. Yibin was incorporated on July 4, 2019, which is owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Xide
+Zhuyi Technology Co. Xide was incorporated on October 14, 2021, which is owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Hubei
+Tongpo Parking Management Co. Tongpo was incorporated on November 4, 2020, which is a wholly subsidiary of Hangzhou Zhuyi.
+It mainly focuses on smart parking projects and smart parking mobile applications. 
+
+Zhuyi
+Technology (Taining) Co. Taining was incorporated on May 18, 2021, which is owned by Hangzhou Zhuyi. It mainly focuses
+on smart parking projects and smart parking mobile applications. 
+
+Intellengence
+Parking Group Limited provides smart parking projects, smart parking mobile applications and cloud platform construction innovation through
+its consolidated subsidiaries, variable interest entities VIE s) and VIE s subsidiaries (Collectively, the Group ). 
+
+a.
+Contractual agreements with VIEs 
+
+Power
+of Attorney 
+
+Pursuant
+to the power of attorney agreements among the Wholly Foreign Owned Enterprises WFOE s), the VIEs and their respective Nominee
+Shareholders, each Nominee Shareholder of the VIEs irrevocably undertakes to appoint the WFOE, as the attorney-in-fact to exercise all
+of the rights as a shareholder of the VIEs, including, but not limited to, the right to convene and attend shareholders meeting,
+vote on any resolution that requires a shareholder vote, such as appoint or remove directors and other senior management, and other voting
+rights pursuant to the articles of association (subject to the amendments) of the VIEs. Each power of attorney agreement is irrevocable
+and remains in effect as long as the Nominee Shareholder continues to be a shareholder of the VIEs. Unless otherwise required by PRC
+Laws, none of the VIEs or its shareholders can unilaterally terminate this agreement. 
+
+Exclusive
+Option Agreements 
+
+Pursuant
+to the exclusive option agreements among WFOEs, the VIEs and their respective Nominee Shareholders, the Nominee Shareholders granted
+WFOEs exclusive right to purchase, when and to the extent permitted under PRC law, all or part of the equity interests from shareholders
+of VIEs. The exercise price for the options to purchase all or part of the equity interests shall be the minimum amount of consideration
+permissible under then applicable PRC law. The agreement shall be valid until WFOEs or its designated party purchases all the shares
+from shareholders of VIEs. The terms of the exclusive option agreement are 10 years and can be automatically extended until such time
+WFOEs delivers a confirmation letter specifying the renewal term of this agreement. Unless otherwise required by PRC Laws, the VIEs or
+its shareholders shall not unilaterally terminate this agreement. 
+
+Exclusive
+Business Corporation Agreement 
+
+Pursuant
+to the exclusive business cooperation agreements among the WFOEs and the VIEs, respectively, the WFOEs have the exclusive right to provide
+the VIEs with services related to, among other things, comprehensive technical support, professional training, consulting services, trademark
+and copyright of system,. Without prior written consent of the WFOEs, the VIEs agree not to directly or indirectly accept the same or
+any similar services provided by any others regarding the matters ascribed by the exclusive business cooperation agreements. The VIEs
+agree to pay the WFOEs services fees, which shall be determined by the WFOEs. The WFOEs have the exclusive ownership of intellectual
+property rights created as a result of the performance of the agreements. The agreements shall remain effective except that the WFOEs
+are entitled to terminate the agreements in writing. Unless otherwise required by PRC Laws, the VIEs shall not unilaterally terminate
+this agreement. 
+
+Equity
+Pledge Agreement 
+
+Pursuant
+to the equity pledge agreements among the WFOEs, the VIEs and their respective Nominee Shareholders, the Nominee Shareholders of the
+VIEs pledged all of their respective equity interests in the VIEs to the WFOEs as collaterals for performance of the obligations of the
+VIEs and their Nominee Shareholders under the exclusive business cooperation agreements, the power of attorney agreements, and the exclusive
+option agreements. The Nominee Shareholders of the VIEs also undertake that, during the term of the equity pledge agreements, unless
+otherwise approved by the WFOEs in writing, they will not transfer the pledged equity interests or create or allow any new pledge or
+other encumbrance on the pledged equity interests. These equity pledge agreements remain in force until VIEs and their respective Nominee
+Shareholders discharge all their obligations under the contractual agreements. 
+
+Spousal
+Consent Letter 
+
+Pursuant
+to the spousal consent letters, the spouses of some of the individual Nominee Shareholders of the VIEs unconditionally and irrevocably
+agree that the equity interest in the VIEs held by and registered in the name of his or her respective spouse will be disposed of pursuant
+to the relevant exclusive business cooperation agreements, equity pledge agreements, the exclusive option agreements and the power of
+attorney agreements, without his or her consent. In addition, each of them agrees not to assert any rights over the equity interest in
+the VIEs held by their respective spouses. In addition, in the event that any of them obtains any equity interest in the VIEs held by
+their respective spouses for any reason, such spouses agree to be bound by similar obligations and agreed to enter into similar contractual
+arrangements. 
+
+b.
+Risks in relation to the VIE structure 
+
+On
+March 15, 2019, the National People s Congress adopted the Foreign Investment Law of the PRC, which became effective on January
+1, 2020, together with their implementation rules and ancillary regulations. The Foreign Investment Law does not explicitly classify
+contractual arrangements as a form of foreign investment, but it contains a catch-all provision under the definition of foreign
+investment , which includes investments made by foreign investors through means stipulated in laws or administrative regulations
+or other methods prescribed by the State Council. It is unclear whether the Group s corporate structure will be seen as violating
+the foreign investment rules as the Group is currently leveraging the contractual arrangements to operate certain business in which foreign
+investors are prohibited from or restricted to investing. If variable interest entities fall within the definition of foreign investment
+entities, the Group s ability to use the contractual arrangements with its VIEs and the Group s ability to conduct business
+through the VIEs could be severely limited. 
+
+If
+the PRC government otherwise finds that the Group in violation of any existing or future PRC laws or regulations or lacks the necessary
+permits or licenses to operate the business, the Group s relevant PRC regulatory authorities could: 
+
+revoke the business licenses and/or operating licenses of the Group s PRC entities; 
+
+impose fines; 
+
+confiscate any income that they deem to be obtained through illegal operations, or impose other requirements with which the Group may
+not be able to comply; 
+
+discontinue or place restrictions or onerous conditions on the Group s operations; 
+
+place restrictions on the right to collect revenues; 
+
+require the Group to restructure ownership structure or operations, including terminating the contractual agreements with the VIEs and
+deregistering the equity pledges of the VIEs, which in turn would affect the ability to consolidate the financial results of and derive
+economic interests from the VIEs and their subsidiaries; 
+
+restrict or prohibit the use of the proceeds from financing activities to finance the business and operations of the VIEs and their subsidiaries;
+or 
+
+take other regulatory or enforcement actions that could be harmful to the Group s business. 
+
+The
+imposition of any of these penalties may result in a material and adverse effect on the Group s ability to conduct the Group s
+business. In addition, if the imposition of any of these penalties causes the Group to lose the rights to direct the activities of the
+VIEs or the right to receive its economic benefits, the Group would no longer be able to consolidate the VIEs. The management believes
+that the likelihood for the Group to lose such ability is remote based on current facts and circumstances. However, the interpretation
+and implementation of the laws and regulations in the PRC and their application to an effect on the legality, binding effect and enforceability
+of contracts are subject to the discretion of competent PRC authorities, and therefore there is no assurance that relevant PRC authorities
+will take the same position as the Group herein in respect of the legality, binding effect and enforceability of each of the contractual
+arrangements. Meanwhile, since the PRC legal system continues to rapidly evolve, it may lead to changes in PRC laws, regulations and
+policies or in the interpretation and application of existing laws, regulations and policies, which may limit legal protections available
+to the Group to enforce the contractual arrangements should the VIEs or the Nominee Shareholders of the VIEs fail to perform their obligations
+under those arrangements. The enforceability, and therefore the benefits, of the contractual agreements between the Company and the VIEs
+depend on Nominee Shareholders enforcing the contracts. There is a risk that Nominee shareholders of VIEs, who in some cases are also
+shareholders of the Company may have conflict of interests with the Company in the future or fail to perform their contractual obligations.
+Given the significance and importance of the VIEs, there would be a significant negative impact to the Company if these contracts were
+not enforced. 
+
+The
+Group s operations depend on the VIEs to honor their contractual agreements with the Group. The Company s ability to direct
+activities of the VIEs that most significantly impact their economic performance and the Company s right to receive the economic
+benefits that could potentially be significant to the VIEs depend on the authorization by the shareholders of the VIEs to exercise voting
+rights on all matters requiring shareholder approval in the VIEs. The Company believes that the agreements on authorization to exercise
+shareholder s voting power are enforceable against each party thereto in accordance with their terms and applicable PRC laws or
+regulations currently in effect and the possibility that it will no longer be able to consolidate the VIEs as a result of the aforementioned
+risks and uncertainties is remote. 
+
+c.
+Summary of financial information of the Group s VIEs (inclusive of VIE s subsidiaries) 
+
+The
+following tables set forth the financial statement balances and amounts of the VIEs and their subsidiaries included in the condensed
+consolidated financial statements after the elimination of intercompany balances and transactions among VIEs and their subsidiaries within
+the Group. 
+
+Schedule of Variable Interest Entities Financial Statements 
+
+May
+ 31, 
+ 2023 
+ May
+ 31, 
+ 2022
+ (Audited) 
+
+Cash
+ and cash equivalents 
+
+Restricted
+ cash 
+
+Accounts
+ receivable 
+
+Inventories 
+
+Prepaid
+ expenses and other current assets 
+
+Plant
+ and equipment, net 
+
+Intangible
+ assets, net 
+
+Right-of-use
+ assets 
+
+Other
+ non-current assets 
+
+Total
+ Assets 
+
+Accounts
+ payables 
+
+Advances
+ from customers 
+
+Other
+ current payables 
+
+Taxes
+ payable 
+
+Amounts
+ due to related parties 
+
+Operating
+ lease liabilities, current 
+
+Long-term
+ loan 
+
+Operating
+ lease liabilities 
+
+Total
+ Liabilities 
+
+Total (Deficit) Equity of
+ VIEs 
+
+Total
+ Liabilities and (Deficit) Equity of VIEs 
+
+May
+ 31, 
+ 2023 
+ May
+ 31, 
+ 2022
+ (Audited) 
+
+Net revenues 
+
+Cost of revenues 
+
+Gross loss 
+
+Total costs and expenses 
+
+Operating income/(loss) 
+
+Total other income and
+ (expenses) 
+
+Loss before taxes from operations 
+
+Provision for income
+ taxes 
+ 
+ - 
+ 
+ Net loss 
+
+Net loss attributable to VIEs 
+
+2023 
+ 2022
+ (Audited) 
+
+Year
+ Ended May 31, 
+
+2023 
+ 2022
+ (Audited) 
+ 
+ Net cash provided by/(used in)
+ operating activities 
+
+Net cash (used in)/provided by investing activities 
+
+Net cash provided by financing activities 
+
+Effect of exchange rate
+ changes on cash and cash equivalents 
+
+Net increase in cash and cash equivalents 
+
+Cash and cash equivalents
+ at the beginning of period 
+
+Cash and cash equivalents
+ at the end of period 
+
+during the year ended May 31, 2023. As of May 31, 2023, the Company had total deficit of 
+and had net cash provided by operating activities of . The Company incurred net loss of during the year ended May
+31, 2022. As of May 31, 2022, the Company had total deficit of and had net cash used in operating activities of . 
+
+The
+ability to continue as a going concern is dependent upon long-term loans related to Shaoxing Keqiao Zhuyi Technology Co. and the director
+(Guowei Zhang) to meet its obligations and repay its liabilities arising from normal business operations when they become due. These
+consolidated financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and
+classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+These
+conditions raise substantial doubt about the Company s ability to continue as a going concern. The Company s continuation
+as a going concern is dependent on long term loans related to Shaoxing Keqiao Zhuyi Technology Co. and the director (Guowei Zhang) to
+meet obligations as they become due and to obtain additional equity or alternative financing required to fund operations until sufficient
+sources of recurring revenues can be generated. There can be no assurance that the Company will be successful in its plans described
+above or in attracting equity or alternative financing on acceptable terms, or if at all. The consolidated financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. 
+
+ of the ownership interest of Intellegence was exchanged for 
+shares of common stock of SVMB issued to the Shareholders, in accordance with the Share Exchange Agreement. The former stockholders of
+Intellegence will acquire a majority of the issued and outstanding common stock as a result of the share exchange transaction. The transaction
+has been accounted for as a recapitalization of the Company, whereby Intellegence is the accounting acquirer. 
+
+Immediately
+after completion of such share exchange, SVMB will hold a total of issued and outstanding shares of Intellegence. Zhang Guowei
+is the sole director of Intellegence Parking Group Limited. 
+
+SVMB
+and Intellegence consolidated the financial statements through common control. As a result, the Company measured the recognized assets
+and liabilities combined at their historical cost at the acquisition date. The difference between consideration paid and assets and liabilities
+received are presented as a component of equity and additional paid-in-capital. 
+
+Zhejiang
+Jingbo Ecological Technology and Hangzhou Zhuyi, Linglingyi, Lingshan, Anping, Haikou, Yibin, Xide Tongpo and Taining consolidated the
+financial statements through acquisition. 
+
+Jingbo
+accounts for its business combinations using the acquisition method of accounting in accordance with ASC 805 Business
+Combinations . The cost of an acquisition is measured as the aggregate of the acquisition date fair value of the assets transferred
+to the sellers, liabilities incurred by Jingbo and equity instruments issued by Jingbo. Transaction costs directly attributable to the
+acquisition are expensed as incurred. Identifiable assets acquired and liabilities assumed are measured separately at their fair values
+as of the acquisition date, irrespective of the extent of any non-controlling interests. The excess of (i) the total costs of acquisition,
+fair value of the non-controlling interests and acquisition date fair value of any previously held equity interest in the acquiree over
+(ii) the fair value of the identifiable net assets of the acquiree is recorded as goodwill. If the cost of acquisition is less than the
+fair value of the net assets of the subsidiary acquired, the difference is recognized directly in the consolidated statements of comprehensive
+loss. 
+
+In
+a business combination achieved in stages, Jingbo re-measures the previously held equity interest in the acquiree immediately before
+obtaining control at its acquisition date fair value and the re-measurement gain or loss, if any, is recognized in the consolidated statements
+of comprehensive loss. 
+
+The
+consolidated financial statements include the financial statements of Jingbo its subsidiaries, the VIEs and VIE s subsidiaries
+for which the Company is considered the ultimate primary beneficiary for accounting purposes. 
+
+A
+subsidiary is an entity in which the Company directly or indirectly controls more than one half of the voting power, has the power to
+appoint or remove the majority of the members of the board of directors, to cast a majority of notes at the meeting of the board of directors
+or to govern the financial and operating policies of the investee under a statute or agreement among the shareholders or equity holders. 
+
+A
+VIE is an entity in which the Company s subsidiary, through contractual agreements, has the power to direct activities of the VIEs
+that most significantly impact their economic performance, and has the right to receive economic benefits from the VIEs that could potentially
+be significant to them, and therefore the Company is considered the ultimate primary beneficiary of the entity for accounting purposes. 
+
+All
+transactions and balances among the Company, its subsidiaries, the VIEs and VIEs subsidiaries have been eliminated upon consolidation.
+The results of subsidiaries and VIEs acquired or disposed of during the year are recorded in the consolidated statements of comprehensive
+loss from the effective dates of acquisition or up to the effective dates of disposal, as appropriate. 
+
+- 
+ years 
+ 
+ Building 
+ 
+ years 
+ 
+ Vehicles 
+ - 
+ years 
+ 
+ Project facilities 
+ - 
+ years 
+
+The
+cost and related accumulated depreciation of assets sold or otherwise retired are eliminated from the accounts, and any gain or loss
+are included in the Company s results of operations. The costs of maintenance and repairs are recognized to expenses as incurred;
+significant renewals and betterments are capitalized. 
+
+All
+other leases are accounted for as operating leases wherein rental payments are expensed on a straight-line basis over the periods of
+their respective leases. Operating leases (with an initial term of more than 12 months) are included in operating lease right-of-use ROU assets, operating lease liabilities (current), and operating lease liabilities (non-current) in the balance sheets.
+ROU assets represent the Company s right to use an underlying asset for the lease term and lease liabilities represent the Company s
+obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date
+based on the present value of lease payments over the lease term. The Company utilizes a market-based approach to estimate the incremental
+borrowing rate based on the information available at commencement date in determining the present value of lease payments. The operating
+lease ROU asset also includes any lease payments made and excludes lease incentives. The lease terms may include options to extend or
+terminate the lease when it is reasonably certain that the Company will exercise that option. 
+
+The
+Company reviews its lease for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may
+no longer be recoverable. Whenever there is an indication showing a permanent decrease in the amount of lease; such as an evidence of
+obsolescence or physical damage of an asset, significant changes in the manner in which an asset is used or is expected to be used, the
+Company shall recognize loss on decrease in value of lease in the statement of income where the carrying amount of asset is higher than
+the recoverable amount. The Company measures impairment by comparing the carrying value of the lease to the estimated discounted future
+cash flows expected to result from the use of the assets and their eventual disposition. If the sum of the expected discounted cash flow
+is less than the carrying amount of the assets, the Company would recognize an impairment loss based on the fair value of the assets 
+
+Annual average RMB: US exchange rate 
+
+The
+RMB is not freely convertible into foreign currencies and all foreign exchange transactions must be conducted through authorized financial
+institutions. 
+
+Prepayment for rental (a) 
+
+Deposit 
+
+Loan receivable (b) 
+
+Advances to employees 
+
+Other 
+
+VAT 
+
+TOTAL 
+
+(a) 
+
+(b) 
+
+Beginning balance, cost 
+
+Additions during the year 
+
+Disposals during the year 
+ 
+ - 
+ - 
+
+Effects of currency
+ translation 
+
+At May 31,2023 
+
+Ending balance, cost 
+
+Accumulated depreciation 
+
+At May 31,2022 
+
+- 
+
+Beginning balance, Accumulated depreciation 
+
+- 
+
+Depreciation during the year 
+
+- 
+
+Disposals during the year 
+ 
+ - 
+ - 
+ 
+ - 
+
+Effects of currency
+ translation 
+
+- 
+
+At May 31,2023 
+
+- 
+
+Ending balance, Accumulated depreciation 
+
+- 
+
+Net book value 
+
+At May 31,2022 
+
+Beginning balance, Net book value 
+
+At May 31,2023 
+
+Ending balance, Net book value 
+
+(a)
+Address of the building is Building B8, China Zhigu Fuchun, Yinhu Village, Shoujiang town, Fuyang District, China 
+
+Beginning balance, cost 
+
+Additions during the year 
+
+Disposals during the year 
+ - 
+ 
+ Effects of currency
+ translation 
+
+At May 31,2023 
+
+Ending balance, cost 
+
+Accumulated depreciation 
+
+At May 31,2022 
+
+Beginning balance, Accumulated depreciation 
+
+Depreciation during the year 
+
+Disposals during the year 
+ - 
+ 
+ Effects of currency
+ translation 
+
+At May 31,2023 
+
+Ending balance, Accumulated depreciation 
+
+Net book value 
+
+At May 31,2022 
+
+At May 31,2023 
+
+Additions during the year 
+
+Write-off during the year 
+ - 
+ 
+ Effects of currency
+ translation 
+
+At May 31, 2023 
+
+Accumulated depreciation 
+
+At May 31,2022 
+
+Depreciation during the year 
+
+Write-off during the year 
+ - 
+ 
+ Effects of currency
+ translation 
+
+At May 31, 2023 
+
+Net book value 
+
+At May 31, 2022 
+
+At May 31, 2023 
+
+Right
+of use assets consisted of 16 contracts renting offices, warehouses and parking lots. Contracted terms ranged between two and eight years
+with the earliest start date being January 8, 2019. 
+
+Deposit 
+
+Loans payable 
+
+Advanced to employees 
+
+Other (a) 
+
+Total 
+
+(a) 
+
+Virtue Victory Holdings Limited 
+
+Strength Union Holdings
+ Limited 
+
+Due from related
+ party 
+
+At
+May 31, 2023 and May 31, 2022, the Company owed funds to the following related parties: 
+
+May
+ 31, 2023 
+ May
+ 31.2022 
+ Relationship 
+
+Guowei Zhang 
+
+Xinxin Chen 
+ 
+ - 
+
+Shaoxing Keqiao Zhuyi Technology Co., Ltd 
+ 
+ - 
+
+Beijing Zhibo Innovation
+ Technology Co., Ltd. 
+ - 
+
+Due to related
+ party 
+
+Advances
+from Guowei Zhang were unsecured, non-interest bearing and due on demand. 
+
+During
+the year ended May 31, 2023, the Company borrowed from related parties of and made repayments to related parties of .
+During the year ended May 31, 2022, the Company borrowed from related parties of and made repayments to related parties of
+ . 
+
+As
+of May 31, 2022, the outstanding balance of long-term loans was RMB (USD ). It consisted of two loans related
+to Beijing Zhibo Innovation Technology Co., Ltd Zhibo ). The Company entered into a loan on September 20, 2019.
+The agreement commenced on October 1, 2019. The maximum borrowing is RMB (USD with an interest rate of .
+ of the outstanding balance should be repaid each quarter. Supplementary contracted were signed between the two parties agreeing there
+would be no repayment of principle for the next 12 months and interest expense was waived. The other contract was a two-year interest-free
+agreement signed on September 1st, 2020 at which date the contracted commenced. Principle was RMB (USD ). As of May
+31, 2022, outstanding balances of the first and second loans were RMB (USD and RMB (USD ),
+respectively. 
+
+. 
+
+Due
+to business restructure, Zhibo was deregistered at the beginning of 2023. Before deregistration, on January 15, 2023, Zhibo transferred
+the debts to a number of companies/partnerships with the clauses unchanged. The table below set forth the amount transferred to each
+Zhibo s creditor as of January 15, 2023. 
+
+Hangzhou Chuangzhu Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou HongKuo Enterprise
+ Management Partnership (Limited partnership) 
+
+Hangzhou Hongying Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Liujin Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Ruiqi Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhusheng Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhuyuan Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Jizhong Ecological
+ Technology Co., Ltd. 
+
+Hangzhou Liujin Enterprise
+ Management Partnership Co., Ltd. 
+
+Hangzhou Renyigou E-Commerce
+ Co., Ltd. 
+
+Hangzhou Yixin Supply
+ Chain Management Co., Ltd. 
+
+Hangzhou Zhizhu Parking
+ Co., Ltd. 
+
+Total 
+
+For
+helping the Company consolidate debts and providing financial support to the Company, Shaoxin Keqiao Zhuyi Technology Co., Ltd., whose
+sole shareholder is Xiujuan Chen, took over the debts from the businesses mentioned in the table. Loan transfer agreements were executed
+on March 16 and 17, 2023 with the original clauses unchanged. Xiujuan Chen is also one of the shareholders of the Company. After the
+loans transferred to Shaoxin Keqiao Zhuyi Technology Co., Ltd., outstanding balances were offset in part or in full if the transferees
+were our current debtors. 
+
+- 
+ - 
+
+Hangzhou Chuangzhu Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou HongKuo Enterprise
+ Management Partnership (Limited partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Hongying Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Liujin Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+
+Hangzhou Liujin Enterprise Management Partnership Co., Ltd. 
+ 
+ - 
+
+Hangzhou Ruiqi Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhusheng Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Zhuyuan Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Jizhong Ecological
+ Technology Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Renyigou E-Commerce
+ Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Yixin Supply
+ Chain Management Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Zhizhu Parking
+ Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Total 
+
+for income generated and operation in the
+country. 
+
+The
+full realization of the tax benefit associated with the carry forward losses depends predominantly upon the Company s ability to
+generate taxable income during the carry forward period. 
+
+Tax credit calculated at statutory tax rate 
+
+Effect of different tax rates 
+
+Deferred tax asset not
+ recognized during the year 
+
+Income tax expenses 
+ 
+ - 
+
+The
+Company accounts for income taxes using the asset/liability method prescribed by ASC 740 Income Taxes. Under this method, deferred tax
+assets and liabilities are determined based on the difference between the financial reporting and tax bases of assets and liabilities
+using enacted tax rates that will be in effect in the period in which the differences are expected to reverse. Deferred tax assets have
+not been recognised in respect of these items because it is not probable that future taxable profits will be available against which
+the Company can utilise the benefits. 
+
+Management
+believes that it is more likely than not that the deferred tax assets will not be fully realizable in the future. Accordingly, the Company
+provided for a full valuation allowance against its deferred tax assets. 
+
+(USD ). It consisted of two loans related
+to Beijing Zhibo Innovation Technology Co., Ltd Zhibo ). The Company entered into a loan on September 20, 2019.
+The agreement commenced on October 1, 2019. The maximum borrowing is RMB (USD with an interest rate of .
+ of the outstanding balance should be repaid each quarter. Supplementary contracted were signed between the two parties agreeing there
+would be no repayment of principle for the next 12 months and interest expense was waived. The other contract was a two-year interest-free
+agreement signed on September 1st, 2020 at which date the contracted commenced. Principle was RMB (USD ). As of May
+31, 2022, outstanding balances of the first and second loans were RMB (USD and RMB (USD ),
+respectively. 
+
+. 
+
+Due
+to business restructure, Zhibo was deregistered at the beginning of 2023. Before deregistration, on January 15, 2023, Zhibo transferred
+the debts to a number of companies/partnerships with the clauses unchanged. The table below set forth the amount transferred to each
+Zhibo s creditor as of January 15, 2023. 
+
+Hangzhou Chuangzhu Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou HongKuo Enterprise
+ Management Partnership (Limited partnership) 
+
+Hangzhou Hongying Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Liujin Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Ruiqi Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhusheng Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhuyuan Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Jizhong Ecological
+ Technology Co., Ltd. 
+
+Hangzhou Liujin Enterprise
+ Management Partnership Co., Ltd. 
+
+Hangzhou Renyigou E-Commerce
+ Co., Ltd. 
+
+Hangzhou Yixin Supply
+ Chain Management Co., Ltd. 
+
+Hangzhou Zhizhu Parking
+ Co., Ltd. 
+
+Total 
+
+For
+helping the Company consolidate debts and providing financial support to the Company, Shaoxin Keqiao Zhuyi Technology Co., Ltd., whose
+sole shareholder is Xiujuan Chen, took over the debts from the businesses mentioned in the table. Loan transfer agreements were executed
+on March 16 and 17, 2023 with the original clauses unchanged. Xiujuan Chen is also one of the shareholders of the Company. After the
+loans transferred to Shaoxin Keqiao Zhuyi Technology Co., Ltd., outstanding balances were offset in part or in full if the transferees
+were our current debtors. 
+
+- 
+ - 
+
+Hangzhou Chuangzhu Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou HongKuo Enterprise
+ Management Partnership (Limited partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Hongying Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Liujin Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+
+Hangzhou Liujin Enterprise Management Partnership Co., Ltd. 
+ 
+ - 
+
+Hangzhou Ruiqi Enterprise
+ Management Partnership (Limited Partnership) 
+
+Hangzhou Zhusheng Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Zhuyuan Enterprise
+ Management Partnership (Limited Partnership) 
+ 
+ - 
+ - 
+
+Hangzhou Jizhong Ecological
+ Technology Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Renyigou E-Commerce
+ Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Yixin Supply
+ Chain Management Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Hangzhou Zhizhu Parking
+ Co., Ltd. 
+
+- 
+ - 
+ - 
+ 
+ Total 
+
+of right-of-use assets, in current operating lease liabilities
+and in non-current operating lease liabilities. 
+
+Significant
+assumptions and judgments made as part of the adoption of this new lease standard include determining (i) whether a contract contains
+a lease, (ii) whether a contract involves an identified asset, and (iii) which party to the contract directs the use of the asset. The
+discount rates used to calculate the present value of lease payments were determined based on hypothetical borrowing rates available
+to the Company over terms similar to the lease terms. 
+
+After 1 year but within
+ 5 years 
+
+Total lease payments 
+
+Less: imputed interest 
+
+Total lease obligations 
+
+Less: current obligations 
+
+Long-term lease obligations 
+
+Schedule
+of Non Controlling Ownership Interest 
+
+053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+
+Liangshan 
+ Yibin 
+ Xide 
+ Taining 
+ Anping 
+ Total 
+
+053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 
+ NCI ownership
+ interest 
+
+NCI balances 
+
+The
+summarized financial information for subsidiary that has non-controlling interest which are material to the Company is provided below.
+This information is based on amounts before inter-company elimination. 
+
+- 
+ - 
+
+- 
+
+Current assets 
+
+Current liabilities 
+
+- 
+
+Non-current liabilities 
+
+- 
+ - 
+ - 
+ - 
+
+- 
+
+Net assets 
+
+053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+
+Liangshan 
+ Yibin 
+ Xide 
+ Taining 
+ Anping 
+ Total 
+
+053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 053123 
+ 053122 
+ 
+ Net Assets 
+
+Less: Zhuyi capital
+ and additional paid-in capital 
+
+- 
+ - 
+ - 
+ - 
+
+Less: OCI 
+
+Accumulated Deficits 
+
+Accumulated Deficits
+ attributable to NCI 
+
+Plus: OCI attributable
+ to NCI 
+
+NCI balances 
+
+These reserves can only be used for specific purposes
+of enterprise expansion and are not distributable as cash dividends. During the year ended May 31, 2023 and 2022 the Company did not
+accrue any statutory reserve. 
+
+Foreign
+ currency translation reserve 
+
+The
+foreign currency translation reserve represents translation differences arising from translation of foreign currency financial statements
+into the Company s reporting currency. 
+
+, interest
+ expense would be million per year. The Company adopts as an annual interest rate based on the China LPR announced on May
+ 22, 2023 with an adjustment to loan terms. If interest rate increases or decreases by , it could lead to an increase or decrease
+ in interest expense of per year. 
+
+45 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+Not
+applicable to a smaller reporting company as defined in Rule 12b-2 of the Exchange Act. 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+See
+above. 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+There
+have been no changes in or disagreements with accountants regarding our accounting, financial disclosures or any other matter. 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+The
+management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting, as required
+by Sarbanes- Oxley (SOX) Section 404 A. The Company s internal control over financial reporting is a process designed under the
+supervision of the Company s Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of the Company s financial statements for external purposes in accordance
+with U.S. generally accepted accounting principles. 
+
+Management
+assessed the effectiveness of the Company s internal control over financial reporting based on the criteria for effective internal
+control over financial reporting established in SEC guidance on conducting such assessments as of the end of the period covered by this
+report. Management conducted the assessment based on certain criteria established in Internal Control - Integrated Framework issued by
+the Committee of Sponsoring Organizations of the Treadway Commission. Based on this assessment, management concluded that our internal
+controls over financial reporting were not effective as of May 31,2023. 
+
+The
+matters involving internal controls and procedures that the Company s management considered to be material weaknesses under the
+standards of the Public Company Accounting Oversight Board were: 1) lack of a functioning audit committee and lack of a majority of
+outside directors on the Company s board of directors, resulting in ineffective oversight in the establishment and monitoring of
+required internal controls and procedures; (2) inadequate segregation of duties consistent with control objectives; (3) insufficient
+written policies and procedures for accounting and financial reporting with respect to the requirements and application of US GAAP and
+SEC disclosure requirements; and (4) ineffective controls over period end financial disclosure and reporting processes. The aforementioned
+material weaknesses were identified by the Company s Chief Financial Officer in connection with the review of our financial statements
+as of May 31, 2023 and communicated the matters to our management. 
+
+Management
+believes that the material weaknesses set forth in items (2), (3) and (4) above did not have an effect on the Company s financial
+results. However, management believes that the lack of a functioning audit committee and lack of a majority of outside directors on the
+Company s board of directors, resulting in ineffective oversight in the establishment and monitoring of required internal controls
+and procedures can result in the Company s determination to its financial statements for the future years. 
+
+We
+are committed to improving our financial organization. As part of this commitment, we will create a position to segregate duties consistent
+with control objectives and will increase our personnel resources and technical accounting expertise within the accounting function when
+funds are available to the Company: i) Appointing one or more outside directors to our board of directors who shall be appointed to the
+audit committee of the Company resulting in a fully functioning audit committee who will undertake the oversight in the establishment
+and monitoring of required internal controls and procedures; and ii) Preparing and implementing sufficient written policies and checklists
+which will set forth procedures for accounting and financial reporting with respect to the requirements and application of US GAAP and
+SEC disclosure requirements. 
+
+46 
+
+Management
+believes that the appointment of one or more outside directors, who shall be appointed to a fully functioning audit committee, will remedy
+the lack of a functioning audit committee and a lack of a majority of outside directors on the Company s Board. In addition, management
+believes that preparing and implementing sufficient written policies and checklists will remedy the following material weaknesses (i)
+insufficient written policies and procedures for accounting and financial reporting with respect to the requirements and application
+of US GAAP and SEC disclosure requirements; and (ii) ineffective controls over period end financial close and reporting processes. Further,
+management believes that the hiring of additional personnel who have the technical expertise and knowledge will result proper segregation
+of duties and provide more checks and balances within the department. Additional personnel will also provide the cross training needed
+to support the Company if personnel turn over issues within the department occur. This coupled with the appointment of additional outside
+directors will greatly decrease any control and procedure issues the company may encounter in the future. 
+
+We
+will continue to monitor and evaluate the effectiveness of our internal controls and procedures and our internal controls over financial
+reporting on an ongoing basis and are committed to taking further action and implementing additional enhancements or improvements, as
+necessary and as funds allow. 
+
+This
+annual report does not include an attestation report of the company s registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by the company s registered public accounting
+firm pursuant to temporary rules of the Securities and Exchange Commission that permit the Company to provide only management s
+report in this annual report. 
+
+There
+have been no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph
+(d) of Rules 13a- 15 or 15d- 15 under the Exchange Act that occurred during the small business issuer s last fiscal year that has
+materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+We
+will continue to monitor and evaluate the effectiveness of our internal controls and procedures and our internal controls over financial
+reporting on an ongoing basis and are committed to taking further action and implementing additional enhancements or improvements, as
+necessary and as funds allow. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+were no changes that have affected, or are reasonably likely to materially affect, our internal control over financial reporting (as
+defined in Rules 13a- 15(f) or 15d- 15(f) under the Exchange Act) during the fiscal year ended May 31, 2023. 
+
+Item
+9B. Other Information. 
+
+None. 
+
+47 
+
+PART
+III 
+
+Item
+10. Directors and Executive Officers, Promoters and Control Persons 
+
+Zhang
+Guowei was appointed Chairman of the Board and the sole officer and director of SVMB on June 8, 2022. Guowei Zhang is the current Chief
+Executive Officer of Intellegence. 
+
+Name 
+ 
+ Age 
+ 
+ Position(s) 
+ 
+ Guowei Zhang# 
+ 
+ 42 
+ 
+ CEO, CFO and Director 
+ 
+ Hongwei Li# 
+ 
+ 36 
+ 
+ Director 
+ 
+ Xiujuan Chen# 
+ 
+ 49 
+ 
+ Director 
+ 
+ Chuchu Zhang# 
+ 
+ 26 
+ 
+ Director 
+
+#
+Appointed on January 5, 2023 
+
+Guowei
+Zhang , age 42, Chief Executive Officer, Chief Financial Officer, and Director, has been an officer at Hangzhou Zhuyi Technology Co.
+since May 2017. Zhang Guowei has been the Chairman of Zhejiang Jingbo Ecological Technology Co. since December 2019. Zhejiang Jingbo
+Ecological Technology Co. is a PRC company which was formed on December 18, 2019 and is engaged in the business of smart parking application
+software and platform operations business. Zhang Guowei attended Zhejiang Open University. 
+
+In
+2017, Mr Zhang founded Hangzhou Zhuyi Technology Co. He invested to develop smart parking APP Any-e Park and organized numerous
+parking lots based on the need of the APP s scenarios together with shareholders and partners. In order to meet the requirements
+of parking lots, he developed an intelligent management system, an unattended system, and a charging system for parking lots. Since Any
+e-Park needs more information and data of urban public parking lots, he also led the development of the urban smart parking cloud platform
+to meet the data needs of city managers for urban public parking lots. In the process of upgrading the intelligent parking lots and expanding
+the operation business, a series of intelligent parking software and hardware products have been developed successively, and various
+profit models have been formulated for the development of the company. Later, Zhang founded Jingbo Ecological Technology Co. 
+
+Hongwei
+Li , age 36, Director, has been the supply chain manager of Zhejiang Renlv World Technology Development Co. since 2017 and is familiar
+with the supply chain process and e-commerce procurement. He has the strong capabilities of supply chain management, team management,
+and business development. 
+
+Xiujuan
+Chen, age 49, Director, has been the Operating President of Hangzhou Jizhong Ecological Technology Co., Ltd. since 2018. 
+
+Chuchu
+Zhang, age 26, Director, graduated from the University of Sheffield with a master s degree in management. After graduation,
+she started served as the general manager of Zhonggu Zongguan Business Development (Hangzhou) Co., Ltd. in September 2020. She is responsible
+for project planning, on-site coordination, and tracking of delivery issues. 
+
+Director
+Independence 
+
+None
+of our directors qualified as an independent director under the rules of NASDAQ, Marketplace Rule 4200(a). 
+
+Nominating
+Committee 
+
+We
+do not presently have a nominating committee. Our Board of Directors currently acts as our nominating committee. 
+
+Audit
+Committee 
+
+We
+do not presently have an audit committee. Our Board of Directors currently acts as our nominating committee. 
+
+Involvement
+in Legal Proceedings 
+
+To
+our knowledge, there have been no material legal proceedings during the last ten years that would require disclosure under the federal
+securities laws that are material to an evaluation of the ability or integrity of any of our directors or executive officers. 
+
+48 
+
+Potential
+Conflicts of Interest 
+
+We
+are not aware of any current or potential conflicts of interest with Mr. Ma, other business interests and his involvement with SavMobi
+Technology Inc. 
+
+Item
+11. Executive Compensation. 
+
+Summary
+Compensation Table 
+
+SavMobi
+Technology Inc. has made no provisions for paying cash or non-cash compensation to its sole officer and director. No salaries are being
+paid at the present time, and none will be paid unless and until our operations generate sufficient cash flows. 
+
+The
+table below summarizes all compensation awarded to, earned by, or paid to our named executive officer for all services rendered in all
+capacities to us for the period from inception (March 6, 2015) through May 31, 2023. 
+
+Executive
+Compensation 
+
+The
+table below sets forth the positions and compensations for the sole officer and director of SVMB for the year ended May 31, 2023, and
+for the officers and directors of Intellegence from inception through May 31, 2023. All those active directors listed below were appointed
+on January 5, 2022. 
+
+Position 
+ Name of Directors 
+ Year 
+ Salary before tax 
+ Bonus 
+ All other compensation 
+ Total 
+
+Chief Executive Officer and Chairman 
+ Guowei Zhang 
+ 2023 
+ 12,977 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 15,691 
+ 0 
+ 0 
+ 0 
+ 
+ Director 
+ Hongwei Li 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Director 
+ Chuchu Zhang 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Director 
+ Xiujuan Chen 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Former Sole 
+ Officer and 
+ 
+ Ma Hongyu 
+ 2023 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Director 
+ 
+ 2022 
+ 0 
+ 0 
+ 0 
+ 0 
+
+Outstanding
+Equity Awards at Fiscal Year End 
+
+None
+of our executive officers received any equity awards, including, options, restricted awards stock, performance or other equity incentives
+during the fiscal year ended May 31, 2023 and May 31, 2022. 
+
+Employment
+Contracts 
+
+The
+Company has not entered into any employment agreements with its officer and director. 
+
+Stock
+Awards Plan 
+
+The
+Company has not adopted a Stock Awards Plan but may do so in the future. The terms of any such plan have not been determined. 
+
+49 
+
+Director
+Compensation 
+
+The
+Board of Directors of the Company has not adopted a stock option plan. The Company has no plans to adopt it but may choose to do so in
+the future. If such a plan is adopted, this may be administered by the board or a committee appointed by the board (the Committee ).
+The committee would have the power to modify, extend or renew outstanding options and to authorize the grant of new options in substitution
+therefore, provided that any such action may not impair any rights under any option previously granted. SavMobi Technology Inc. may develop
+an incentive-based stock option plan for its officers and directors and may reserve up to 10 of its outstanding shares of common stock
+for that purpose. 
+
+No
+fees have been paid to directors of the Company to date. 
+
+Board
+Committees 
+
+We
+have not formed an Audit Committee, Compensation Committee or Nominating and Corporate Governance Committee as of the filing of this
+Annual Report. Our Board of Directors performs the principal functions of an Audit Committee. We currently do not have an audit committee
+financial expert on our Board of Directors. We believe that an audit committee financial expert is not required because the cost of hiring
+an audit committee financial expert to act as one of our directors and to be a member of an Audit Committee outweighs the benefits of
+having an audit committee financial expert at this time. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information with respect to the beneficial ownership of our voting securities following the completion
+of the Reverse Merger described in Items 1.01 of this report by (i) any person or group owning more than 5 of any class of voting securities,
+(ii) each director, (iii) our chief executive officer and (iv) all executive officers and directors as a group as of May 31, 2023. 
+
+Name 
+ Number
+ of Shares of Common Stock 
+ Percentage 
+ Address 
+ 
+ Guowei Zhang 
+ 200,000,000 
+ 18.83 
+ Building B8, China Zhigu, Yinhu
+ Street, Fuyang District, Hangzhou, Zhejiang, China 
+ 
+ Hongwei Li 
+ 290,000,000 
+ 27.31 
+ Building C1, China Zhigu, Yinhu Street, Fuyang
+ District, Hangzhou, Zhejiang, China 
+ 
+ Chuchu Zhang 
+ 260,000,000 
+ 24.48 
+ Room 1704, Unit 2, Building C-14, Zhonghai
+ Huanyutianxia, Qianmo Road, Xixing Street, Binjiang District, Hangzhou City, Zhejiang Province 
+ 
+ Xiujuan Chen 
+ 250,000,000 
+ 23.54 
+ No. 1129, Yunji Road, Keqiao, Shaoxing, Zhejiang 
+ 
+ (All officers and directors as a group (4 people)) 
+ 1,000,000,000 
+ 94.17 
+
+There
+are no other officer or director 5 shareholders. 
+
+Unless
+otherwise indicated in the footnotes to this table and subject to community property laws where applicable, each of the stockholders
+named in this table has sole or shared voting and investment power with respect to the shares indicated as beneficially owned. Except
+as set forth above, applicable percentages are based upon 1,061,900,000 shares of common stock to be outstanding. 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+Except
+as set forth below, we had not entered into any transactions with our officers or directors, or persons nominated for these positions,
+beneficial owners of 5 or more of our common stock, or family members of these persons wherein the amount involved in the transaction
+or a series of similar transactions exceeded the lesser of 120,000 or 1 of the average of our total assets for the last three fiscal
+years. 
+
+50 
+
+The
+Company had the following balances due to and due from related parties: 
+
+At
+May 31, 2023 and May 31, 2022, the Company owned funds from the following related parties: 
+
+May
+ 31.2023 
+ May
+ 31.2022 
+ Relationship 
+
+Intellegence Triumph Holdings Limited 
+ 5,000 
+ 5,000 
+ Former shareholder 
+ 
+ Virtue Victory Holdings Limited 
+ 5,200 
+ 5,200 
+ Former shareholder 
+ 
+ Strength Union Holdings
+ Limited 
+ 5,800 
+ 5,800 
+ Former shareholder 
+
+At
+May 31, 2023 and May 31, 2022, the Company owed funds to the following related parties: 
+
+May
+ 31, 2023 
+ May
+ 31.2022 
+ Relationship 
+
+Guowei Zhang 
+ 1,056,221 
+ 394,077 
+ President of the Company 
+ 
+ Xinxin Chen 
+ 1,500 
+ - 
+ Former shareholder 
+ 
+ Shaoxing Keqiao Zhuyi Technology Co., Ltd 
+ 32,740,623 
+ - 
+ An entity controlled by a shareholder 
+ 
+ Beijing Zhibo Innovation Technology Co., Ltd. 
+ - 
+ 33,211,152 
+ An entity which Guowei Zhang is a major shareholder 
+
+Advances
+from Guowei Zhang were unsecured, non-interest bearing and due on demand. 
+
+During
+the year ended May 31, 2023, the Company borrowed from related parties of 713,753 and made repayments to related parties of 16,552.
+During the year ended May 31, 2022, the Company borrowed from related parties of 11,814,399 and made repayments to related parties of
+ 1,373,587. 
+
+As
+of May 31, 2022, the outstanding balance of long-term loans was RMB 221,267,008.77 (USD 33,211,152). It consisted of two loans related
+to Beijing Zhibo Innovation Technology Co., Ltd Zhibo ). The Company entered into a three year loan on September 20, 2019.
+The agreement commenced on October 1, 2019. The maximum borrowing is RMB 300,000,000 (USD 45,028,818) with an interest rate of 3.6 .
+25 of the outstanding balance should be repaid each quarter. Supplementary contracted were signed between the two parties agreeing there
+would be no repayment of principle for the next 12 months and interest expense was waived. The other contract was a two-year interest-free
+agreement signed on September 1st, 2020 at which date the contracted commenced. Principle was RMB 22,000,000 (USD 3,302,098). As of May
+31, 2022, outstanding balances of the first and second loans were RMB 201,909,728.77 (USD 30,305,855) and RMB 19,357,280 (USD 2,905,297),
+respectively. 
+
+Zhibo
+extended the above contracts to September 30, 2025 when they expired in 2022. Repayments and interest expenses are not required until
+September 30, 2024. Interest expenses calculated on an annual rate of 3 will be paid monthly from 1 October, 2024. Principle will be
+fully repaid upon maturity. 
+
+51 
+
+Due
+to business restructure, Zhibo was deregistered at the beginning of 2023. Before deregistration, on January 15, 2023, Zhibo transferred
+the debts to a number of companies/partnerships with the clauses unchanged. The table below set forth the amount transferred to each
+Zhibo s creditor as of January 15, 2023. 
+
+Transferee 
+ Transferred
+ amounts (RMB) 
+ Transferred
+ amounts (USD) 
+ 
+ Hangzhou
+ Chiyi Enterprise Management Partnership (Limited Partnership) 
+ 30,000,000.00 
+ 4,219,409 
+ 
+ Hangzhou Chuangzhu Enterprise
+ Management Partnership (Limited Partnership) 
+ 10,097,186.49 
+ 1,420,139 
+ 
+ Hangzhou HongKuo Enterprise
+ Management Partnership (Limited partnership) 
+ 41,802,605.93 
+ 5,879,410 
+ 
+ Hangzhou Hongying Enterprise
+ Management Partnership (Limited Partnership) 
+ 10,000,000.00 
+ 1,406,470 
+ 
+ Hangzhou Liujin Enterprise
+ Management Partnership (Limited Partnership) 
+ 37,880,435.02 
+ 5,327,769 
+ 
+ Hangzhou Ruiqi Enterprise
+ Management Partnership (Limited Partnership) 
+ 43,500,000.00 
+ 6,118,143 
+ 
+ Hangzhou Zhusheng Enterprise
+ Management Partnership (Limited Partnership) 
+ 20,000,000.00 
+ 2,812,940 
+ 
+ Hangzhou Zhuyuan Enterprise
+ Management Partnership (Limited Partnership) 
+ 20,000,000.00 
+ 2,812,940 
+ 
+ Hangzhou Jizhong Ecological
+ Technology Co., Ltd. 
+ 9,450,338.82 
+ 1,329,162 
+ 
+ Hangzhou Liujin Enterprise
+ Management Partnership Co., Ltd. 
+ 2,000,000.00 
+ 281,294 
+ 
+ Hangzhou Renyigou E-Commerce
+ Co., Ltd. 
+ 5,100,000.00 
+ 717,300 
+ 
+ Hangzhou Yixin Supply
+ Chain Management Co., Ltd. 
+ 4,000,000.00 
+ 562,588 
+ 
+ Hangzhou Zhizhu Parking
+ Co., Ltd. 
+ 458,469.12 
+ 64,482 
+ 
+ Total 
+ 234,289,035.38 
+ 32,952,046 
+
+For
+helping the Company consolidate debts and providing financial support to the Company, Shaoxin Keqiao Zhuyi Technology Co., Ltd., whose
+sole shareholder is Xiujuan Chen, took over the debts from the businesses mentioned in the table. Loan transfer agreements were executed
+on March 16 and 17, 2023 with the original clauses unchanged. Xiujuan Chen is also one of the shareholders of the Company. After the
+loans transferred to Shaoxin Keqiao Zhuyi Technology Co., Ltd., outstanding balances were offset in part or in full if the transferees
+were our current debtors. 
+
+52 
+
+The
+below table shows the movements of loans before the transfers and the final amounts being transferred. 
+
+Transferor 
+ Balance
+ as at January 15, 2023 (RMB) 
+ Offset
+ (RMB) 
+ Increase
+ (RMB) 
+ Transferred
+ amounts (RMB) 
+ Transferred
+ amounts (USD) 
+ 
+ Hangzhou Chiyi Enterprise Management
+ Partnership (Limited Partnership) 
+ 30,000,000.00 
+ - 
+ - 
+ 30,000,000.00 
+ 4,219,409 
+ 
+ Hangzhou Chuangzhu Enterprise Management Partnership
+ (Limited Partnership) 
+ 10,097,186.49 
+ - 
+ - 
+ 10,097,186.49 
+ 1,420,139 
+ 
+ Hangzhou HongKuo Enterprise Management Partnership
+ (Limited partnership) 
+ 41,802,605.93 
+ - 
+ - 
+ 41,802,605.93 
+ 5,879,410 
+ 
+ Hangzhou Hongying Enterprise Management Partnership
+ (Limited Partnership) 
+ 10,000,000.00 
+ - 
+ - 
+ 10,000,000.00 
+ 1,406,470 
+ 
+ Hangzhou Liujin Enterprise Management Partnership
+ (Limited Partnership) 
+ 37,880,435.02 
+ - 
+ 8,652,951.79 
+ 46,533,386.81 
+ 6,544,780 
+ 
+ Hangzhou Liujin Enterprise Management Partnership Co., Ltd. 
+ 2,000,000.00 
+ - 
+ 6,427,428.49 
+ 8,427,428.49 
+ 1,185,292 
+ 
+ Hangzhou Ruiqi Enterprise Management Partnership
+ (Limited Partnership) 
+ 43,500,000.00 
+ (2,309,273.07 
+ 4,734,492.66 
+ 45,925,219.59 
+ 6,459,243 
+ 
+ Hangzhou Zhusheng Enterprise Management Partnership
+ (Limited Partnership) 
+ 20,000,000.00 
+ - 
+ - 
+ 20,000,000.00 
+ 2,812,940 
+ 
+ Hangzhou Zhuyuan Enterprise Management Partnership (Limited Partnership) 
+ 20,000,000.00 
+ - 
+ - 
+ 20,000,000.00 
+ 2,812,940 
+ 
+ Hangzhou Jizhong Ecological Technology Co.,
+ Ltd. 
+ 9,450,338.82 
+ (9,450,338.82 
+ - 
+ - 
+ - 
+ 
+ Hangzhou Renyigou E-Commerce Co., Ltd. 
+ 5,100,000.00 
+ (5,100,000.00 
+ - 
+ - 
+ - 
+ 
+ Hangzhou Yixin Supply Chain Management Co.,
+ Ltd. 
+ 4,000,000.00 
+ (4,000,000.00 
+ - 
+ - 
+ - 
+ 
+ Hangzhou Zhizhu Parking Co., Ltd. 
+ 458,469.12 
+ (458,469.12 
+ - 
+ - 
+ - 
+ 
+ Total 
+ 234,289,035.38 
+ (21,318,081.01 
+ 19,814,872.94 
+ 232,785,827.31 
+ 32,740,623 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+Fees
+paid to Auditors 
+
+Audit
+Fees 
+
+During
+fiscal years ended May 31, 2023 and 2022, we incurred approximately 120,000 and 14,000, respectively, in fees to our principal independent
+accountants for professional services rendered in connection with the audit of our May 31, 2023 and 2022 financial statements and for
+the reviews of our financial statements for the quarters ended during such periods. 
+
+The
+SEC requires that before our independent registered public accounting firm is engaged by us to render any auditing or permitted non-audit
+related service, the engagement be either: (i) approved by our Audit Committee or (ii) entered into pursuant to pre-approval policies
+and procedures established by the Audit Committee, provided that the policies and procedures are detailed as to the particular service,
+the Audit Committee is informed of each service, and such policies and procedures do not include delegation of the Audit Committee s
+responsibilities to management. 
+
+We
+do not have an Audit Committee. Our Board pre-approves all services provided by our independent registered public accounting firm. 
+
+53 
+
+PART
+IV 
+
+Item
+15. Exhibit and Financial Statement Schedules. 
+
+Please
+see the Exhibit Index, which is incorporated herein by reference, following the signature page for a list of our exhibits. 
+
+EXHIBIT
+INDEX 
+
+31.1 
+ Rule
+ 13(a)-14(a)/15(d)-14(a) Certification of Chief Executive Officer and Chief Financial Officer 
+ 
+ 32.1 
+ Section
+ 1350 Certification of Chief Executive Officer 
+ 
+ 32.2 
+ Section
+ 1350 Certification of Chief Financial Officer 
+ 
+ 101 
+ Interactive
+ data files pursuant to Rule 405 of Regulation S-T. 
+
+Item
+16. Form 10 K Summary. 
+
+As
+permitted, the registrant has elected not to supply a summary of information required by Form 10-K. 
+
+54 
+
+SIGNATURES 
+
+Purusant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+SAVMOBI
+ TECHNOLOGY, INC. 
+
+Dated:
+ October 2, 2023 
+ By: 
+ /s/
+ Zhang Guowei 
+
+Name: 
+ Zhang
+ Guowei 
+
+Title: 
+ President,
+ Chief Executive Officer, Chief 
+ Financial
+ Officer and Secretary and Director 
+ (Principal
+ Executive, Financial and Accounting Officer) 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+Company and in the capacities and on the dates indicated. 
+
+Dated:
+ October 2, 2023 
+ By: 
+ /s/
+ Zhang Guowei 
+
+Name: 
+ Zhang
+ Guowei 
+
+Title: 
+ President,
+ Chief Executive Officer, Chief 
+ Financial
+ Officer and Secretary and as a director 
+ (Principal
+ Executive, Financial and Accounting Officer) 
+
+55 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION
+OF 
+
+ PRINCIPAL
+EXECUTIVE OFFICER AND PRINCIPAL ACCOUNTING OFFICER 
+
+ PURSUANT
+TO 18 U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE
+SARBANES-OXLEY ACT OF 2002 
+
+I,
+Zhang Guowei, certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K of Savmobi Technology, Inc. (the Registrant ): 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in
+ this report; 
+
+4. 
+ The
+ Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13-a13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+a) 
+ Designed
+ such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to
+ ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated
+ the effectiveness of the Registrant s disclosure controls and procedures; and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ Disclosed
+ in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s
+ most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. 
+ The
+ Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+ financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or
+ persons performing the equivalent functions): 
+
+a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s
+ internal control over financial reporting. 
+
+Dated:
+ October 2, 2023 
+ By: 
+ /s/
+ Zhang Guowei 
+
+Zhang
+ Guowei 
+
+Chief
+ Executive Officer and Chief Financial Officer 
+ (Principal
+ Executive Officer and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U. S. C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Savmobi Technology, Inc. (the Company on Form 10-K for the year ended May 31, 2023
+(the Report ), I, Zhang Guowei, Chief Executive Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+
+2. 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+Dated:
+ October 2, 2023 
+ By: 
+ /s/
+ Zhang Guowei 
+
+Zhang
+ Guowei 
+
+Chief
+ Executive Officer 
+ (Principal
+ Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 4
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U. S. C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Savmobi Technology, Inc. (the Company on Form 10-K for the year ended May 31, 2023
+(the Report ), I, Zhang Guowei, Chief Financial Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+
+2. 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+Dated:
+ October 2, 2023 
+ By: 
+ /s/
+ Zhang Guowei 
+
+Zhang
+ Guowei 
+
+Chief
+ Financial Officer 
+ (Principal
+ Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ svmb-20230531.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ svmb-20230531_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ svmb-20230531_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ svmb-20230531_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
