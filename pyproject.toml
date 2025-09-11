@@ -3,7 +3,7 @@ name = "afden-python-workshop"
 version = "2025.09"
 description = "Python Coding for Accounting and Finance Research. See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12.10"
 dependencies = [
     "beautifulsoup4>=4.13.5",
     "ipykernel>=6.30.1",
