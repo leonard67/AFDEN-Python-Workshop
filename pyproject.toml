@@ -1,6 +1,6 @@
 [project]
 name = "afden-python-workshop"
-version = "2025.09"
+version = "2025.09.24"
 description = "Python Coding for Accounting and Finance Research. See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
 requires-python = ">=3.12.10"
