@@ -1,7 +1,7 @@
 [project]
 name = "afden-python-workshop"
-version = "2025.09.24"
-description = "Python Coding for Accounting and Finance Research. See https://www.afaanz.org/doctoral-education for details."
+version = "2025.10.06"
+description = "Python Coding workshop for Accounting and Finance Research. Created by [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li). See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
@@ -16,8 +16,11 @@ dependencies = [
     "regex>=2025.7.34",
     "regpyhdfe>=0.0.10",
     "requests>=2.32.5",
+    "scipy",
     "seaborn>=0.13.2",
     "secedgar>=0.6.0",
+    "statsmodels",
     "textstat>=0.7.8",
     "wrds>=3.4.0",
+    "FixedEffectModelPyHDFE",
 ]
