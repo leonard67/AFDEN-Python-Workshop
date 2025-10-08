@@ -1,11 +1,13 @@
 [project]
 name = "afden-python-workshop"
-version = "2025.10.06"
+version = "2025.10.08"
 description = "Python Coding workshop for Accounting and Finance Research. Created by [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li). See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
     "beautifulsoup4>=4.13.5",
+    "fixedeffectmodelpyhdfe>=0.0.5",
+    "google-generativeai>=0.8.5",
     "ipykernel>=6.30.1",
     "matplotlib>=3.10.5",
     "nest-asyncio>=1.6.0",
@@ -16,11 +18,9 @@ dependencies = [
     "regex>=2025.7.34",
     "regpyhdfe>=0.0.10",
     "requests>=2.32.5",
-    "scipy",
     "seaborn>=0.13.2",
     "secedgar>=0.6.0",
     "statsmodels",
     "textstat>=0.7.8",
     "wrds>=3.4.0",
-    "FixedEffectModelPyHDFE",
 ]
