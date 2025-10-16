@@ -1,12 +1,20 @@
-**Welcome to AFDEN Python Workship for Accounting and Finance Research**
+**AFDEN Python Workship for Accounting and Finance Research**
 
 Creator: [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li)
 
-Edition: 2025 Sep
+Edition: 2025 Oct
 
 ---
 
-## 0. Python Environment Setup
+## Table of Contents
+
+0. [Python Environment Setup](#section0)
+1. [Introduction to Python Fundamentals in Research](#section1)
+2. [Handling Data and Descriptive Analysis with `pandas`](#section2)
+3. [WRDS with Python](#section3)
+
+
+## 0. Python Environment Setup <a name="section0"></a>
 
 Before our first session, please follow the steps to set up the required Python environment on your computer.
 
@@ -29,7 +37,7 @@ I set up the python environment using `uv`, which is fast and easy for begginers
 
 If you also want to learn how to use `conda` and some basic concepts of Python modules and packages, I encourage you to take [the course by ANACONDA (1 hour)](https://learning.anaconda.com/courses/get-started-with-anaconda).
 
-## 1. Introduction to Python Fundamentals in Research
+## 1. Introduction to Python Fundamentals in Research <a name="section1"></a>
 In this first module, we will quickly go through the Python Basics, from data types to control flows. This module is designed with beginners in mind. You will be introduced to the essential building blocks of Python, moving step by step from basic concepts to more practical applications. Along the way, you will practice coding through short examples and exercises. I will also share the functions that I frequently uesed in my own research such as list conprehension and lambda functions. By the end, you’ll put everything together in a fun project: building a simple chat bot.
 
 ### Rrerequisite reading
@@ -56,7 +64,7 @@ By completing this module, you will be able to:
 
 - Have a brief understading of the concept of object-oriented programming (OOP).
 
-## 2. Data Science with Pandas
+## 2. Data Science with Pandas <a name="section2"></a>
 
 `pandas` is the most useful Python library for data analysis in our research. In the second module, you will learn how to use `pandas` to handle data in tabular form. We will cover the fundamental operations needed to load data, explore it, clean it, and prepare it for further analysis. By the end, you’ll have the skills to manage real-world datasets and apply `pandas` to replicate a saminal paper.
 
@@ -88,7 +96,7 @@ By completing this tutorial, you will be able to:
 
 Our class will be based on the [2-1-Pandas.ipynb](./2-1-Pandas.ipynb) and [2-2-Data Visualization.ipynb](./2-2-Data%20Visualization.ipynb) files.
 
-## 3. WRDS with Python
+## 3. WRDS with Python <a name="section3"></a>
 
 Access to high-quality financial and economic data is fundamental for empirical research in AccFin. The Wharton Research Data Services (WRDS) platform, which provides a gateway to a wide range of leading databases such as Compustat, CRSP and IBES, is the most commonly used data platform for AccFin empirical research. In this session, we will learn how to use the `wrds` Python package to connect programmatically to WRDS, query structured datasets, and efficiently download and manage data for analysis. The session emphasizes both the technical skills required for accessing large-scale databases and the research practices necessary to ensure data integrity, reproducibility, and efficiency in academic and applied settings.
 
@@ -114,7 +122,7 @@ By the end of this class, you will be able to:
 
 Our class will be based on the [3-1-WRDS with Python.ipynb](./3-1-WRDS%20with%20Python.ipynb) and [3-1o-SEC API.ipynb](./3-1o-SEC%20API.ipynb) (optional) files.
 
-## 4. Textual Analysis
+## 4. Textual Analysis <a name="section4"></a>
 
 AccFin research nowadays is no longer limited to numerical disclosures and structual data. Textual data — such as Management Discussion & Analysis (MD&A) sections of 10-K filings, risk factor disclosures (RFD), and earnings call transcripts — provides rich information about firms’ strategies, risks, and performance, which provides many research opportunities.
 
@@ -154,7 +162,7 @@ By the end of this session, you will be able to:
 
 Our class will be based on the [4-1-Textual Analysis.ipynb](./4-1-Textual%20Analysis.ipynb) file.
 
-## 5. Web Scraping
+## 5. Web Scraping <a name="section5"></a>
 
 In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web.
 
