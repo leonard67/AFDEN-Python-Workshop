@@ -8,7 +8,7 @@ Edition: 2025 Oct
 
 ## Table of Contents
 
-0. [Python Environment Setup](#section0)
+0. [Python Environment Setup](#0.-Python-Environment-Setup)
 1. [Introduction to Python Fundamentals in Research](#section1)
 2. [Handling Data and Descriptive Analysis with `pandas`](#section2)
 3. [WRDS with Python](#section3)
