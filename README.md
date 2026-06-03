@@ -194,6 +194,7 @@ You will learn how to process unstructured text, extract meaningful features, an
 
 We will also briefly introduce how to use API to access OpenAI's LLM models using [5-2-Using API.ipynb](./5-2-Using%20API.ipynb) if we have time.
 
+- Section 3.3 of [Teoh (2018)](https://doi.org/10.1016/j.aos.2018.03.008)
 - Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
 
 You can also watch [the video by Corey Schafer (53 mins)](https://youtu.be/K8L6KVGG-7o?si=H83lHipbbrHELfXD) to comprehensively understand the concept of Regex in python before our class.
