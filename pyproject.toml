@@ -1,26 +1,39 @@
 [project]
 name = "afden-python-workshop"
-version = "2025.10.08"
+version = "2026.07.22"
 description = "Python Coding workshop for Accounting and Finance Research. Created by [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li). See https://www.afaanz.org/doctoral-education for details."
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
+    "accelerate>=1.14.0",
     "beautifulsoup4>=4.13.5",
+    "datasets>=5.0.0",
     "fixedeffectmodelpyhdfe>=0.0.5",
-    "google-generativeai>=0.8.5",
+    "google-genai>=2.3.0",
+    "google-maps-places>=0.9.0",
+    "google-maps-routing>=0.11.0",
+    "googlemaps>=4.10.0",
     "ipykernel>=6.30.1",
     "matplotlib>=3.10.5",
     "nest-asyncio>=1.6.0",
     "nltk>=3.9.1",
     "openai>=1.106.1",
     "pandas>=2.2",
+    "pydantic>=2.0",
+    "pymupdf>=1.28.0",
     "python-dotenv>=1.1.1",
     "regex>=2025.7.34",
     "regpyhdfe>=0.0.10",
     "requests>=2.32.5",
+    "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
     "secedgar>=0.6.0",
+    "shap>=0.52.0",
     "statsmodels",
     "textstat>=0.7.8",
+    "torch>=2.13.0",
+    "transformers>=5.14.1",
+    "wordcloud>=1.9.6",
     "wrds>=3.4.0",
+    "xgboost>=3.3.0",
 ]
