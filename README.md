@@ -14,7 +14,7 @@ This course is designed to equip doctoral students and early career researchers 
 
 A distinctive feature of this workshop is that almost every module and session is built around understanding or replicating a published study from a top journal, such as Sloan's (1996, *The Accounting Review*) accrual anomaly,  Kim et al.'s (2016 *Journal of Accounting and Economics*) option volatility smirk, Obaid and Pukthuanthong's (2022 *Journal of Financial Economics*) image sentiment, Chen et al.'s (2022, *Journal of Accounting Research*) earnings forecasting, de Kok's (2025 *Management Science*) detection of "non-answers" in earnings call, among many others. Emphasis will be placed on applications to real-world accounting and finance data, such as databases in WRDS, SEC filings, and textual data (e.g., 10-Ks and earnings-call transcripts). Thus, the Python skills you learn are grounded in the same empirical research you'll be expected to produce.
 
-The outline below in my GitHub repository provides a detailed description of the material that is covered in the course. The course consists of two 2-hour online modules, which introduce the Python fundamentals for research (Module 1) and the *pandas *package for handling and analysing data (Module 2), followed by a two-day in-person workshop: Day 1 covers data collection from WRDS, web scraping, and LLM/generative-AI APIs (Modules 3), together with natural language processing and textual analysis (Modules 4), and Day 2 covers modern machine-learning methods for accounting and finance research, including classification, prediction and explainable AI (Module 5).
+The outline below provides a detailed description of the material that is covered in the course. The course consists of two 2-hour online modules, which introduce the Python fundamentals for research (Module 1) and the *pandas *package for handling and analysing data (Module 2), followed by a two-day in-person workshop: Day 1 covers data collection from WRDS, web scraping, and LLM/generative-AI APIs (Modules 3), together with natural language processing and textual analysis (Modules 4), and Day 2 covers modern machine-learning methods for accounting and finance research, including classification, prediction and explainable AI (Module 5).
 
 ## Table of Contents <a name="toc"></a>
 
@@ -29,20 +29,20 @@ The outline below in my GitHub repository provides a detailed description of the
 
 Before our first session, please follow the steps to set up the required Python environment on your computer.
 
-The python version we use is 3.12, and the IDE I will use for demostration is VS Code. If you prefer other IDEs such as PyCharm or jupyter notebook, you are welcome to use the one you are familar with.
+The python version we use is 3.12, and the IDE I will use for demostration is [VS Code](https://code.visualstudio.com/download). If you prefer other IDEs such as PyCharm or jupyter notebook, you are welcome to use the one you are familar with.
 
 I set up the python environment using `uv`, which is fast and easy for begginers. If you have already known how to use `pip` or `conda` to set up your Python virtual environment, you can use your preferred method and ignore the following steps. Just make sure you have installed all the packages in [requirements file](./requirements.txt).
 
-1. **Install `uv`**: See https://docs.astral.sh/uv/getting-started/installation/
+1. **Install `uv`**: See [docs.astral.sh/uv/getting-started/installation](https://docs.astral.sh/uv/getting-started/installation/)
    - If you are using Windows: open Command Prompt, type `winget install --id=astral-sh.uv  -e`
    - If you are using Mac OS: open Terminal, type `wget -qO- https://astral.sh/uv/install.sh | sh`
    - To check if `uv` is successfully installed, type `uv --version`
-2. **Install VS Code** from https://code.visualstudio.com. In VS Code, Install the following Extensions (on the left column):
+2. **Install VS Code** from [code.visualstudio.com/download](https://code.visualstudio.com/download). In VS Code, Install the following Extensions (on the left column):
    - Data Wrangler
    - Jupyter
    - Python
 3. Download this Github repository to your local disk.
-   - Click the  green "<> Code" button and click "Download ZIP".
+   - Click the  green "<> Code" button and click "Download ZIP"
    - Create a new folder on your computer and extract the ZIP file in that directory
    - Open the directory using VS Code (or your IDE). In Terminal, run `uv sync`.
 
@@ -56,7 +56,7 @@ In this first module, we will quickly go through the Python Basics, from data ty
 
 **Prerequisite reading**
 
-You can go through the [1-1-Intro_to_Python.ipynb](<Module 1-Introduction to Python Fundamentals/1-1-Intro_to_Python.ipynb>) file before class.
+You can go through the [1-1_Intro_to_Python.ipynb](<Module 1-Introduction to Python Fundamentals/1-1_Intro_to_Python.ipynb>) file before class.
 
 **Learning Outcomes**
 
