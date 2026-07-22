@@ -2,11 +2,19 @@
 
 Creator: [Leonard Leye Li](https://www.unsw.edu.au/staff/leonard-leye-li)
 
-Edition: 2026 Jul
+Edition: 2025 Oct
 
 ---
 
-Welcome to [AFDEN](https://www.afaanz.org/doctoral-education)'s Python workshop for Accounting and Finance (AccFin) researchers. This file provides the course introductions, learning outcomes, and prerequisite readings for each module of this workshop.
+Welcome to [AFDEN](https://www.afaanz.org/doctoral-education)'s Python workshop for Accounting and Finance (AccFin) researchers. This file provides the course outline, learning outcomes, and prerequisite readings for each module of this workshop.
+
+## Overview
+
+This course is designed to equip doctoral students and early career researchers in accounting and finance with foundational and practical skills in Python programming, tailored specifically for empirical research. I will cover core programming concepts, data manipulation techniques, data collection from databases and the web, natural language processing techniques, and modern statistical and machine-learning methods using Python. Through hands-on assignments and coding exercises, students will learn how to efficiently collect and clean data, perform statistical testing, build predictive models, and visualize results. The goal is not only to become competent in coding but also to use Python as a tool to enhance the quality and efficiency of academic research.
+
+A distinctive feature of this workshop is that almost every module and session is built around understanding or replicating a published study from a top journal, such as Sloan's (1996, *The Accounting Review*) accrual anomaly,  Kim et al.'s (2016 *Journal of Accounting and Economics*) option volatility smirk, Obaid and Pukthuanthong's (2022 *Journal of Financial Economics*) image sentiment, Chen et al.'s (2022, *Journal of Accounting Research*) earnings forecasting, de Kok's (2025 *Management Science*) detection of "non-answers" in earnings call, among many others. Emphasis will be placed on applications to real-world accounting and finance data, such as databases in WRDS, SEC filings, and textual data (e.g., 10-Ks and earnings-call transcripts). Thus, the Python skills you learn are grounded in the same empirical research you'll be expected to produce.
+
+The outline below in my GitHub repository provides a detailed description of the material that is covered in the course. The course consists of two 2-hour online modules, which introduce the Python fundamentals for research (Module 1) and the *pandas *package for handling and analysing data (Module 2), followed by a two-day in-person workshop: Day 1 covers data collection from WRDS, web scraping, and LLM/generative-AI APIs (Modules 3), together with natural language processing and textual analysis (Modules 4), and Day 2 covers modern machine-learning methods for accounting and finance research, including classification, prediction and explainable AI (Module 5).
 
 ## Table of Contents <a name="toc"></a>
 
