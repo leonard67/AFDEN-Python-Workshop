@@ -20,12 +20,12 @@ The outline below provides a detailed description of the material that is covere
 
 0. [Python Environment Setup](#section0)
 1. [Introduction to Python Fundamentals](#section1)
-2. [Handling Data and Descriptive Analysis with `pandas`](#section2)
+2. [Handling Data and Descriptive Analysis](#section2)
 3. [Data Collection](#section3)
 4. [Natural Language Processing](#section4)
 5. [Machine Learning](#section5)
 
-## 0. Python Environment Setup <a name="section0"></a>
+## 0. Python Environment Setup<a name="section0"></a>
 
 Before our first session, please follow the steps to set up the required Python environment on your computer.
 
@@ -50,7 +50,7 @@ If you also want to learn how to use `conda` and some basic concepts of Python m
 
 [Back to ToC](#toc)
 
-## 1. Introduction to Python Fundamentals <a name="section1"></a>
+## 1. Introduction to Python Fundamentals<a name="section1"></a>
 
 In this first module, we will quickly go through the Python Basics, from data types to control flows. This module is designed with beginners in mind. You will be introduced to the essential building blocks of Python, moving step by step from basic concepts to more practical applications. Along the way, you will practice coding through short examples and exercises. I will also share the functions that I frequently uesed in my own research such as list conprehension and lambda functions. By the end, you’ll put everything together in a fun project: building a simple chat bot.
 
@@ -84,15 +84,15 @@ By completing this session, you will be able to:
 - Create and use **classes** and **objects**, including composing one class from another.
 - Apply core OOP concepts: **attributes**, **methods**, and **encapsulation** (public/protected/private access, getters/setters, and the `@property` decorator).
 - Distinguish instance-level from static (class-level) attributes and methods.
-- Recognize **inheritance** and **polymorphism** through a simple `Security`/`Stock`/`Bond` example.
+- Recognize **inheritance** and **polymorphism** through a simple example.
 
 Our class is based on [1-2o-OOP Basics.ipynb](<Module 1-Introduction to Python Fundamentals/1-2o-OOP Basics.ipynb>).
 
 [Back to ToC](#toc)
 
-## 2. Handling Data and Descriptive Analysis with `pandas` <a name="section2"></a>
+## 2. Handling Data and Descriptive Analysis<a name="section2"></a>
 
-`pandas` is the most useful Python library for data analysis in our research. In this module, you will learn how to use `pandas` to handle data in tabular form. We will cover the fundamental operations needed to load data, explore it, clean it, and prepare it for further analysis, then move on to visualizing it with `matplotlib` and `seaborn`. By the end, you’ll have the skills to manage real-world datasets and apply `pandas` to replicate seminal papers in AccFin research.
+`pandas` is the most useful Python library for data analysis in AccFin research. In this module, you will learn how to use `pandas` to handle data in tabular form. We will cover the fundamental operations needed to load data, explore it, clean it, and prepare it for further analysis, then move on to visualizing it with `matplotlib` and `seaborn`. By the end, you’ll have the skills to manage real-world datasets and replicate two seminal papers.
 
 **Prerequisite reading**
 
@@ -114,7 +114,7 @@ By completing this module, you will be able to:
 - Enhance clarity and impact of visualizations through effective use of color, scaling, and annotation.
 - Integrate `pandas` workflows into Python projects replicating seminal academic papers.
 
-Our class is based on [2-1-Pandas.ipynb](<Module 2-Handling Data and Descriptive Analysis with Pandas/2-1-Pandas.ipynb>) (completed version: [2-1_Pandas_Final.ipynb](<Module 2-Handling Data and Descriptive Analysis with Pandas/2-1_Pandas_Final.ipynb>)) and [2-2-Data Visualization.ipynb](<Module 2-Handling Data and Descriptive Analysis with Pandas/2-2-Data Visualization.ipynb>).
+Our class is based on [2-1-Pandas.ipynb](<Module 2-Handling Data and Descriptive Analysis with Pandas/2-1-Pandas.ipynb>) and [2-2-Data Visualization.ipynb](<Module 2-Handling Data and Descriptive Analysis with Pandas/2-2-Data Visualization.ipynb>).
 
 ### 2.1e. Exercises
 
@@ -124,15 +124,16 @@ Our class is based on [2-1-Pandas.ipynb](<Module 2-Handling Data and Descriptive
 
 [Back to ToC](#toc)
 
-## 3. Data Collection <a name="section3"></a>
+## 3. Data Collection<a name="section3"></a>
 
 ### 3.1. WRDS with Python
 
-Access to high-quality financial and economic data is fundamental for empirical research in AccFin. The Wharton Research Data Services (WRDS) platform, which provides a gateway to a wide range of leading databases such as Compustat, CRSP and IBES, is the most commonly used data platform for AccFin empirical research. In this session, we will learn how to use the `wrds` Python package to connect programmatically to WRDS, query structured datasets, and efficiently download and manage data for analysis. The session emphasizes both the technical skills required for accessing large-scale databases and the research practices necessary to ensure data integrity, reproducibility, and efficiency in academic and applied settings.
+Access to high-quality financial and economic data is fundamental for empirical research in AccFin. The Wharton Research Data Services (WRDS) platform, which provides a gateway to a wide range of leading databases such as Compustat, CRSP and IBES, is the most commonly used data platform for AccFin research. In this session, we will learn how to use the `wrds` Python package to connect programmatically to WRDS, query structured datasets, and efficiently download and manage data for analysis. The session emphasizes both the technical skills required for accessing large-scale databases and the research practices necessary to ensure data integrity, reproducibility, and efficiency in academic and applied settings.
 
 **Prerequisite reading**
 
-You can preview the [tutorial provided by WRDS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/querying-wrds-data-python/).
+- You can preview the [tutorial provided by WRDS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/querying-wrds-data-python/).
+- Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk.  *Journal of Accounting and Economics* 61 (2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
 
 **Learning Outcomes**
 
@@ -167,7 +168,7 @@ The AAER example highlights both the opportunities (building novel datasets for 
 By the end of this session, you will be able to:
 
 - Understand the role of web scraping in AccFin research, and identify cases where scraping is necessary to build novel datasets.
-- Apply Python libraries such as `requests`, `BeautifulSoup`, and `pandas` to access web pages programmatically, parse HTML structures with `find()`/`find_all()`/CSS selectors to locate relevant information, and store results in clean, structured formats (e.g., CSV).
+- Apply Python libraries such as `requests`, `BeautifulSoup`, and `pandas` to access web pages programmatically, parse HTML structures with `find()`/`find_all()`/CSS selectors to locate relevant information, and store results in clean, structured formats (e.g., CSV, json).
 - Implement scraping logic to handle pagination, nested links, and multiple fields (e.g., dates, respondents, release numbers).
 - Practice responsible scraping by setting custom User-Agents, respecting rate limits and `robots.txt`, and following ethical/legal guidelines for automated data collection.
 - Clean and normalize extracted data with regular expressions, converting messy text into structured variables (e.g., extracting AAER numbers and release references).
@@ -181,7 +182,12 @@ Generative LLMs are increasingly used in accounting research for textual-analysi
 
 **Prerequisite reading**
 
-de Kok, T. (2025). ChatGPT for textual analysis? How to use generative LLMs in accounting research. *Management Science* 71(9): 7888-7906. ([link](https://doi.org/10.1287/mnsc.2023.03253))
+- de Kok, T. (2025). ChatGPT for textual analysis? How to use generative LLMs in accounting research. *Management Science* 71(9): 7888-7906. ([link](https://doi.org/10.1287/mnsc.2023.03253))
+- Blankespoor, E., Dehaan, E., & Li, Q. (2026). Generative AI in financial reporting. *Journal of Accounting Research* 64(3): 1189-1232. ([link](https://doi.org/10.1111/1475-679x.7005))
+
+**Optional reading**
+
+- Obaid, N., and K. Pukthuanthong (2022). A picture is worth a thousand words: Measuring investor sentiment by combining machine learning and photos from news. *Journal of Financial Economics* 144(1): 273-297. ([link](https://doi.org/10.1016/j.jfineco.2021.06.002))
 
 **Learning Outcomes**
 
@@ -195,7 +201,7 @@ By the end of this session, you will be able to:
 
 Our class is based on [3-3_LLM_API_Final.ipynb](<Module 3-Data Collection/3-3_LLM_API_Final.ipynb>).
 
-An optional follow-on exercise, [3-3o_Identifying_Images.ipynb](<Module 3-Data Collection/3-3o_Identifying_Images.ipynb>), applies these skills to a real annual report: extracting embedded photographs from a PDF, captioning each with Gemini, and summarizing the most common visual themes — motivated by Obaid, N., and K. Pukthuanthong (2022). Alt-text: Photo pessimism in newspaper articles and stock returns. *Journal of Financial Economics* 144(3): 903-925. ([link](https://doi.org/10.1016/j.jfineco.2021.06.002))
+An optional follow-on exercise, [3-3o_Identifying_Images.ipynb](<Module 3-Data Collection/3-3o_Identifying_Images.ipynb>), applies these skills to a real annual report: extracting embedded photographs from a PDF, captioning each with Gemini, and summarizing the most common visual themes — motivated by Obaid and Pukthuanthong (2022).
 
 Two further exercises apply LLM-based textual analysis to accounting-research settings (in development):
 
@@ -222,10 +228,10 @@ Our class is based on [3-4o_SEC_API.ipynb](<Module 3-Data Collection/3-4o_SEC_AP
 
 Many datasets in AccFin research include a street address somewhere — a corporate headquarters, an audit office, a plant. Once that address is geocoded into latitude/longitude, geography becomes a source of research variables in its own right. This optional session covers Google's Python clients for the Google Maps Platform — `googlemaps` for geocoding, and the `google-maps-routing`/`google-maps-places` clients for directions, distances, and place search.
 
-**Prerequisite reading**
+**Optional reading**
 
-- Ma, S., et al. (2024). Auditor office locations and audit quality. *The Accounting Review* 99(6). ([link](https://doi.org/10.2308/TAR-2021-0862))
-- Chen, X., et al. (2022). Sunshine and managerial sentiment. *The Accounting Review* 97(4). ([link](https://doi.org/10.2308/TAR-2020-0215))
+- Chen, X., et al. (2022). Sunshine and managerial sentiment. *The Accounting Review* 97(3): 179–203. ([link](https://doi.org/10.2308/TAR-2020-0215))
+- Ma, S., et al. (2024). Auditor office locations and audit quality. *The Accounting Review* 99(6): 297–324.. ([link](https://doi.org/10.2308/TAR-2021-0862))
 
 **Learning Outcomes**
 
@@ -239,7 +245,7 @@ Our class is based on [3-5o_Google_Map_API.ipynb](<Module 3-Data Collection/3-5o
 
 [Back to ToC](#toc)
 
-## 4. Natural Language Processing <a name="section4"></a>
+## 4. Natural Language Processing<a name="section4"></a>
 
 AccFin research nowadays is no longer limited to numerical disclosures and structual data. Textual data — such as Management Discussion & Analysis (MD&A) sections of 10-K filings, risk factor disclosures (RFD), and earnings call transcripts — provides rich information about firms’ strategies, risks, and performance, which provides many research opportunities.
 
@@ -248,14 +254,15 @@ This module introduces you to Natural Language Processing (NLP) in Python, movin
 - Regular expressions (Regex) and the `textstat` package: for identifying, extracting, and cleaning patterns in text, and for computing readability metrics.
 - Dictionary-based textual analysis: scoring text with the Loughran-McDonald word lists, the standard "bag-of-words" approach in AccFin research.
 - Vectorizing text (bag-of-words, TF-IDF, n-grams) with `scikit-learn`, and visualizing term frequencies as word clouds.
-- **FinBERT**: a large language model pretrained on financial text (10-Ks, 10-Qs, analyst reports, earnings calls) that you'll use to classify sentiment, and fine-tune on your own labeled data.
+- `FinBERT`: a large language model pretrained on financial text (10-Ks, 10-Qs, analyst reports, earnings calls) that you'll use to classify sentiment, and fine-tune on your own labeled data.
 
 By the end of the module, you will have the skills to replicate influential textual-analysis studies in AccFin and apply modern NLP tools — from a handful of keywords to a domain-specific LLM — to your own research.
 
 **Prerequisite reading**
 
-- Section 3.3 of [Teoh (2018)](https://doi.org/10.1016/j.aos.2018.03.008)
+- Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10‐Ks. *The Journal of Finance* 66(1): 35-65. ([link](https://doi.org/10.1111/j.1540-6261.2010.01625.x))
 - Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
+- Section 3.3 of Teoh, S. H. (2018). The promise and challenges of new datasets for accounting research.  *Accounting, Organizations and Society* 68: 109-117. ([link](https://doi.org/10.1016/j.aos.2018.03.008))
 - Huang, A. H., H. Wang, and Y. Yang (2023). FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research* 40(2): 806-841. ([link](https://doi.org/10.1111/1911-3846.12832))
 
 You can also watch [the video by Corey Schafer (53 mins)](https://youtu.be/K8L6KVGG-7o?si=H83lHipbbrHELfXD) to comprehensively understand the concept of Regex in python before our class.
@@ -282,15 +289,14 @@ Our class is based on:
 
 [Back to ToC](#toc)
 
-## 5. Machine Learning <a name="section5"></a>
+## 5. Machine Learning<a name="section5"></a>
 
 Machine learning has become a core empirical tool in AccFin research: tree ensembles and other flexible models now routinely outperform traditional linear benchmarks at prediction tasks such as forecasting earnings, detecting misstatements, and assessing credit risk. This module builds up from classical statistical inference to modern gradient-boosted trees, replicating three recent AccFin papers along the way — a classification task, a regression/forecasting task, and an explainability exercise that opens up what the model actually learned.
 
 **Prerequisite reading**
 
-- Chen, X., Y. H. (T.) Cho, Y. Dou, and B. Lev (2022). Predicting future earnings changes using machine learning and detailed financial data. *Journal of Accounting Research* 60(2): 467-515.
-- Chattopadhyay, A., B. Fang, and P. Mohanram (2025). Machine learning for earnings forecasting - US and international evidence. Working paper. ([link](https://dx.doi.org/10.2139/ssrn.5941658))
-- Parker, C. (A.) Z., L. Jiang, S. Cho, and M. A. Vasarhelyi (2025). Predicting material misstatements using machine learning. *The Accounting Review* 100(6): 225-262.
+- Chen, X., Y. H. (T.) Cho, Y. Dou, and B. Lev (2022). Predicting future earnings changes using machine learning and detailed financial data. *Journal of Accounting Research* 60(2): 467-515. ([link](https://doi.org/10.1111/1475-679X.12429))
+- Parker, C. (A.) Z., L. Jiang, S. Cho, and M. A. Vasarhelyi (2025). Predicting material misstatements using machine learning. *The Accounting Review* 100(6): 225-262. ([link](https://doi.org/10.2308/TAR-2024-0035))
 
 **Learning Outcomes**
 
@@ -304,9 +310,9 @@ By the end of this module, you will be able to:
 - Use `shap.TreeExplainer` to compute SHAP values for an XGBoost model, and read SHAP bar, beeswarm, dependence, and waterfall plots to understand which features drive individual predictions and in which direction.
 - Critically interpret machine-learning output as an attention-directing tool rather than evidence of causation.
 
-### 5.0o. Regression and Statistical Testing Primer (Optional)
+### 5.0o. Statistical Testing and Regression Primer (Optional)
 
-An optional refresher on classical statistical inference before the machine-learning sessions: one-sample, independent-samples, and paired t-tests with `scipy.stats`, and linear regression with fixed effects and clustering using `FixedEffectModelPyHDFE`, live-coded through to logistic regression.
+An optional refresher on classical statistical inference before the machine-learning sessions: one-sample, independent-samples, and paired t-tests with `scipy.stats`, and linear regression with fixed effects and clustering using `PyHDFE`, live-coded through to logistic regression.
 
 Our class is based on [5-0o_Regression.ipynb](<Module 5-Machine Learning/5-0o_Regression.ipynb>).
 
@@ -318,7 +324,7 @@ Our class is based on [5-1_Classification.ipynb](<Module 5-Machine Learning/5-1_
 
 ### 5.2. Forecasting Continuous Earnings with XGBoost
 
-Following Chattopadhyay et al. (2025), this class reuses 5-1's data and feature pipeline but predicts next-year EPS directly (a regression task), benchmarking a naive random-walk forecast and a regularized (Ridge) regression against an `xgboost.XGBRegressor` fit with a Huber loss.
+This class reuses 5-1's data and feature pipeline but predicts next-year *continuous* EPS (a regression task), benchmarking a naive random-walk forecast and a regularized (Ridge) regression against an `xgboost.XGBRegressor` fit with a Huber loss.
 
 Our class is based on [5-2_Earnings_Forecasting.ipynb](<Module 5-Machine Learning/5-2_Earnings_Forecasting.ipynb>).
 
