@@ -11,6 +11,8 @@ nltk
 openai
 pandas
 pydantic
+pyfixest
+pyhdfe
 pymupdf
 python-dotenv
 regex
