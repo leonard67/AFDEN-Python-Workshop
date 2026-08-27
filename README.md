@@ -14,7 +14,7 @@ This course is designed to equip doctoral students and early career researchers 
 
 A distinctive feature of this workshop is that almost every module and session is built around understanding or replicating a published study from a top journal, such as Sloan's (1996, *The Accounting Review*) accrual anomaly,  Kim et al.'s (2016 *Journal of Accounting and Economics*) option volatility smirk, Obaid and Pukthuanthong's (2022 *Journal of Financial Economics*) image sentiment, Chen et al.'s (2022, *Journal of Accounting Research*) earnings forecasting, de Kok's (2025 *Management Science*) detection of "non-answers" in earnings call, among many others. Emphasis will be placed on applications to real-world accounting and finance data, such as databases in WRDS, SEC filings, and textual data (e.g., 10-Ks and earnings-call transcripts). Thus, the Python skills you learn are grounded in the same empirical research you'll be expected to produce.
 
-The outline below provides a detailed description of the material that is covered in the course. The course consists of two 2-hour online modules, which introduce the Python fundamentals for research (Module 1) and the *pandas *package for handling and analysing data (Module 2), followed by a two-day in-person workshop: Day 1 covers data collection from WRDS and web scraping (Module 3), together with natural language processing and textual analysis (Module 4), and Day 2 covers generative LLMs as a research tool (Module 5) and modern statistical and machine-learning methods for accounting and finance research, including regression, classification, prediction and explainable AI (Module 6).
+The outline below provides a detailed description of the material that is covered in the course. The course consists of two 2-hour online modules, which introduce the Python fundamentals for research (Module 1) and the *pandas* package for handling and analysing data (Module 2), followed by a two-day in-person workshop: Day 1 covers data collection from WRDS and web scraping (Module 3), together with natural language processing and textual analysis (Module 4), and Day 2 covers generative LLMs as a research tool (Module 5) and modern statistical and machine-learning methods for accounting and finance research, including regression, classification, prediction and explainable AI (Module 6).
 
 ## Table of Contents <a name="toc"></a>
 
@@ -57,7 +57,7 @@ In this first module, we will quickly go through the Python Basics, from data ty
 
 **Prerequisite reading**
 
-You can go through the [1-1-Intro_to_Python.ipynb](<Module 1-Introduction to Python Fundamentals/1-1-Intro_to_Python.ipynb>) file before class.
+You can go through the [1-1-Intro_to_Python.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-1-Intro_to_Python.ipynb>) file before class.
 
 **Learning Outcomes**
 
@@ -71,7 +71,7 @@ By completing this module, you will be able to:
 - Import and use packages to extend Python’s functionality.
 - Integrate your knowledge by developing a simple chat bot that responds to user input.
 
-Our class is based on [1-1-Intro_to_Python.ipynb](<Module 1-Introduction to Python Fundamentals/1-1-Intro_to_Python.ipynb>) (completed version: [1-1-Intro_to_Python-Final.ipynb](<Module 1-Introduction to Python Fundamentals/1-1-Intro_to_Python-Final.ipynb>)).
+Our class is based on [1-1-Intro_to_Python.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-1-Intro_to_Python.ipynb>) (completed version: [1-1-Intro_to_Python-Final.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-1-Intro_to_Python-Final.ipynb>)).
 
 ### 1.2. Opening Files: the `with` Context Manager
 
@@ -88,7 +88,7 @@ By completing this session, you will be able to:
 - Open two files in a single `with` statement to read from one and write to another.
 - Recognize the `with` pattern beyond files — e.g., WRDS database connections, Excel writers, network sessions — and apply the rule of thumb: if a library gives you something you are supposed to `close()`, open it with `with`.
 
-Our class is based on [1-2-Context_Manager.ipynb](<Module 1-Introduction to Python Fundamentals/1-2-Context_Manager.ipynb>) (completed version: [1-2-Context_Manager-Final.ipynb](<Module 1-Introduction to Python Fundamentals/1-2-Context_Manager-Final.ipynb>)).
+Our class is based on [1-2-Context_Manager.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-2-Context_Manager.ipynb>) (completed version: [1-2-Context_Manager-Final.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-2-Context_Manager-Final.ipynb>)).
 
 ### 1.3o. Object-Oriented Programming Basics (Optional)
 
@@ -104,7 +104,7 @@ By completing this session, you will be able to:
 - Distinguish instance-level from static (class-level) attributes and methods.
 - Recognize **inheritance** and **polymorphism** through a simple example.
 
-Our class is based on [1-3o_OOP Basics.ipynb](<Module 1-Introduction to Python Fundamentals/1-3o_OOP Basics.ipynb>).
+Our class is based on [1-3o_OOP Basics.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-3o_OOP%20Basics.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -133,19 +133,19 @@ By completing this session, you will be able to:
 - Append and merge datasets (one-to-one, one-to-many, and many-to-many merges), including linking Compustat to CRSP via the CCM link table.
 - Integrate `pandas` workflows into Python projects replicating seminal academic papers.
 
-Our class is based on [2-1-Pandas.ipynb](<Module 2-Handling Data and Descriptive Analysis/2-1_Pandas.ipynb>).
+Our class is based on [2-1-Pandas.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-1_Pandas.ipynb>).
 
 ### 2.1e-1. Exercise: Replicating Stata's `winsor2`
 
 A homework exercise embedded in the `pandas` session: write a `winsorize_by_group()` function that replicates Stata's `winsor2` command, winsorizing or truncating variables at a chosen percentile, optionally within groups.
 
-Our class is based on [2-1e-1-winsor2.ipynb](<Module 2-Handling Data and Descriptive Analysis/2-1e-1_winsor2.ipynb>).
+Our class is based on [2-1e-1-winsor2.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-1e-1_winsor2.ipynb>).
 
 ### 2.1e-2. Exercise: Replicating Sloan (1996)
 
 This exercise replicates a simplified version of the seminal study by [Sloan (1996)](https://www.jstor.org/stable/248290), one of the most cited papers in accounting and finance research on the *accrual anomaly*. Using the `pandas` skills from 2.1, you construct accrual, cash-flow, and earnings variables from a Compustat/CRSP-style panel, form annual accrual-decile portfolios, and plot the hedge-portfolio returns, similar to Table 6 and Figure 2 of the paper.
 
-Our class is based on [2-1e-2-Replicating_Sloan_1996-Final.ipynb](<Module 2-Handling Data and Descriptive Analysis/2-1e-2-Replicating_Sloan_1996-Final.ipynb>).
+Our class is based on [2-1e-2-Replicating_Sloan_1996-Final.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-1e-2-Replicating_Sloan_1996-Final.ipynb>).
 
 ### 2.2. Data Visualization
 
@@ -162,13 +162,13 @@ By completing this session, you will be able to:
 - Apply `matplotlib` and `seaborn` to construct foundational plots (line, bar, histogram, scatter, KDE, boxplot, violin, ECDF, Q-Q) and customize elements such as axes, labels, legends, colors, and styles.
 - Enhance clarity and impact of visualizations through effective use of color, scaling, and annotation.
 
-Our class is based on [2-2-Data Visualization-Final.ipynb](<Module 2-Handling Data and Descriptive Analysis/2-2-Data Visualization-Final.ipynb>).
+Our class is based on [2-2-Data Visualization-Final.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-2-Data%20Visualization-Final.ipynb>).
 
 ### 2.2e. Exercise: Plotting Kothari et al. (2025)
 
 This exercise reproduces one of the annual CMRA plots from [Kothari et al. (2025)](https://doi.org/10.1007/s11142-025-09887-3). Unlike the Sloan (1996) exercise, the goal here isn't to build an empirical analysis from scratch — the authors have generously shared their underlying data, so this exercise is purely about visualization: combining their shared data with macroeconomic series into a publication-style `matplotlib` chart.
 
-Our class is based on [2-2e-Plotting_Kothari_et_al_2025-Final.ipynb](<Module 2-Handling Data and Descriptive Analysis/2-2e_Plotting_Kothari_et_al_2025-Final.ipynb>).
+Our class is based on [2-2e-Plotting_Kothari_et_al_2025-Final.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-2e_Plotting_Kothari_et_al_2025-Final.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -203,7 +203,7 @@ By the end of this class, you will be able to:
 - Integrate WRDS data with Python workflows, preparing it for use in packages such as `pandas` and `statsmodels`.
 - Apply best practices for reproducible research, including documenting queries and saving data pipelines.
 
-Our class is based on [3-1-WRDS_with_Python-Final.ipynb](<Module 3-Data Collection/3-1-WRDS_with_Python-Final.ipynb>).
+Our class is based on [3-1-WRDS_with_Python-Final.ipynb](<Module%203-Data%20Collection/3-1-WRDS_with_Python-Final.ipynb>).
 
 ### 3.1e. Exercise: Building the Option Volatility Smirk from OptionMetrics
 
@@ -216,7 +216,7 @@ This exercise builds a firm-year panel of the option-implied volatility smirk fr
 - Linking identifiers across three databases (OptionMetrics, CRSP, Compustat) with range joins on validity dates.
 - Collapsing daily data to a firm-year panel over a custom event window, without blowing up memory.
 
-Our class is based on [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module 3-Data Collection/3-1e-Option_Volatility_Smirk-Final.ipynb>).
+Our class is based on [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module%203-Data%20Collection/3-1e-Option_Volatility_Smirk-Final.ipynb>).
 
 ### 3.2. Web Scraping
 
@@ -237,7 +237,7 @@ By the end of this session, you will be able to:
 - Clean and normalize extracted data with regular expressions, converting messy text into structured variables (e.g., extracting AAER numbers and release references).
 - Integrate scraped data into empirical workflows, linking enforcement case information to firm fundamentals, stock market data, or textual analysis pipelines.
 
-Our class is based on [3-2-Web_Scraping-Final.ipynb](<Module 3-Data Collection/3-2-Web_Scraping-Final.ipynb>).
+Our class is based on [3-2-Web_Scraping-Final.ipynb](<Module%203-Data%20Collection/3-2-Web_Scraping-Final.ipynb>).
 
 ### 3.3o. Using the Google Maps API (Optional)
 
@@ -256,7 +256,7 @@ By the end of this session, you will be able to:
 - Compute travel routes, distances, and durations between locations using the Routes API.
 - Search for nearby places and retrieve place details using the Places API (New).
 
-Our class is based on [3-3o-Google_Map_API.ipynb](<Module 3-Data Collection/3-3o-Google_Map_API.ipynb>).
+Our class is based on [3-3o-Google_Map_API.ipynb](<Module%203-Data%20Collection/3-3o-Google_Map_API.ipynb>).
 
 ### 3.4o. Using the SEC EDGAR API (Optional)
 
@@ -272,7 +272,7 @@ By the end of this class, you will be able to:
 - Automate large-scale data collection, including batch downloads across firms and time periods.
 - Organize and manage raw filings for downstream textual analysis.
 
-Our class is based on [3-4o-SEC_API.ipynb](<Module 3-Data Collection/3-4o-SEC_API.ipynb>).
+Our class is based on [3-4o-SEC_API.ipynb](<Module%203-Data%20Collection/3-4o-SEC_API.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -309,13 +309,13 @@ By the end of this session, you will be able to:
 - Build reproducible pipelines that ingest a collection of text files (e.g., 10-K sections), extract features, and output structured datasets.
 - Critically evaluate the limitations of preprocessing methods and discuss best practices for textual analysis in academic work.
 
-Our class is based on [4-1-NLP_Basics_and_Regex-Final.ipynb](<Module 4-Natural Language Processing/4-1-NLP_Basics_and_Regex-Final.ipynb>).
+Our class is based on [4-1-NLP_Basics_and_Regex-Final.ipynb](<Module%204-Natural%20Language%20Processing/4-1-NLP_Basics_and_Regex-Final.ipynb>).
 
 ### 4.1o. Readability with `textstat` (Optional)
 
 A short introduction to the `textstat` package: character/word/syllable/sentence counts, and the readability indices most cited in the disclosure literature (Gunning Fog, SMOG, Flesch Reading Ease, Flesch-Kincaid, Coleman-Liau, Dale-Chall), computed for single texts and across a corpus.
 
-Our class is based on [4-1o-textstat.ipynb](<Module 4-Natural Language Processing/4-1o-textstat.ipynb>).
+Our class is based on [4-1o-textstat.ipynb](<Module%204-Natural%20Language%20Processing/4-1o-textstat.ipynb>).
 
 ### 4.2. Dictionary-Based Textual Analysis
 
@@ -330,7 +330,7 @@ By the end of this session, you will be able to:
 - Score text against the Loughran-McDonald dictionary to measure tone, uncertainty, and complexity.
 - Compute readability of a specific disclosure passage, and assemble filing-level variables keyed to CIK and accession number.
 
-Our class is based on [4-2-Dictionary_Based_Textual_Analysis-Final.ipynb](<Module 4-Natural Language Processing/4-2-Dictionary_Based_Textual_Analysis-Final.ipynb>).
+Our class is based on [4-2-Dictionary_Based_Textual_Analysis-Final.ipynb](<Module%204-Natural%20Language%20Processing/4-2-Dictionary_Based_Textual_Analysis-Final.ipynb>).
 
 ### 4.3. Text Vectorization and Word Clouds
 
@@ -345,7 +345,7 @@ By the end of this session, you will be able to:
 - Visualize term importance as word clouds, from raw counts, TF-IDF weights, or raw text.
 - Recognize the limitations of keyword-based extraction by comparing word clouds across filings.
 
-Our class is based on [4-3-Text_Vectorization_and_WordClouds-Final.ipynb](<Module 4-Natural Language Processing/4-3-Text_Vectorization_and_WordClouds-Final.ipynb>).
+Our class is based on [4-3-Text_Vectorization_and_WordClouds-Final.ipynb](<Module%204-Natural%20Language%20Processing/4-3-Text_Vectorization_and_WordClouds-Final.ipynb>).
 
 ### 4.4. FinBERT Sentiment
 
@@ -360,7 +360,7 @@ By the end of this session, you will be able to:
 - Compare FinBERT against a Loughran-McDonald rule, and interpret the disagreements.
 - Aggregate sentence-level labels into a document-level *Tone* measure (share positive minus share negative), and apply it to an earnings-call transcript.
 
-Our class is based on [4-4-FinBERT_Sentiment-Final.ipynb](<Module 4-Natural Language Processing/4-4-FinBERT_Sentiment-Final.ipynb>).
+Our class is based on [4-4-FinBERT_Sentiment-Final.ipynb](<Module%204-Natural%20Language%20Processing/4-4-FinBERT_Sentiment-Final.ipynb>).
 
 ### 4.4o. Fine-Tuning FinBERT (Optional)
 
@@ -373,7 +373,7 @@ An optional, more advanced class that fine-tunes the *pretrained* FinBERT on a s
 - Evaluate a fine-tuned model on a held-out test set, and compare it against a zero-shot model.
 - Weigh the trade-offs (accuracy, cost, interpretability) between dictionary, classic ML, and LLM-based textual analysis.
 
-Our class is based on [4-4o-FinBERT_Finetuning.ipynb](<Module 4-Natural Language Processing/4-4o-FinBERT_Finetuning.ipynb>).
+Our class is based on [4-4o-FinBERT_Finetuning.ipynb](<Module%204-Natural%20Language%20Processing/4-4o-FinBERT_Finetuning.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -400,7 +400,7 @@ By the end of this session, you will be able to:
 - Hold a multi-turn conversation (chat) with an LLM.
 - Pass images as multimodal input.
 
-Our class is based on [5-1-LLM_API-Final.ipynb](<Module 5-Generative LLM for Research/5-1-LLM_API-Final.ipynb>).
+Our class is based on [5-1-LLM_API-Final.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-1-LLM_API-Final.ipynb>).
 
 ### 5.1e-1. Exercise: Detecting Non-Answers in Earnings Conference Calls
 
@@ -413,7 +413,7 @@ This exercise replicates the core of the case study in de Kok ([2025](https://do
 - Log raw prompts and completions as the primary data of the study, and build a resumable, concurrent inference loop.
 - Evaluate a minority-class classifier with precision/recall/F1 (not accuracy), and test a prompt's robustness to its own wording.
 
-Our class is based on [5-1e-1-No_Answer_in_CC-Final.ipynb](<Module 5-Generative LLM for Research/5-1e-1-No_Answer_in_CC-Final.ipynb>).
+Our class is based on [5-1e-1-No_Answer_in_CC-Final.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-1e-1-No_Answer_in_CC-Final.ipynb>).
 
 ### 5.1e-2. Exercise: Detecting the Use of GenAI in 10-K Reports
 
@@ -433,7 +433,7 @@ An optional exercise applying the Gemini API skills from 5.1 to a real annual re
 - Send images to Gemini for captioning, and use a lightweight label convention to route the output.
 - Summarize a corpus of captions into a structured list of themes with Structured Outputs.
 
-Our class is based on [5-2o-Identifying_Images.ipynb](<Module 5-Generative LLM for Research/5-2o-Identifying_Images.ipynb>).
+Our class is based on [5-2o-Identifying_Images.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-2o-Identifying_Images.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -466,7 +466,7 @@ By the end of this session, you will be able to:
 - Absorb high-dimensional fixed effects, and explain via the Frisch-Waugh-Lovell theorem why this is equivalent to (and better than) adding a dummy per firm.
 - Assemble a publication-style regression table with `pf.etable()`.
 
-Our class is based on [6-1-Statistical_Testing_and_Regression-Final.ipynb](<Module 6-Machine Learning/6-1-Statistical_Testing_and_Regression-Final.ipynb>). Section 2 continues the Module 3 exercise [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module 3-Data Collection/3-1e-Option_Volatility_Smirk-Final.ipynb>).
+Our class is based on [6-1-Statistical_Testing_and_Regression-Final.ipynb](<Module%206-Machine%20Learning/6-1-Statistical_Testing_and_Regression-Final.ipynb>). Section 2 continues the Module 3 exercise [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module%203-Data%20Collection/3-1e-Option_Volatility_Smirk-Final.ipynb>).
 
 ### 6.2. Classification with XGBoost: Predicting the Direction of Earnings Changes
 
@@ -483,7 +483,7 @@ By the end of this session, you will be able to:
 - Tune an XGBoost model with a validation set and `early_stopping_rounds`.
 - Read a gain-based feature-importance plot, and understand its limitations.
 
-Our class is based on [6-2-Classification-Final.ipynb](<Module 6-Machine Learning/6-2-Classification-Final.ipynb>).
+Our class is based on [6-2-Classification-Final.ipynb](<Module%206-Machine%20Learning/6-2-Classification-Final.ipynb>).
 
 ### 6.3. Forecasting Continuous Earnings with XGBoost
 
@@ -503,7 +503,7 @@ By the end of this session, you will be able to:
 - Evaluate forecasts with price-scaled MAFE, RMSE, and MDAFE.
 - Read an XGBoost regression feature-importance plot.
 
-Our class is based on [6-3_Earnings_Forecasting-Final.ipynb](<Module 6-Machine Learning/6-3_Earnings_Forecasting-Final.ipynb>).
+Our class is based on [6-3_Earnings_Forecasting-Final.ipynb](<Module%206-Machine%20Learning/6-3_Earnings_Forecasting-Final.ipynb>).
 
 ### 6.4o. Explainable AI: Using SHAP to Understand an XGBoost Model (Optional)
 
@@ -516,7 +516,6 @@ Following Parker et al. (2025), this optional session picks up the classificatio
 - Read SHAP bar, beeswarm, dependence (scatter), and waterfall plots to understand which features drive predictions, in which direction, and why for an individual firm-year.
 - Critically interpret machine-learning output as an attention-directing tool rather than evidence of causation.
 
-Our class is based on [6-4o-Explainable_AI.ipynb](<Module 6-Machine Learning/6-4o-Explainable_AI.ipynb>).
+Our class is based on [6-4o-Explainable_AI.ipynb](<Module%206-Machine%20Learning/6-4o-Explainable_AI.ipynb>).
 
 [Back to ToC](#toc)
-</content>
