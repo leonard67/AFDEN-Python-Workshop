@@ -104,7 +104,7 @@ By completing this session, you will be able to:
 - Distinguish instance-level from static (class-level) attributes and methods.
 - Recognize **inheritance** and **polymorphism** through a simple example.
 
-Our class is based on [1-3o_OOP Basics.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-3o_OOP%20Basics.ipynb>).
+Our class is based on [1-3o-OOP_Basics.ipynb](<Module%201-Introduction%20to%20Python%20Fundamentals/1-3o-OOP_Basics.ipynb>).
 
 [Back to ToC](#toc)
 
@@ -166,7 +166,14 @@ Our class is based on [2-2-Data Visualization-Final.ipynb](<Module%202-Handling%
 
 ### 2.2e. Exercise: Plotting Kothari et al. (2025)
 
-This exercise reproduces one of the annual CMRA plots from [Kothari et al. (2025)](https://doi.org/10.1007/s11142-025-09887-3). Unlike the Sloan (1996) exercise, the goal here isn't to build an empirical analysis from scratch — the authors have generously shared their underlying data, so this exercise is purely about visualization: combining their shared data with macroeconomic series into a publication-style `matplotlib` chart.
+In this exercise, we reproduce one of the plots from [Kothari et al. (2025, RAST)](https://doi.org/10.1007/s11142-025-09887-3) using Python. The goal here isn't to build an empirical analysis from scratch — the authors have generously shared their underlying data, so this exercise is purely about *visualization*: taking someone else's carefully-constructed dataset and turning it into a clean, publication-style chart. The goal of this exercise is to reproduce the paper's annual CMRA plot: a chosen CMRA statistic (e.g., the median market-adjusted return around "bad news" earnings announcements) plotted by year alongside two macroeconomic series — annual CPI growth and industrial production growth.
+
+**Learning Outcomes**
+
+- Reading a multi-sheet Excel workbook with a non-standard header row.
+- Cleaning a text-coded missing-value convention (`"."` for missing) and coercing columns to numeric.
+- Filtering long-format data by category columns (`VarName`, `Sample`) and merging it with a second table on a shared key (`YEAR`).
+- Building a multi-series `matplotlib` line chart with markers, a reference line, and a legend styled to resemble a published figure.
 
 Our class is based on [2-2e-Plotting_Kothari_et_al_2025-Final.ipynb](<Module%202-Handling%20Data%20and%20Descriptive%20Analysis/2-2e_Plotting_Kothari_et_al_2025-Final.ipynb>).
 
@@ -189,7 +196,7 @@ Access to high-quality financial and economic data is fundamental for empirical 
 **Prerequisite reading**
 
 - You can preview the [tutorial provided by WRDS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/querying-wrds-data-python/).
-- Appendix B of Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
+- Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
 
 **Learning Outcomes**
 
@@ -209,6 +216,10 @@ Our class is based on [3-1-WRDS_with_Python-Final.ipynb](<Module%203-Data%20Coll
 
 This exercise builds a firm-year panel of the option-implied volatility smirk from scratch, using the WRDS querying skills from 3.1. Following [Kim, Li, Lu and Yu (2016)](https://doi.org/10.1016/j.jacceco.2015.12.003), it aggregates OptionMetrics' daily option-price files server-side in SQL to get the open-interest-weighted implied volatility of at-the-money calls and out-of-the-money puts, caching each year to Parquet, linking identifiers across OptionMetrics, CRSP and Compustat with range joins on validity dates, building the accounting controls, and collapsing the daily smirk into a firm-year measure of expected crash risk.
 
+**Prerequisite reading**
+
+- Appendix B of Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
+
 **Learning Outcomes**
 
 - Aggregating a very large table server-side in SQL, so that only the summarised rows travel over the network.
@@ -220,7 +231,7 @@ Our class is based on [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module%203-Dat
 
 ### 3.2. Web Scraping
 
-In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web. This session introduces web scraping in Python as a tool to collect, clean, and analyze information from online sources. Using the SEC Accounting and Auditing Enforcement Releases (AAER) archive as our central case study, you will learn how to extract structured datasets from unstructured web pages, handling the unique challenges of financial text — and the responsibilities (site terms, rate limits, ethical research practices) that come with web scraping.
+In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web. This session introduces web scraping in Python as a tool to collect, clean, and analyze information from online sources. Working through a single web page, you will learn the core `requests` + `BeautifulSoup` workflow — fetching HTML, locating elements with `find()`/`find_all()` and CSS selectors, extracting text and tag attributes, and navigating the parse tree — together with the responsibilities (site terms, rate limits, ethical research practices) that come with automated data collection. The hands-on exercise in 3.2e then applies these skills to a real dataset.
 
 **Prerequisite reading**
 
@@ -231,13 +242,29 @@ In modern AccFin research, valuable data is often "locked" inside company websit
 By the end of this session, you will be able to:
 
 - Understand the role of web scraping in AccFin research, and identify cases where scraping is necessary to build novel datasets.
-- Apply Python libraries such as `requests`, `BeautifulSoup`, and `pandas` to access web pages programmatically, parse HTML structures with `find()`/`find_all()`/CSS selectors to locate relevant information, and store results in clean, structured formats (e.g., CSV).
-- Implement scraping logic to handle pagination, nested links, and multiple fields (e.g., dates, respondents, release numbers).
+- Use `requests` to fetch a web page and `BeautifulSoup` to parse its HTML.
+- Locate elements with `find()` / `find_all()` (by tag, by attribute/`class`, by matching string), nest these calls to drill into the tree, and use CSS selectors via `select()`.
+- Extract content with `.get_text()` / `.text` and read tag attributes with `.attrs` (e.g., pulling `href` values out of links).
+- Navigate the parse tree using parent, child, descendant, and sibling relationships.
 - Practice responsible scraping by setting custom User-Agents, respecting rate limits and `robots.txt`, and following ethical/legal guidelines for automated data collection.
-- Clean and normalize extracted data with regular expressions, converting messy text into structured variables (e.g., extracting AAER numbers and release references).
-- Integrate scraped data into empirical workflows, linking enforcement case information to firm fundamentals, stock market data, or textual analysis pipelines.
 
 Our class is based on [3-2-Web_Scraping-Final.ipynb](<Module%203-Data%20Collection/3-2-Web_Scraping-Final.ipynb>).
+
+### 3.2e. Exercise: Parsing SEC AAER Cases into a Dataset
+
+This exercise applies the scraping skills from 3.2 to a real research task: building a structured dataset of the SEC's Accounting and Auditing Enforcement Releases (AAER) from the enforcement archive's web pages. It starts from a single results page — locating the release table, walking its rows, and turning the cells into a `pandas` DataFrame — then cleans the raw text into research variables: parsing dates with `pd.to_datetime`, splitting the respondents field into a list of defendants, and using regular expressions to extract the release and AAER numbers. The final step wraps the whole pipeline into a reusable `Extract_AAER(page_num)` function that can be looped over the archive's pagination to collect the full history.
+
+**Prerequisite reading**
+
+- Karpoff, J. M., Koester, A., Lee, D. S., & Martin, G. S. (2017). Proxies and databases in financial misconduct research. *The Accounting Review* 92(6): 129-163. ([link](https://doi.org/10.2308/accr-51766))
+
+**Learning Outcomes**
+
+- Parsing an HTML table into a `pandas` DataFrame by iterating over `<tr>`/`<td>` elements.
+- Cleaning scraped text into structured variables: parsing mixed-format dates, splitting multi-value fields, and extracting patterns with regular expressions.
+- Refactoring an ad-hoc scraping script into a parameterised function that can be run page by page over a paginated archive.
+
+Our class is based on [3-2e-Parsing_AAER_Cases-Final.ipynb](<Module%203-Data%20Collection/3-2e-Parsing_AAER_Cases-Final.ipynb>).
 
 ### 3.3o. Using the Google Maps API (Optional)
 
@@ -278,27 +305,23 @@ Our class is based on [3-4o-SEC_API.ipynb](<Module%203-Data%20Collection/3-4o-SE
 
 ## 4. Natural Language Processing<a name="section4"></a>
 
-AccFin research is no longer limited to numerical disclosures and structured data. Textual data — the MD&A and risk-factor sections of 10-K filings, earnings-call transcripts, analyst reports — carries rich information about firms' strategies, risks, and performance. This module works through Natural Language Processing (NLP) in Python, moving from simple pattern-matching to a large language model built specifically for AccFin research:
+AccFin research is no longer limited to numerical disclosures and structured data. Textual data, such as the MD&A and risk-factor sections of 10-K filings, news articles and earnings-call transcripts, carries rich information about firms' strategies, risks, and performance. This module works through Natural Language Processing (NLP) in Python, moving from simple pattern-matching to a large language model built specifically for AccFin research:
 
 - **Regular expressions** (and the `textstat` package): identifying, extracting, and cleaning patterns in text, and computing readability metrics.
 - **Dictionary-based textual analysis**: scoring text with the Loughran-McDonald word lists, the standard "bag-of-words" approach in AccFin research.
 - **Text vectorization** (bag-of-words, TF-IDF, n-grams) with `scikit-learn`, and visualizing term frequencies as word clouds.
-- **FinBERT**: a large language model pretrained on financial text, used to classify sentiment and fine-tuned on your own labeled data.
+- **FinBERT**: a large language model pretrained on financial text, used to classify *sentiment* and fine-tuned on your own labeled data.
 
 By the end of the module you will be able to replicate influential textual-analysis studies in AccFin and apply modern NLP tools — from a handful of keywords to a domain-specific LLM — to your own research.
 
-**Prerequisite reading**
-
-- Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10‐Ks. *The Journal of Finance* 66(1): 35-65. ([link](https://doi.org/10.1111/j.1540-6261.2010.01625.x))
-- Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
-- Section 3.3 of Teoh, S. H. (2018). The promise and challenges of new datasets for accounting research. *Accounting, Organizations and Society* 68: 109-117. ([link](https://doi.org/10.1016/j.aos.2018.03.008))
-- Huang, A. H., Wang, H., & Yang, Y. (2023). FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research* 40(2): 806-841. ([link](https://doi.org/10.1111/1911-3846.12832))
-
-You can also watch [the video by Corey Schafer (53 mins)](https://youtu.be/K8L6KVGG-7o?si=H83lHipbbrHELfXD) for a thorough introduction to regular expressions in Python before class.
-
 ### 4.1. NLP Basics and Regular Expressions
 
-This session introduces NLP in Python with a focus on **regular expressions** (the `re` module): patterns used to match, search, extract, and replace text. You will process unstructured disclosure text — identifying financial terms, footnotes, and forward-looking statements, and stripping tables, formatting artifacts, and boilerplate — and turn it into features that can be linked to financial and capital-market outcomes.
+This session introduces NLP in Python with a focus on **regular expressions** (the `re` module): patterns used to match, search, extract, and replace text. You will process unstructured disclosure text — identifying financial terms, footnotes, and forward-looking statements, and stripping tables, formatting artifacts, and boilerplate — and turn it into features that can be linked to financial and capital-market outcomes. The session also covers the `textstat` package: character/word/syllable/sentence counts and the readability indices most cited in the disclosure literature (Gunning Fog, SMOG, Flesch Reading Ease, Flesch-Kincaid, Coleman-Liau, Dale-Chall), computed for single texts and across a corpus.
+
+**Prerequisite reading**
+
+- Section 3.3 of Teoh, S. H. (2018). The promise and challenges of new datasets for accounting research. *Accounting, Organizations and Society* 68: 109-117. ([link](https://doi.org/10.1016/j.aos.2018.03.008))
+- You can also watch [the video by Corey Schafer (53 mins)](https://youtu.be/K8L6KVGG-7o?si=H83lHipbbrHELfXD) for a thorough introduction to regular expressions in Python before class.
 
 **Learning Outcomes**
 
@@ -308,18 +331,18 @@ By the end of this session, you will be able to:
 - Use Python's `re` package with `re.findall()` and `re.sub()` to identify patterns (financial terms, footnotes, forward-looking statements) and clean raw disclosures.
 - Build reproducible pipelines that ingest a collection of text files (e.g., 10-K sections), extract features, and output structured datasets.
 - Critically evaluate the limitations of preprocessing methods and discuss best practices for textual analysis in academic work.
+- Compute readability metrics with `textstat` for single disclosures and across a corpus.
 
 Our class is based on [4-1-NLP_Basics_and_Regex-Final.ipynb](<Module%204-Natural%20Language%20Processing/4-1-NLP_Basics_and_Regex-Final.ipynb>).
-
-### 4.1o. Readability with `textstat` (Optional)
-
-A short introduction to the `textstat` package: character/word/syllable/sentence counts, and the readability indices most cited in the disclosure literature (Gunning Fog, SMOG, Flesch Reading Ease, Flesch-Kincaid, Coleman-Liau, Dale-Chall), computed for single texts and across a corpus.
-
-Our class is based on [4-1o-textstat.ipynb](<Module%204-Natural%20Language%20Processing/4-1o-textstat.ipynb>).
 
 ### 4.2. Dictionary-Based Textual Analysis
 
 This session applies the standard "bag-of-words" approach: scoring disclosure text against curated word lists. Using the Loughran-McDonald master dictionary and a stop-word list, and the R&D keyword list from Merkley (2014), you build a reproducible pipeline that ingests a collection of 10-K text files, flags R&D-related sentences, and outputs a structured dataset of readability and tone (positive, negative, uncertainty, complexity) measures.
+
+**Prerequisite reading**
+
+- Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10‐Ks. *The Journal of Finance* 66(1): 35-65. ([link](https://doi.org/10.1111/j.1540-6261.2010.01625.x))
+- Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
 
 **Learning Outcomes**
 
@@ -334,7 +357,12 @@ Our class is based on [4-2-Dictionary_Based_Textual_Analysis-Final.ipynb](<Modul
 
 ### 4.3. Text Vectorization and Word Clouds
 
-Dictionary methods only check whether specific words are present. This session builds the bag-of-words / document-term matrix properly — representing each piece of text as a vector of *all* its words — reusing the R&D-flagged sentences saved in 4.2.
+Dictionary methods only check whether specific words are present. This session builds the bag-of-words / document-term matrix properly, representing each piece of text as a vector of *all* its words, using the R&D-flagged sentences saved in 4.2.
+
+**Prerequisite reading**
+
+- Henry, E., & Leone, A. J. (2016). Measuring qualitative information in capital markets research: Comparison of alternative methodologies to measure disclosure tone. *The Accounting Review*,  91(1): 153-178. ([link](https://doi.org/10.2308/accr-51161))
+- Bochkay, K., Brown, S. V., Leone, A. J., & Tucker, J. W. (2023). Textual analysis in accounting: What's next?.  *Contemporary accounting research*, 40(2): 765-805. ([link](https://doi.org/10.1111/1911-3846.12825))
 
 **Learning Outcomes**
 
@@ -351,6 +379,10 @@ Our class is based on [4-3-Text_Vectorization_and_WordClouds-Final.ipynb](<Modul
 
 Dictionary counts and TF-IDF weights both treat text as a *bag* of words — order and context are discarded. **FinBERT** (Huang, Wang, and Yang 2023) is a large language model pretrained on 4.9 billion words of financial text that reads a sentence in context instead. This session uses an already fine-tuned FinBERT to classify sentiment, compares it against the Loughran-McDonald dictionary sentence by sentence, and aggregates sentence-level output into a document-level tone measure — applied to R&D disclosures and to real Tesla earnings-call transcripts.
 
+**Prerequisite reading**
+
+- Huang, A. H., Wang, H., & Yang, Y. (2023). FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research* 40(2): 806-841. ([link](https://doi.org/10.1111/1911-3846.12832))
+
 **Learning Outcomes**
 
 By the end of this session, you will be able to:
@@ -364,7 +396,11 @@ Our class is based on [4-4-FinBERT_Sentiment-Final.ipynb](<Module%204-Natural%20
 
 ### 4.4o. Fine-Tuning FinBERT (Optional)
 
-An optional, more advanced class that fine-tunes the *pretrained* FinBERT on a small labeled dataset (the Financial PhraseBank), following the FinBERT repository's own recipe. It replicates the paper's small-sample finding — a few hundred task-specific sentences is often enough — and quantifies what fine-tuning buys over an already fine-tuned model.
+An optional, more advanced class that fine-tunes the *pretrained* FinBERT on a small labeled dataset (the Financial PhraseBank), following the FinBERT repository's own `finetune.ipynb` recipe. Sampling just 400 labeled sentences (300 train / 50 validation / 50 test), it replicates the paper's small-sample finding — a few hundred task-specific sentences is often enough — and quantifies what fine-tuning buys over an already fine-tuned model.
+
+**Optional reading**
+
+- Malo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology* 65(4): 782-796. ([link](https://doi.org/10.1002/asi.23062))
 
 **Learning Outcomes**
 
@@ -384,7 +420,7 @@ Generative LLMs are increasingly used in accounting research for textual-analysi
 **Prerequisite reading**
 
 - de Kok, T. (2025). ChatGPT for textual analysis? How to use generative LLMs in accounting research. *Management Science* 71(9): 7888-7906. ([link](https://doi.org/10.1287/mnsc.2023.03253))
-- Blankespoor, E., deHaan, E., & Li, Q. (2026). Generative AI in financial reporting. *Journal of Accounting Research* 64(3): 1189-1232. ([link](https://doi.org/10.1111/1475-679x.7005))
+- Blankespoor, E., deHaan, E., & Li, Q. (2026). Generative AI in financial reporting. *Journal of Accounting Research* 64(3): 1189-1232. ([link](https://doi.org/10.1111/1475-679X.70050))
 
 ### 5.1. Using Generative LLM APIs in AccFin Research
 
@@ -415,9 +451,19 @@ This exercise replicates the core of the case study in de Kok ([2025](https://do
 
 Our class is based on [5-1e-1-No_Answer_in_CC-Final.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-1e-1-No_Answer_in_CC-Final.ipynb>).
 
-### 5.1e-2. Exercise: Detecting the Use of GenAI in 10-K Reports
+### 5.1e-2. Exercise: Detecting the Use of Generative AI in a Financial Report
 
-This exercise applies ZeroGPT to detect the use of generative AI in firms' 10-K reports, based on Blankespoor, deHaan, and Li ([2026](https://doi.org/10.1111/1475-679x.7005)).
+This exercise reproduces the measurement core of Blankespoor, deHaan, and Li ([2026](https://doi.org/10.1111/1475-679X.70050)) on a single document — BHP Group's FY2025 Annual Report. The paper introduces `GenScore`, the estimated probability that a disclosure was written with generative AI (GAI), produced by the commercial detector **GPTZero**, and shows both that the detector reliably flags even trace amounts of GAI text in financial reports and that firms' actual filings show statistically significant, rising GAI usage through 2024. The notebook goes from a raw PDF to a cleaned slice of narrative text, scores it via the GPTZero API, reconstructs the paper's `GenScore` definition, reads the score at the sentence level, and interprets it against the paper's human-written and GAI-modified benchmarks.
+
+**Learning Outcomes**
+
+- Extract and clean narrative text from a designed PDF report with PyMuPDF, handling running headers, typographic characters, and line-break artifacts.
+- Follow the paper's measurement protocol: score the first ~5,000 words of a disclosure, rounded to a sentence boundary.
+- Call the GPTZero detection API and compute `GenScore` as the document-level probability of AI plus mixed authorship.
+- Save the raw API response as the primary data of the measurement, and record the detector's model version.
+- Read a detector's sentence-level scores, and interpret a single `GenScore` against same-model human and GAI-modified benchmarks — including why a raw score is not the paper's within-firm regression estimate.
+
+Our class is based on [5-1e-2-Detecting_GenAI_Text.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-1e-2-Detecting_GenAI_Text.ipynb>).
 
 ### 5.2o. Identifying Common Visual Themes in an Annual Report (Optional)
 

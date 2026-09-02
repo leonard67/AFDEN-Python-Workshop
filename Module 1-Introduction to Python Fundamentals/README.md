@@ -55,6 +55,6 @@ By completing this session, you will be able to:
 - Distinguish instance-level from static (class-level) attributes and methods.
 - Recognize **inheritance** and **polymorphism** through a simple example.
 
-Our class is based on [1-3o_OOP Basics.ipynb](<1-3o_OOP Basics.ipynb>).
+Our class is based on [1-3o_OOP_Basics.ipynb](<1-3o_OOP Basics.ipynb>).
 
 [Back to main syllabus](../README.md)

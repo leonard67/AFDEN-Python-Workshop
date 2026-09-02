@@ -7,7 +7,7 @@ Generative LLMs are increasingly used in accounting research for textual-analysi
 **Prerequisite reading**
 
 - de Kok, T. (2025). ChatGPT for textual analysis? How to use generative LLMs in accounting research. *Management Science* 71(9): 7888-7906. ([link](https://doi.org/10.1287/mnsc.2023.03253))
-- Blankespoor, E., deHaan, E., & Li, Q. (2026). Generative AI in financial reporting. *Journal of Accounting Research* 64(3): 1189-1232. ([link](https://doi.org/10.1111/1475-679x.7005))
+- Blankespoor, E., deHaan, E., & Li, Q. (2026). Generative AI in financial reporting. *Journal of Accounting Research* 64(3): 1189-1232. ([link](https://doi.org/10.1111/1475-679X.70050))
 
 ## 5.1. Using Generative LLM APIs in AccFin Research
 
@@ -38,9 +38,19 @@ This exercise replicates the core of the case study in de Kok ([2025](https://do
 
 Our class is based on [5-1e-1-No_Answer_in_CC-Final.ipynb](5-1e-1-No_Answer_in_CC-Final.ipynb).
 
-### 5.1e-2. Exercise: Detecting the Use of GenAI in 10-K Reports
+### 5.1e-2. Exercise: Detecting the Use of Generative AI in a Financial Report
 
-This exercise applies ZeroGPT to detect the use of generative AI in firms' 10-K reports, based on Blankespoor, deHaan, and Li ([2026](https://doi.org/10.1111/1475-679x.7005)).
+This exercise reproduces the measurement core of Blankespoor, deHaan, and Li ([2026](https://doi.org/10.1111/1475-679X.70050)) on a single document — BHP Group's FY2025 Annual Report. The paper introduces `GenScore`, the estimated probability that a disclosure was written with generative AI (GAI), produced by the commercial detector **GPTZero**, and shows both that the detector reliably flags even trace amounts of GAI text in financial reports and that firms' actual filings show statistically significant, rising GAI usage through 2024. The notebook goes from a raw PDF to a cleaned slice of narrative text, scores it via the GPTZero API, reconstructs the paper's `GenScore` definition, reads the score at the sentence level, and interprets it against the paper's human-written and GAI-modified benchmarks.
+
+**Learning Outcomes**
+
+- Extract and clean narrative text from a designed PDF report with PyMuPDF, handling running headers, typographic characters, and line-break artifacts.
+- Follow the paper's measurement protocol: score the first ~5,000 words of a disclosure, rounded to a sentence boundary.
+- Call the GPTZero detection API and compute `GenScore` as the document-level probability of AI plus mixed authorship.
+- Save the raw API response as the primary data of the measurement, and record the detector's model version.
+- Read a detector's sentence-level scores, and interpret a single `GenScore` against same-model human and GAI-modified benchmarks — including why a raw score is not the paper's within-firm regression estimate.
+
+Our class is based on [5-1e-2-Detecting_GenAI_Text.ipynb](5-1e-2-Detecting_GenAI_Text.ipynb).
 
 ## 5.2o. Identifying Common Visual Themes in an Annual Report (Optional)
 

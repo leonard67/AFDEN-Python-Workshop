@@ -58,7 +58,14 @@ Our class is based on [2-2-Data Visualization-Final.ipynb](<2-2-Data Visualizati
 
 ### 2.2e. Exercise: Plotting Kothari et al. (2025)
 
-This exercise reproduces one of the annual CMRA plots from [Kothari et al. (2025)](https://doi.org/10.1007/s11142-025-09887-3). Unlike the Sloan (1996) exercise, the goal here isn't to build an empirical analysis from scratch — the authors have generously shared their underlying data, so this exercise is purely about visualization: combining their shared data with macroeconomic series into a publication-style `matplotlib` chart.
+In this exercise, we reproduce one of the plots from [Kothari, et al. (2025, RAST)](https://doi.org/10.1007/s11142-025-09887-3) using Python. The goal here isn't to build an empirical analysis from scratch — the authors have generously shared their underlying data, so this exercise is purely about *visualization*: taking someone else's carefully-constructed dataset and turning it into a clean, publication-style chart. The goal of this exercise is to reproduce the paper's annual CMRA plot: a chosen CMRA statistic (e.g., the median market-adjusted return around "bad news" earnings announcements) plotted by year alongside two macroeconomic series — annual CPI growth and industrial production growth.
+
+**Learning Outcomes**
+
+- Reading a multi-sheet Excel workbook with a non-standard header row.
+- Cleaning a text-coded missing-value convention (`"."` for missing) and coercing columns to numeric.
+- Filtering long-format data by category columns (`VarName`, `Sample`) and merging it with a second table on a shared key (`YEAR`).
+- Building a multi-series `matplotlib` line chart with markers, a reference line, and a legend styled to resemble a published figure.
 
 Our class is based on [2-2e-Plotting_Kothari_et_al_2025-Final.ipynb](2-2e_Plotting_Kothari_et_al_2025-Final.ipynb).
 

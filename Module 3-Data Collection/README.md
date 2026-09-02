@@ -17,7 +17,7 @@ Access to high-quality financial and economic data is fundamental for empirical 
 **Prerequisite reading**
 
 - You can preview the [tutorial provided by WRDS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/querying-wrds-data-python/).
-- Appendix B of Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
+- Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
 
 **Learning Outcomes**
 
@@ -37,6 +37,10 @@ Our class is based on [3-1-WRDS_with_Python-Final.ipynb](3-1-WRDS_with_Python-Fi
 
 This exercise builds a firm-year panel of the option-implied volatility smirk from scratch, using the WRDS querying skills from 3.1. Following [Kim, Li, Lu and Yu (2016)](https://doi.org/10.1016/j.jacceco.2015.12.003), it aggregates OptionMetrics' daily option-price files server-side in SQL to get the open-interest-weighted implied volatility of at-the-money calls and out-of-the-money puts, caching each year to Parquet, linking identifiers across OptionMetrics, CRSP and Compustat with range joins on validity dates, building the accounting controls, and collapsing the daily smirk into a firm-year measure of expected crash risk.
 
+**Prerequisite reading**
+
+- Appendix B of Kim, J. B., Li, L., Lu, L. Y., & Yu, Y. (2016). Financial statement comparability and expected crash risk. *Journal of Accounting and Economics* 61(2-3): 294-312. ([link](https://doi.org/10.1016/j.jacceco.2015.12.003))
+
 **Learning Outcomes**
 
 - Aggregating a very large table server-side in SQL, so that only the summarised rows travel over the network.
@@ -48,7 +52,7 @@ Our class is based on [3-1e-Option_Volatility_Smirk-Final.ipynb](3-1e-Option_Vol
 
 ## 3.2. Web Scraping
 
-In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web. This session introduces web scraping in Python as a tool to collect, clean, and analyze information from online sources. Using the SEC Accounting and Auditing Enforcement Releases (AAER) archive as our central case study, you will learn how to extract structured datasets from unstructured web pages, handling the unique challenges of financial text — and the responsibilities (site terms, rate limits, ethical research practices) that come with web scraping.
+In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web. This session introduces web scraping in Python as a tool to collect, clean, and analyze information from online sources. Working through a single web page, you will learn the core `requests` + `BeautifulSoup` workflow — fetching HTML, locating elements with `find()`/`find_all()` and CSS selectors, extracting text and tag attributes, and navigating the parse tree — together with the responsibilities (site terms, rate limits, ethical research practices) that come with automated data collection. The hands-on exercise in 3.2e then applies these skills to a real dataset.
 
 **Prerequisite reading**
 
@@ -59,13 +63,29 @@ In modern AccFin research, valuable data is often "locked" inside company websit
 By the end of this session, you will be able to:
 
 - Understand the role of web scraping in AccFin research, and identify cases where scraping is necessary to build novel datasets.
-- Apply Python libraries such as `requests`, `BeautifulSoup`, and `pandas` to access web pages programmatically, parse HTML structures with `find()`/`find_all()`/CSS selectors to locate relevant information, and store results in clean, structured formats (e.g., CSV).
-- Implement scraping logic to handle pagination, nested links, and multiple fields (e.g., dates, respondents, release numbers).
+- Use `requests` to fetch a web page and `BeautifulSoup` to parse its HTML.
+- Locate elements with `find()` / `find_all()` (by tag, by attribute/`class`, by matching string), nest these calls to drill into the tree, and use CSS selectors via `select()`.
+- Extract content with `.get_text()` / `.text` and read tag attributes with `.attrs` (e.g., pulling `href` values out of links).
+- Navigate the parse tree using parent, child, descendant, and sibling relationships.
 - Practice responsible scraping by setting custom User-Agents, respecting rate limits and `robots.txt`, and following ethical/legal guidelines for automated data collection.
-- Clean and normalize extracted data with regular expressions, converting messy text into structured variables (e.g., extracting AAER numbers and release references).
-- Integrate scraped data into empirical workflows, linking enforcement case information to firm fundamentals, stock market data, or textual analysis pipelines.
 
 Our class is based on [3-2-Web_Scraping-Final.ipynb](3-2-Web_Scraping-Final.ipynb).
+
+### 3.2e. Exercise: Parsing SEC AAER Cases into a Dataset
+
+This exercise applies the scraping skills from 3.2 to a real research task: building a structured dataset of the SEC's Accounting and Auditing Enforcement Releases (AAER) from the enforcement archive's web pages. It starts from a single results page — locating the release table, walking its rows, and turning the cells into a `pandas` DataFrame — then cleans the raw text into research variables: parsing dates with `pd.to_datetime`, splitting the respondents field into a list of defendants, and using regular expressions to extract the release and AAER numbers. The final step wraps the whole pipeline into a reusable `Extract_AAER(page_num)` function that can be looped over the archive's pagination to collect the full history.
+
+**Prerequisite reading**
+
+- Karpoff, J. M., Koester, A., Lee, D. S., & Martin, G. S. (2017). Proxies and databases in financial misconduct research. *The Accounting Review* 92(6): 129-163. ([link](https://doi.org/10.2308/accr-51766))
+
+**Learning Outcomes**
+
+- Parsing an HTML table into a `pandas` DataFrame by iterating over `<tr>`/`<td>` elements.
+- Cleaning scraped text into structured variables: parsing mixed-format dates, splitting multi-value fields, and extracting patterns with regular expressions.
+- Refactoring an ad-hoc scraping script into a parameterised function that can be run page by page over a paginated archive.
+
+Our class is based on [3-2e-Parsing_AAER_Cases-Final.ipynb](3-2e-Parsing_AAER_Cases-Final.ipynb).
 
 ## 3.3o. Using the Google Maps API (Optional)
 
