@@ -415,7 +415,7 @@ Our class is based on [4-4o-FinBERT_Finetuning.ipynb](<Module%204-Natural%20Lang
 
 ## 5. Generative LLM for Research<a name="section5"></a>
 
-Generative LLMs are increasingly used in accounting research for textual-analysis tasks that used to require either dictionary/bag-of-words methods or costly manual human coding — classifying disclosure tone, extracting structured facts from filings, detecting evasive "non-answers" in earnings-call Q&As. This module introduces the Python client libraries for two major providers — OpenAI and Google Gemini — covering the mechanics you need before using an LLM as a research tool (prompts, structured JSON output, multi-turn conversations, multimodal input), then applies them to research settings through a replication exercise and an optional image-analysis exercise.
+Generative LLMs are increasingly used in accounting research for textual-analysis tasks that used to require either dictionary/bag-of-words methods or costly manual human coding — classifying disclosure tone, extracting structured facts from filings, detecting evasive "non-answers" in earnings-call Q&As. This module introduces the Python client libraries for two major providers — OpenAI and Google Gemini — covering the mechanics you need before using an LLM as a research tool (prompts, structured JSON output, multi-turn conversations, multimodal input), then applies them to research settings through two replication exercises and an optional image-analysis exercise.
 
 **Prerequisite reading**
 
@@ -425,6 +425,10 @@ Generative LLMs are increasingly used in accounting research for textual-analysi
 ### 5.1. Using Generative LLM APIs in AccFin Research
 
 This session covers the API-level building blocks a research design is built on: setting up keys securely, sending prompts, requesting schema-conformant structured output, holding a chat, and passing images — with both the OpenAI (`openai`) and Google Gemini (`google-genai`) Python clients.
+
+**Optional reading**
+
+* Choi, J. H., Li, D., & Macciocchi, D. (2026). Human Capital Disclosure and Labor Market Outcomes: Evidence from Regulation S‐K.  *Journal of Accounting Research* 64(4): 1685-1731. ([link](https://doi.org/10.1111/1475-679x.70036))
 
 **Learning Outcomes**
 
@@ -440,14 +444,15 @@ Our class is based on [5-1-LLM_API-Final.ipynb](<Module%205-Generative%20LLM%20f
 
 ### 5.1e-1. Exercise: Detecting Non-Answers in Earnings Conference Calls
 
-This exercise replicates the core of the case study in de Kok ([2025](https://doi.org/10.1287/mnsc.2023.03253)) on 13 Tesla Q4 earnings-call transcripts. A **non-answer** is a response in which a manager signals an inability or unwillingness to provide the information asked for. The notebook works through de Kok's four-step framework: parsing raw transcripts into question-answer pairs, choosing a zero-shot approach and model, developing a prompt with explicit coding rules and a Pydantic output schema, running the classification with logging and resumability, and — critically — evaluating construct validity against a keyword baseline and a hand-coded sample before scaling to all 13 calls.
+This exercise reproduces the measurement core of the case study in de Kok ([2025](https://doi.org/10.1287/mnsc.2023.03253)) — turning a raw earnings-call transcript into a 0/1 *non-answer* label for every question — worked through on one Tesla Q4 call. A **non-answer** is a response in which a manager signals an inability or unwillingness to provide the information asked for. Following the first three steps of de Kok's framework, the notebook parses the transcript into question–answer pairs with regular expressions, settles on a zero-shot approach and model, develops a prompt with explicit coding rules and a Pydantic output schema (reasoning before the label, expected class distribution stated), and runs the classification as a logged, resumable, concurrent loop.
 
 **Learning Outcomes**
 
 - Turn a messy Markdown transcript into a structured table of question-answer pairs with regular expressions.
+- Weigh the three ways to instruct a generative LLM — zero-shot, few-shot, and fine-tuning — and match the choice to the task.
 - Design a zero-shot classification prompt: coding rules, "what is *not*" a non-answer, chain-of-thought field ordering, and stating the expected class distribution.
+- Return the completion as a validated Pydantic object with `client.responses.parse()` instead of parsing prose.
 - Log raw prompts and completions as the primary data of the study, and build a resumable, concurrent inference loop.
-- Evaluate a minority-class classifier with precision/recall/F1 (not accuracy), and test a prompt's robustness to its own wording.
 
 Our class is based on [5-1e-1-No_Answer_in_CC-Final.ipynb](<Module%205-Generative%20LLM%20for%20Research/5-1e-1-No_Answer_in_CC-Final.ipynb>).
 
@@ -485,7 +490,7 @@ Our class is based on [5-2o-Identifying_Images.ipynb](<Module%205-Generative%20L
 
 ## 6. Machine Learning<a name="section6"></a>
 
-Machine learning has become a core empirical tool in AccFin research: tree ensembles and other flexible models now routinely outperform traditional linear benchmarks at prediction tasks such as forecasting earnings, detecting misstatements, and assessing credit risk. This module builds up from classical statistical inference to modern gradient-boosted trees, replicating recent AccFin papers along the way — a linear-regression specification, a classification task, a regression/forecasting task, and an explainability exercise that opens up what the model actually learned.
+Machine learning has become a core empirical tool in AccFin research: tree ensembles and other flexible models now routinely outperform traditional linear benchmarks at prediction tasks such as forecasting earnings, detecting misstatements, and assessing credit risk. This module builds up from classical statistical inference to modern gradient-boosted trees, replicating recent AccFin papers along the way — a linear- and logistic-regression specification, a classification task, a forecasting task, and an explainability exercise that opens up what the model actually learned.
 
 **Prerequisite reading**
 
@@ -494,7 +499,7 @@ Machine learning has become a core empirical tool in AccFin research: tree ensem
 
 ### 6.1. Statistical Testing and Regression
 
-A refresher on classical statistical inference — the toolkit that empirical AccFin research rests on, and the benchmark against which the machine-learning methods in the rest of the module are judged. Section 1 works through the three *t*-tests you will use most with `scipy.stats`; Section 2 builds one complete specification of Kim, Li, Lu and Yu (2016), using the option volatility smirk panel constructed in the Module 3 exercise, estimating it with `pyfixest`.
+A refresher on classical statistical inference — the toolkit that empirical AccFin research rests on, and the benchmark against which the machine-learning methods in the rest of the module are judged. Section 1 works through the three *t*-tests you will use most with `scipy.stats`; Section 2 builds one complete specification of Kim, Li, Lu and Yu (2016), using the option volatility smirk panel constructed in the Module 3 exercise, estimating it with `pyfixest`; Section 3 shows the parallel `pyfixest` syntax for logistic regression (`pf.feglm`) and average marginal effects.
 
 **Prerequisite reading**
 
@@ -505,18 +510,17 @@ A refresher on classical statistical inference — the toolkit that empirical Ac
 By the end of this session, you will be able to:
 
 - Run and interpret one-sample, independent-samples, and paired *t*-tests using `scipy.stats`.
-- Aggregate a very large daily database into firm-year variables efficiently, by computing sufficient statistics on the WRDS server rather than downloading raw rows.
-- Assemble an estimation sample the way a published paper does — sample filters, winsorizing continuous variables.
-- Specify and estimate a linear regression with `pyfixest` using R-style formula syntax.
+- Assemble an estimation sample the way a published paper does — dropping missing values and winsorizing continuous variables.
+- Specify and estimate a linear regression with `pyfixest` using R-style formula syntax, absorbing firm and year fixed effects through the `| fe` syntax rather than adding explicit dummies.
 - Explain why standard errors in a firm-year panel must be clustered, and estimate two-way (firm and year) clustered standard errors.
-- Absorb high-dimensional fixed effects, and explain via the Frisch-Waugh-Lovell theorem why this is equivalent to (and better than) adding a dummy per firm.
-- Assemble a publication-style regression table with `pf.etable()`.
+- Assemble a publication-style regression table with `pf.etable()`, renaming variables to a paper's notation and exporting to CSV/LaTeX.
+- Estimate a logistic regression with `pf.feglm` (`family="logit"`), and read average marginal effects with `marginaleffects` instead of raw log-odds coefficients.
 
 Our class is based on [6-1-Statistical_Testing_and_Regression-Final.ipynb](<Module%206-Machine%20Learning/6-1-Statistical_Testing_and_Regression-Final.ipynb>). Section 2 continues the Module 3 exercise [3-1e-Option_Volatility_Smirk-Final.ipynb](<Module%203-Data%20Collection/3-1e-Option_Volatility_Smirk-Final.ipynb>).
 
 ### 6.2. Classification with XGBoost: Predicting the Direction of Earnings Changes
 
-Following Chen et al. (2022), this session frames the direction of next-year earnings changes as a binary classification problem, engineers a wide set of Compustat-based predictors, and benchmarks a logistic regression against `xgboost.XGBClassifier`.
+Following Chen et al. (2022), this session frames the direction of next-year earnings changes as a binary classification problem, engineers a wide set of Compustat-based predictors, and fits and tunes an `xgboost.XGBClassifier`, comparing its ROC-AUC against the logit benchmark reported in the paper.
 
 **Learning Outcomes**
 
@@ -525,15 +529,15 @@ By the end of this session, you will be able to:
 - Frame a prediction problem (direction of earnings changes) as a binary classification task, using a drift-adjusted label.
 - Engineer a wide set of financial-statement predictors (current value, lagged value, percentage change) by auto-detecting columns rather than hand-picking a subset.
 - Explain why panel data needs a **chronological** train/validation/test split rather than a random one.
-- Fit and evaluate a `LogisticRegression` benchmark (with imputation and scaling) and an `xgboost.XGBClassifier` (NaNs and all), and compare them with ROC-AUC and ROC curves.
-- Tune an XGBoost model with a validation set and `early_stopping_rounds`.
+- Fit an `xgboost.XGBClassifier` directly on features with missing values, and tune it against a validation set with `early_stopping_rounds`.
+- Evaluate a classifier with ROC-AUC and an ROC curve, plus a confusion matrix and classification report at the 0.5 cutoff, and compare against the paper's reported numbers.
 - Read a gain-based feature-importance plot, and understand its limitations.
 
 Our class is based on [6-2-Classification-Final.ipynb](<Module%206-Machine%20Learning/6-2-Classification-Final.ipynb>).
 
 ### 6.3. Forecasting Continuous Earnings with XGBoost
 
-This session reuses 6.2's data and feature pipeline but predicts next-year *continuous* EPS — a regression task — following Chattopadhyay, Fang, and Mohanram (2025). It benchmarks a naive random-walk forecast and a regularized (Ridge) regression against an `xgboost.XGBRegressor` fit with a Huber loss.
+This session reuses 6.2's data and feature pipeline but predicts next-year *continuous* EPS — a regression task — following Chattopadhyay, Fang, and Mohanram (2025). It sets up a one-line random-walk benchmark and fits an `xgboost.XGBRegressor` with a pseudo-Huber loss objective.
 
 **Prerequisite reading**
 
@@ -543,10 +547,10 @@ This session reuses 6.2's data and feature pipeline but predicts next-year *cont
 
 By the end of this session, you will be able to:
 
-- Frame a forecasting problem as a regression task, and implement a one-line random-walk benchmark.
-- Explain why regression targets built from raw accounting data need outlier treatment (winsorizing using training-period bounds only) before a linear model can be trusted, and why tree ensembles are more forgiving.
-- Fit `xgboost.XGBRegressor` with a Huber loss objective, and tune it with early stopping.
-- Evaluate forecasts with price-scaled MAFE, RMSE, and MDAFE.
+- Frame a forecasting problem as a regression task, and set up a one-line random-walk benchmark.
+- Winsorize a regression target built from raw accounting data using training-period bounds only, and apply the same clip to the validation and test periods.
+- Fit `xgboost.XGBRegressor` with a pseudo-Huber loss objective (`reg:pseudohubererror`), and tune it against a validation set with early stopping.
+- Evaluate forecasts with price-scaled MAFE, RMSE, and MDAFE, winsorizing the scaled errors before aggregating.
 - Read an XGBoost regression feature-importance plot.
 
 Our class is based on [6-3_Earnings_Forecasting-Final.ipynb](<Module%206-Machine%20Learning/6-3_Earnings_Forecasting-Final.ipynb>).
@@ -560,7 +564,7 @@ Following Parker et al. (2025), this optional session picks up the classificatio
 - Explain what a SHAP value is and how it differs from a gain-based feature-importance score.
 - Use `shap.TreeExplainer` to compute exact SHAP values for an XGBoost model.
 - Read SHAP bar, beeswarm, dependence (scatter), and waterfall plots to understand which features drive predictions, in which direction, and why for an individual firm-year.
-- Critically interpret machine-learning output as an attention-directing tool rather than evidence of causation.
+- Decompose a single prediction as f(x) − E[f(x)] = Σ φⱼ, one contribution per feature, on the model's log-odds scale.
 
 Our class is based on [6-4o-Explainable_AI.ipynb](<Module%206-Machine%20Learning/6-4o-Explainable_AI.ipynb>).
 

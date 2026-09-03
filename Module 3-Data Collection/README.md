@@ -54,10 +54,6 @@ Our class is based on [3-1e-Option_Volatility_Smirk-Final.ipynb](3-1e-Option_Vol
 
 In modern AccFin research, valuable data is often "locked" inside company websites, regulatory documents, and other websites. While numerical datasets (CRSP, Compustat, WRDS) are well-structured and easy to query, textual and legal disclosures frequently require researchers to gather data directly from the web. This session introduces web scraping in Python as a tool to collect, clean, and analyze information from online sources. Working through a single web page, you will learn the core `requests` + `BeautifulSoup` workflow — fetching HTML, locating elements with `find()`/`find_all()` and CSS selectors, extracting text and tag attributes, and navigating the parse tree — together with the responsibilities (site terms, rate limits, ethical research practices) that come with automated data collection. The hands-on exercise in 3.2e then applies these skills to a real dataset.
 
-**Prerequisite reading**
-
-- Karpoff, J. M., Koester, A., Lee, D. S., & Martin, G. S. (2017). Proxies and databases in financial misconduct research. *The Accounting Review* 92(6): 129-163. ([link](https://doi.org/10.2308/accr-51766))
-
 **Learning Outcomes**
 
 By the end of this session, you will be able to:

@@ -40,6 +40,7 @@ This session applies the standard "bag-of-words" approach: scoring disclosure te
 
 - Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10‐Ks. *The Journal of Finance* 66(1): 35-65. ([link](https://doi.org/10.1111/j.1540-6261.2010.01625.x))
 - Merkley, K. J. (2014). Narrative disclosure and earnings performance: Evidence from R&D disclosures. *The Accounting Review* 89(2): 725-757. ([link](https://doi.org/10.2308/accr-50649))
+- Loughran, T., & McDonald, B. (2016). Textual analysis in accounting and finance: A survey.  *Journal of Accounting Research*, 54(4): 1187-1230. ([link](https://doi.org/10.1111/1475-679X.12123))
 
 **Learning Outcomes**
 
@@ -59,7 +60,7 @@ Dictionary methods only check whether specific words are present. This session b
 **Prerequisite reading**
 
 - Henry, E., & Leone, A. J. (2016). Measuring qualitative information in capital markets research: Comparison of alternative methodologies to measure disclosure tone. *The Accounting Review*,  91(1): 153-178. ([link](https://doi.org/10.2308/accr-51161))
-- Bochkay, K., Brown, S. V., Leone, A. J., & Tucker, J. W. (2023). Textual analysis in accounting: What's next?.  *Contemporary accounting research*, 40(2): 765-805. ([link](https://doi.org/10.1111/1911-3846.12825))
+- Bochkay, K., Brown, S. V., Leone, A. J., & Tucker, J. W. (2023). Textual analysis in accounting: What's next?.  *Contemporary Accounting Research*, 40(2): 765-805. ([link](https://doi.org/10.1111/1911-3846.12825))
 
 **Learning Outcomes**
 
@@ -98,6 +99,8 @@ An optional, more advanced class that fine-tunes the *pretrained* FinBERT on a s
 **Optional reading**
 
 - Malo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology* 65(4): 782-796. ([link](https://doi.org/10.1002/asi.23062))
+- Acikalin, U. U., Caskurlu, T., Hoberg, G., & Phillips, G. M. (2026). Intellectual property protection lost and competition: An examination using large language models. *Journal of Financial Economics* 182: 104306. ([link](https://doi.org/10.1016/j.jfineco.2026.104306))
+- Harford, J., He, Q., & Qiu, B. (2026). Firm-Level Labor Shortage Exposure. *The Review of Financial Studies*, hhag049. ([link](https://doi.org/10.1093/rfs/hhag049))
 
 **Learning Outcomes**
 
